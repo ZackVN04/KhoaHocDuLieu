@@ -43,21 +43,21 @@ def extract_keywords(text: str, top_n=10):
     # =====================
     for phrase, freq in bigram_counter.items():
 
-        # 🔥 bỏ bigram rác
+        #  bỏ bigram rác
         if freq < 2:
             continue
 
         words = phrase.split()
         clean_words = [w.replace("_", " ") for w in words]
 
-        # ❌ chứa stopwords hoặc từ rác
+        #  chứa stopwords hoặc từ rác
         if any(
             w in BAD_WORDS or w in STOPWORDS or len(w) < 3
             for w in clean_words
         ):
             continue
 
-        # ❌ cụm không có nghĩa (toàn từ ngắn)
+        #  cụm không có nghĩa (toàn từ ngắn)
         if all(len(w) <= 3 for w in clean_words):
             continue
 

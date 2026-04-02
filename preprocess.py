@@ -26,7 +26,7 @@ def remove_stopwords(tokens: list) -> list:
     for token in tokens:
         clean_token = token.replace("_", " ")
 
-        # 🔥 FIX: lọc stopwords đúng + bỏ từ ngắn
+        # lọc stopwords đúng + bỏ từ ngắn
         if clean_token not in STOPWORDS and len(clean_token) > 2:
             filtered_tokens.append(token)
 

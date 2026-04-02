@@ -1,5 +1,8 @@
 # stopwords.py
 
+# Danh sách stopwords tiếng Việt tối ưu cho job description
+# → loại bỏ từ không mang ý nghĩa keyword
+
 STOPWORDS = {
 
     # =====================
@@ -37,14 +40,14 @@ STOPWORDS = {
     "người", "bộ", "phận",
 
     # =====================
-    # 🔥 7. FIX QUAN TRỌNG (UNIGRAM)
+    # 🔥 7. FIX UNIGRAM (QUAN TRỌNG)
     # =====================
     "liên", "quan", "phối", "hợp",
     "lập", "việc", "ưu", "tiên",
     "không", "thứ",
 
     # =====================
-    # 🔥 8. FIX QUAN TRỌNG (BIGRAM)
+    # 🔥 8. FIX BIGRAM
     # =====================
     "yêu cầu",
     "công ty",
@@ -53,5 +56,18 @@ STOPWORDS = {
     "thực hiện",
     "liên quan",
     "phối hợp",
-    "ưu tiên ứng viên"
+    "ưu tiên ứng viên",
+
+    # =====================
+    # 🔥 9. FIX THỰC TẾ DATA (CỰC QUAN TRỌNG)
+    # =====================
+    "tỉnh", "thành", "phố",
+    "khu", "vực",
+    "địa", "chỉ",
+
+    # =====================
+    # 🔥 10. TOKEN LỖI SỐ / VIẾT TẮT
+    # =====================
+    "ms", "cv", "nv", "vp",
+    "h30", "t2", "t3", "t4", "t5", "t6", "t7"
 }

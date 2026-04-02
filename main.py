@@ -1,9 +1,10 @@
-import json  # dùng để lưu dữ liệu ra file JSON
-from concurrent.futures import ThreadPoolExecutor, as_completed  
-# ThreadPoolExecutor: chạy đa luồng → crawl nhanh hơn
+# main.py (CRAWLER)
 
-from crawler import crawl_job_links  # lấy danh sách link job
-from scraper import scrape_job_detail  # lấy chi tiết từng job
+import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+from crawler import crawl_job_links
+from scraper import scrape_job_detail
 
 
 # =========================
@@ -11,21 +12,23 @@ from scraper import scrape_job_detail  # lấy chi tiết từng job
 # =========================
 def is_valid_job(data):
     """
-    Kiểm tra job có hợp lệ hay không
-    → tránh dữ liệu rác
+    Kiểm tra dữ liệu job hợp lệ
     """
 
-    # nếu data rỗng → bỏ
+    #  data None hoặc rỗng
     if not data:
         return False
 
-    # nếu không có tiêu đề → bỏ
-    if not data["job_title"]:
+    #  tránh lỗi KeyError
+    job_title = data.get("job_title", "")
+    company = data.get("company", "")
+
+    #  không có tiêu đề → bỏ
+    if not job_title:
         return False
 
-    # loại bài viết không phải job thật
-    # ví dụ: "bài viết chia sẻ..."
-    if data["company"] and "bài viết" in data["company"].lower():
+    #  loại bài viết rác
+    if company and "bài viết" in company.lower():
         return False
 
     return True
@@ -35,57 +38,69 @@ def is_valid_job(data):
 # MAIN CRAWLER
 # =========================
 def main():
-    print("🚀 START CRAWLING...\n")
+    print(" START CRAWLING...\n")
 
     # =====================
     # B1: LẤY LINK JOB
     # =====================
     job_links = crawl_job_links(max_pages=20)
 
-    print(f"\n📌 Tổng link thu được: {len(job_links)}")
+    print(f" Tổng link thu được: {len(job_links)}\n")
 
-    jobs = []  # danh sách job sau khi scrape
+    jobs = []
 
     # =====================
-    # B2: SCRAPE SONG SONG (MULTI-THREAD)
+    # B2: SCRAPE SONG SONG
     # =====================
-    # max_workers=10 → chạy 10 luồng cùng lúc
     with ThreadPoolExecutor(max_workers=10) as executor:
 
-        # tạo danh sách task
-        futures = [
-            executor.submit(scrape_job_detail, link)
+        futures = {
+            executor.submit(scrape_job_detail, link): link
             for link in job_links
-        ]
+        }
 
-        # xử lý từng kết quả khi hoàn thành
         for i, future in enumerate(as_completed(futures), 1):
-            try:
-                data = future.result()  # lấy kết quả scrape
+            link = futures[future]
 
-                # kiểm tra dữ liệu hợp lệ
+            try:
+                data = future.result()
+
                 if is_valid_job(data):
                     jobs.append(data)
 
                 print(f"[OK] {i}/{len(job_links)}")
 
             except Exception as e:
-                # nếu lỗi → in ra nhưng không crash chương trình
-                print("[ERR]", e)
+                print(f"[ERR] {link} → {e}")
 
     # =====================
-    # B3: LƯU FILE JSON
+    # B3: LỌC TRÙNG (OPTIONAL)
     # =====================
-    # ⚠️ lưu vào thư mục data/
+    # loại job trùng theo URL
+    unique_jobs = []
+    seen_urls = set()
+
+    for job in jobs:
+        url = job.get("url")
+
+        if url and url not in seen_urls:
+            unique_jobs.append(job)
+            seen_urls.add(url)
+
+    print(f"\n Sau khi lọc trùng: {len(unique_jobs)} jobs")
+
+    # =====================
+    # B4: LƯU JSON
+    # =====================
     with open("data/jobs.json", "w", encoding="utf-8") as f:
         json.dump(
-            jobs,
+            unique_jobs,
             f,
-            ensure_ascii=False,  # giữ tiếng Việt
-            indent=2             # format đẹp
+            ensure_ascii=False,
+            indent=2
         )
 
-    print(f"\n✅ DONE! Lưu {len(jobs)} jobs vào data/jobs.json")
+    print(f"\n DONE! Lưu {len(unique_jobs)} jobs vào data/jobs.json")
 
 
 # =========================
