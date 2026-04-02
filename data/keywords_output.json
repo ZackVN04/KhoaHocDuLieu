@@ -1,7 +1,8 @@
 [
   {
-    "job_id": "job-1",
+    "job_id": "job-001",
     "job_title": "NHÂN VIÊN BẢO TRÌ ĐIỆN TẠI LONG AN",
+    "company": "Cong Ty Co Phan Bmc Viet Nam",
     "keywords": [
       {
         "keyword": "thiết bị",
@@ -46,8 +47,9 @@
     ]
   },
   {
-    "job_id": "job-2",
+    "job_id": "job-002",
     "job_title": "Thợ Mộc",
+    "company": "Cong Ty Tnhh Mtv Dong Phat",
     "keywords": [
       {
         "keyword": "mộc",
@@ -92,8 +94,9 @@
     ]
   },
   {
-    "job_id": "job-3",
+    "job_id": "job-003",
     "job_title": "TRƯỞNG PHÒNG KẾ HOẠCH SẢN XUẤT",
+    "company": "Cong Ty Tnhh Dego Holding",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -138,8 +141,9 @@
     ]
   },
   {
-    "job_id": "job-4",
+    "job_id": "job-004",
     "job_title": "NHÂN VIÊN KẾ TOÁN THUẾ_LÀM VIỆC TẠI CẦN THƠ",
+    "company": "Cong Ty Co Phan Bmc Viet Nam",
     "keywords": [
       {
         "keyword": "chi phí",
@@ -184,8 +188,9 @@
     ]
   },
   {
-    "job_id": "job-5",
+    "job_id": "job-005",
     "job_title": "Nhân viên cơ điện",
+    "company": "Cong Ty Tnhh Binh Minh Capital",
     "keywords": [
       {
         "keyword": "hệ thống",
@@ -230,8 +235,9 @@
     ]
   },
   {
-    "job_id": "job-6",
+    "job_id": "job-006",
     "job_title": "KỸ SƯ QS DỰ ÁN",
+    "company": "Cong Ty Tnhh Xay Dung Va Dich Vu Thuong Mai Hieu Thang",
     "keywords": [
       {
         "keyword": "thanh toán",
@@ -276,8 +282,9 @@
     ]
   },
   {
-    "job_id": "job-7",
+    "job_id": "job-007",
     "job_title": "Kế toán",
+    "company": "Cong Ty Tnhh Hai Thanh",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -322,8 +329,9 @@
     ]
   },
   {
-    "job_id": "job-8",
+    "job_id": "job-008",
     "job_title": "Nhân viên Tư vấn- Triển Khai Phần Mềm",
+    "company": "Cong Ty Tnhh Cong Nghe Phan Mem Nasani Chi Nhanh Tai Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -368,8 +376,9 @@
     ]
   },
   {
-    "job_id": "job-9",
+    "job_id": "job-009",
     "job_title": "Nhân viên bếp tiệc",
+    "company": "Cong Ty Tnhh Mtv Khach San Sai Gon Can Tho Khach San Charmant Suites",
     "keywords": [
       {
         "keyword": "món",
@@ -414,8 +423,9 @@
     ]
   },
   {
-    "job_id": "job-10",
+    "job_id": "job-010",
     "job_title": "ĐIỀU DƯỠNG VIÊN",
+    "company": "Cong Ty Tnhh Trung Son Clinic",
     "keywords": [
       {
         "keyword": "người bệnh",
@@ -460,8 +470,9 @@
     ]
   },
   {
-    "job_id": "job-11",
+    "job_id": "job-011",
     "job_title": "NHÂN VIÊN KỸ THUẬT",
+    "company": "Cong Ty Tnhh Thuong Mai Cafinex Coffee",
     "keywords": [
       {
         "keyword": "thiết bị",
@@ -506,8 +517,9 @@
     ]
   },
   {
-    "job_id": "job-12",
+    "job_id": "job-012",
     "job_title": "Nhân viên Sale Thị Trường",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Cuu Long Xanh",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -552,8 +564,9 @@
     ]
   },
   {
-    "job_id": "job-13",
+    "job_id": "job-013",
     "job_title": "NAM LAO ĐỘNG PHỔ THÔNG",
+    "company": "Cong Ty Co Phan Thoi Trang Eros Viet Nam",
     "keywords": [
       {
         "keyword": "máy công nghiệp",
@@ -594,8 +607,9 @@
     ]
   },
   {
-    "job_id": "job-14",
+    "job_id": "job-014",
     "job_title": "Thủ kho",
+    "company": "Cong Ty Co Phan Nam Tien",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -640,8 +654,9 @@
     ]
   },
   {
-    "job_id": "job-15",
+    "job_id": "job-015",
     "job_title": "GIÁM ĐỐC DỊCH VỤ (XE Ô TÔ VINFAST)",
+    "company": "Vinfast Quoc Viet Can Tho",
     "keywords": [
       {
         "keyword": "dịch vụ",
@@ -686,8 +701,9 @@
     ]
   },
   {
-    "job_id": "job-16",
+    "job_id": "job-016",
     "job_title": "MOBIFONE CẦN THƠ tuyển Nhân viên kinh doanh",
+    "company": "Cong Ty Co Phan Dich Vu Gia Tang Mobifone",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -732,8 +748,9 @@
     ]
   },
   {
-    "job_id": "job-17",
+    "job_id": "job-017",
     "job_title": "NHÂN VIÊN BẢO TRÌ THIẾT BỊ Y TẾ",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "thiết bị",
@@ -778,8 +795,9 @@
     ]
   },
   {
-    "job_id": "job-18",
+    "job_id": "job-018",
     "job_title": "GIÁM ĐỐC NHÀ MÁY HẬU GIANG",
+    "company": "Cty Tnhh Mtv Nhua Sinh Hoc Hau Giang",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -824,8 +842,9 @@
     ]
   },
   {
-    "job_id": "job-19",
+    "job_id": "job-019",
     "job_title": "Nhân viên học việc lắp phụ kiện điện tử xe ô tô",
+    "company": "Cong Ty Tnhh Mtv Hoa Long",
     "keywords": [
       {
         "keyword": "ô tô",
@@ -870,8 +889,9 @@
     ]
   },
   {
-    "job_id": "job-20",
+    "job_id": "job-020",
     "job_title": "Nhân viên Hỗ trợ tiêu thụ (Officer - Sales Admin)",
+    "company": "Cong Ty Co Phan Thuong Mai Bia Sai Gon Song Hau",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -916,8 +936,9 @@
     ]
   },
   {
-    "job_id": "job-21",
+    "job_id": "job-021",
     "job_title": "Nhân viên Phòng thí nghiệm",
+    "company": "Cong Ty Co Phan Chung Nhan Va Giam Dinh Mien Dong Viet Nam",
     "keywords": [
       {
         "keyword": "kiểm nghiệm",
@@ -962,8 +983,9 @@
     ]
   },
   {
-    "job_id": "job-22",
+    "job_id": "job-022",
     "job_title": "kỹ thuật viên",
+    "company": "May Xua Spa",
     "keywords": [
       {
         "keyword": "đào tạo",
@@ -1008,8 +1030,9 @@
     ]
   },
   {
-    "job_id": "job-23",
+    "job_id": "job-023",
     "job_title": "NHÂN VIÊN CHẤT LƯỢNG (THUỶ SẢN)",
+    "company": "Cong Ty Tnhh Emdees Foods",
     "keywords": [
       {
         "keyword": "hồ sơ",
@@ -1054,8 +1077,9 @@
     ]
   },
   {
-    "job_id": "job-24",
+    "job_id": "job-024",
     "job_title": "Giám Sát Hành Chính Nhân Sự",
+    "company": "Cong Ty Tnhh Mtv The Fruit Republic Can Tho",
     "keywords": [
       {
         "keyword": "đào tạo",
@@ -1100,8 +1124,9 @@
     ]
   },
   {
-    "job_id": "job-25",
+    "job_id": "job-025",
     "job_title": "Nhân viên lập trình Backend",
+    "company": "Cong Ty Tnhh Cong Nghe Thiet Bi Giao Duc Song Phuong",
     "keywords": [
       {
         "keyword": "hệ thống",
@@ -1146,8 +1171,9 @@
     ]
   },
   {
-    "job_id": "job-26",
+    "job_id": "job-026",
     "job_title": "Nhân Viên Kinh Doanh Nông Nghiệp",
+    "company": "Cong Ty Tnhh Nong Nghiep Tien Thanh",
     "keywords": [
       {
         "keyword": "bán",
@@ -1192,8 +1218,9 @@
     ]
   },
   {
-    "job_id": "job-27",
+    "job_id": "job-027",
     "job_title": "Nhân Viên Phát triển khách hàng - Làm Việc Tại Ngã Bảy",
+    "company": "Benh Vien Mat Sai Gon Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -1238,8 +1265,9 @@
     ]
   },
   {
-    "job_id": "job-28",
+    "job_id": "job-028",
     "job_title": "THƯ KÝ Y KHOA (KHOA CHẨN ĐOÁN HÌNH ẢNH)",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "bệnh viện",
@@ -1284,8 +1312,9 @@
     ]
   },
   {
-    "job_id": "job-29",
+    "job_id": "job-029",
     "job_title": "Nhân viên Sale/Telesale",
+    "company": "Cong Ty Co Phan San Xuat Thuong Mai Nem Viet Han",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -1330,8 +1359,9 @@
     ]
   },
   {
-    "job_id": "job-30",
+    "job_id": "job-030",
     "job_title": "Nhân viên Thống kê kho",
+    "company": "Bio Fruit Coop",
     "keywords": [
       {
         "keyword": "hàng",
@@ -1376,8 +1406,9 @@
     ]
   },
   {
-    "job_id": "job-31",
+    "job_id": "job-031",
     "job_title": "NHÂN VIÊN MARKETING",
+    "company": "Cong Ty Tnhh G A Thien Long Phat",
     "keywords": [
       {
         "keyword": "vừa",
@@ -1422,8 +1453,9 @@
     ]
   },
   {
-    "job_id": "job-32",
+    "job_id": "job-032",
     "job_title": "CAMPAIGN MARKETING",
+    "company": "Cong Ty Tnhh Trung Son Alpha",
     "keywords": [
       {
         "keyword": "chiến dịch",
@@ -1468,8 +1500,9 @@
     ]
   },
   {
-    "job_id": "job-33",
+    "job_id": "job-033",
     "job_title": "Nhân Viên Tư Vấn Tài Chính Làm Việc HCM, Cần Thơ - Thu Nhập Lên Đến 60 Triệu - Múi Giờ Mỹ",
+    "company": "Dream Talent",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -1514,8 +1547,9 @@
     ]
   },
   {
-    "job_id": "job-34",
+    "job_id": "job-034",
     "job_title": "NHÂN VIÊN SET UP MÁY",
+    "company": "Cong Ty Co Phan Tkmb",
     "keywords": [
       {
         "keyword": "túi",
@@ -1560,8 +1594,9 @@
     ]
   },
   {
-    "job_id": "job-35",
+    "job_id": "job-035",
     "job_title": "Quản lý điểm du lịch (Bảo tàng Dừa sáp Trà Vinh)",
+    "company": "Cong Ty Tnhh Che Bien Dua Sap Cau Ke Vicosap",
     "keywords": [
       {
         "keyword": "du lịch",
@@ -1606,8 +1641,9 @@
     ]
   },
   {
-    "job_id": "job-36",
+    "job_id": "job-036",
     "job_title": "CONTENT MARKETING MẢNG THẨM MỸ & LÀM ĐẸP - LÀM VIỆC TẠI TP.HCM",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Ph Aesthetics",
     "keywords": [
       {
         "keyword": "nội dung",
@@ -1652,8 +1688,9 @@
     ]
   },
   {
-    "job_id": "job-37",
+    "job_id": "job-037",
     "job_title": "Kế toán xuất nhập khẩu trái cây",
+    "company": "Cong Ty Tnhh Vat Tu Xay Dung Hoang Minh",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -1698,8 +1735,9 @@
     ]
   },
   {
-    "job_id": "job-38",
+    "job_id": "job-038",
     "job_title": "Đại Diện Kinh Doanh Khu Vực - Làm Remote/Part Time",
+    "company": "Cong Ty Tnhh Thuong Mai An Ying",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -1744,8 +1782,9 @@
     ]
   },
   {
-    "job_id": "job-39",
+    "job_id": "job-039",
     "job_title": "Giám đốc kinh doanh",
+    "company": "Cong Ty Tnhh Kho La Nh Vi Nh Long",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -1790,8 +1829,9 @@
     ]
   },
   {
-    "job_id": "job-40",
+    "job_id": "job-040",
     "job_title": "Buồng Phòng",
+    "company": "Cong Ty Tnhh Dai Danh",
     "keywords": [
       {
         "keyword": "phòng",
@@ -1836,8 +1876,9 @@
     ]
   },
   {
-    "job_id": "job-41",
+    "job_id": "job-041",
     "job_title": "Kỹ Sư Xây Dựng",
+    "company": "Cong Ty Tnhh Mot Thanh Vien F A L",
     "keywords": [
       {
         "keyword": "công trình",
@@ -1882,8 +1923,9 @@
     ]
   },
   {
-    "job_id": "job-42",
+    "job_id": "job-042",
     "job_title": "Nhân viên Kinh doanh (Có kinh nghiệm)",
+    "company": "Cong Ty Co Phan Xhome Can Tho",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -1928,8 +1970,9 @@
     ]
   },
   {
-    "job_id": "job-43",
+    "job_id": "job-043",
     "job_title": "Chuyên Viên Sale (Tư Vấn - Báo Giá Xây Dựng Công Trình Nhà)",
+    "company": "Cong Ty Tnhh Tu Van Xay Dung Gia Phat",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -1974,8 +2017,9 @@
     ]
   },
   {
-    "job_id": "job-44",
+    "job_id": "job-044",
     "job_title": "Trưởng Nhóm Bán Hàng (Ngành Ô Tô)",
+    "company": "Cong Ty Tnhh Kim Long Motor Can Tho",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -2020,8 +2064,9 @@
     ]
   },
   {
-    "job_id": "job-45",
+    "job_id": "job-045",
     "job_title": "tài xế",
+    "company": "Cong Ty Co Phan Tm Dv Van Tai Mekong",
     "keywords": [
       {
         "keyword": "tài xế",
@@ -2066,8 +2111,9 @@
     ]
   },
   {
-    "job_id": "job-46",
+    "job_id": "job-046",
     "job_title": "Công Nhân May",
+    "company": "Cong Ty Tnhh Mildy International",
     "keywords": [
       {
         "keyword": "tăng",
@@ -2112,8 +2158,9 @@
     ]
   },
   {
-    "job_id": "job-47",
+    "job_id": "job-047",
     "job_title": "KẾ TOÁN TỔNG HỢP",
+    "company": "Cong Ty Tnhh Nong Nghiep Thailand",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -2158,8 +2205,9 @@
     ]
   },
   {
-    "job_id": "job-48",
+    "job_id": "job-048",
     "job_title": "Chuyên viên Marketing Cấp Cao",
+    "company": "Truong Cao Dang Tay Do",
     "keywords": [
       {
         "keyword": "trường",
@@ -2204,8 +2252,9 @@
     ]
   },
   {
-    "job_id": "job-49",
+    "job_id": "job-049",
     "job_title": "Nhân viên Socail Media",
+    "company": "Cty Tnhh Xay Dung Nha Dep Phu An",
     "keywords": [
       {
         "keyword": "xã hội",
@@ -2250,8 +2299,9 @@
     ]
   },
   {
-    "job_id": "job-50",
+    "job_id": "job-050",
     "job_title": "Nhân viên chăm sóc, Nhân Viên Tư Vấn",
+    "company": "Green Happy Life",
     "keywords": [
       {
         "keyword": "luôn",
@@ -2296,8 +2346,9 @@
     ]
   },
   {
-    "job_id": "job-51",
+    "job_id": "job-051",
     "job_title": "Kiến Trúc Sư",
+    "company": "Cong Ty Tnhh Kien Truc Xay Dung Kien Tai",
     "keywords": [
       {
         "keyword": "thành thạo",
@@ -2342,8 +2393,9 @@
     ]
   },
   {
-    "job_id": "job-52",
+    "job_id": "job-052",
     "job_title": "Công nhân khai thác",
+    "company": "Hop Tac Xa Tieu Thu Cong Nghiep Dinh Quan",
     "keywords": [
       {
         "keyword": "công nhân khai thác",
@@ -2388,8 +2440,9 @@
     ]
   },
   {
-    "job_id": "job-53",
+    "job_id": "job-053",
     "job_title": "Giám Sát Kinh doanh tại Tiền Giang, Long An, Đồng Nai, Bình Dương",
+    "company": "Cong Ty Cp Dt Tm Sx Mekong Export",
     "keywords": [
       {
         "keyword": "thị trường",
@@ -2434,8 +2487,9 @@
     ]
   },
   {
-    "job_id": "job-54",
+    "job_id": "job-054",
     "job_title": "Kế Toán Công Nợ - Thuế",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "thuế",
@@ -2480,8 +2534,9 @@
     ]
   },
   {
-    "job_id": "job-55",
+    "job_id": "job-055",
     "job_title": "TUYỂN THỰC TẬP SINH – Sản xuất Video Phim Hoạt Hình",
+    "company": "Cong Ty Tnhh He Thong Tu Dong Hoa Va Giai Phap Cong Nghe Bgo",
     "keywords": [
       {
         "keyword": "trẻ em",
@@ -2526,8 +2581,9 @@
     ]
   },
   {
-    "job_id": "job-56",
+    "job_id": "job-056",
     "job_title": "TRƯỞNG BAN",
+    "company": "Tong Cty Bao Viet Nhan Tho Trung Tam Kinh Doanh Tay Do 1",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -2572,8 +2628,9 @@
     ]
   },
   {
-    "job_id": "job-57",
+    "job_id": "job-057",
     "job_title": "Nhân viên CNC",
+    "company": "Cong Ty Cp Khuon Chinh Xac Minh Dat",
     "keywords": [
       {
         "keyword": "gia công",
@@ -2618,8 +2675,9 @@
     ]
   },
   {
-    "job_id": "job-58",
+    "job_id": "job-058",
     "job_title": "Project Coordinator (IP Project)",
+    "company": "Cong Ty Co Phan Vsip Can Tho",
     "keywords": [
       {
         "keyword": "management",
@@ -2664,8 +2722,9 @@
     ]
   },
   {
-    "job_id": "job-59",
+    "job_id": "job-059",
     "job_title": "KẾ TOÁN GIÁ THÀNH",
+    "company": "Cong Ty Tnhh Nong Nghiep Thailand",
     "keywords": [
       {
         "keyword": "giá thành",
@@ -2710,8 +2769,9 @@
     ]
   },
   {
-    "job_id": "job-60",
+    "job_id": "job-060",
     "job_title": "Le Fruit - CÔNG NHÂN SẢN XUẤT (SL: 20)",
+    "company": "Cong Ty Co Phan Vuon Trai Cuu Long Les Vergers Du Mekong",
     "keywords": [
       {
         "keyword": "cà phê",
@@ -2756,8 +2816,9 @@
     ]
   },
   {
-    "job_id": "job-61",
+    "job_id": "job-061",
     "job_title": "NHÂN VIÊN BÁN HÀNG",
+    "company": "Cong Ty Tnhh Nong Nghiep Thong Minh Hanausa",
     "keywords": [
       {
         "keyword": "hàng",
@@ -2802,8 +2863,9 @@
     ]
   },
   {
-    "job_id": "job-62",
+    "job_id": "job-062",
     "job_title": "NHÂN VIÊN CƠ ĐIỆN",
+    "company": "Cong Ty Co Phan Bj T",
     "keywords": [
       {
         "keyword": "hệ thống điện",
@@ -2848,8 +2910,9 @@
     ]
   },
   {
-    "job_id": "job-63",
+    "job_id": "job-063",
     "job_title": "Nhân viên kế toán tổng hợp",
+    "company": "Cong Ty Tnhh Giai Phap Truyen Thong At Media",
     "keywords": [
       {
         "keyword": "tài chính",
@@ -2894,8 +2957,9 @@
     ]
   },
   {
-    "job_id": "job-64",
+    "job_id": "job-064",
     "job_title": "Phục Vụ Nhà Hàng",
+    "company": "Cong Ty Tnhh Dai Danh",
     "keywords": [
       {
         "keyword": "khách",
@@ -2940,8 +3004,9 @@
     ]
   },
   {
-    "job_id": "job-65",
+    "job_id": "job-065",
     "job_title": "ĐẠI DIỆN KINH DOANH (KHU VỰC CÀ MAU, BẠC LIÊU, KIÊN GIANG)",
+    "company": "Cong Ty Tnhh Mtv Tu Van Xay Dung Vinh Linh",
     "keywords": [
       {
         "keyword": "bán",
@@ -2986,8 +3051,9 @@
     ]
   },
   {
-    "job_id": "job-66",
+    "job_id": "job-066",
     "job_title": "NHÂN VIÊN TƯ VẤN BÁN HÀNG QUA ĐIỆN THOẠI TẠI CẦN THƠ",
+    "company": "Cong Ty Co Phan Bmc Viet Nam",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -3032,8 +3098,9 @@
     ]
   },
   {
-    "job_id": "job-67",
+    "job_id": "job-067",
     "job_title": "Nhân viên Nghiệp vụ Du học (Đài/Hàn/Nhật)",
+    "company": "Cong Ty Tnhh Nw",
     "keywords": [
       {
         "keyword": "du học",
@@ -3078,8 +3145,9 @@
     ]
   },
   {
-    "job_id": "job-68",
+    "job_id": "job-068",
     "job_title": "TELESALE - bán hàng vlxd - thiết bị vệ sinh - tại văn phòng",
+    "company": "Vlxd Hue Loc",
     "keywords": [
       {
         "keyword": "gạch men thiết bị",
@@ -3124,8 +3192,9 @@
     ]
   },
   {
-    "job_id": "job-69",
+    "job_id": "job-069",
     "job_title": "Nhân viên Hành chính Nhân sự",
+    "company": "Cong Ty Tnhh Tien Bo",
     "keywords": [
       {
         "keyword": "hành chính",
@@ -3170,8 +3239,9 @@
     ]
   },
   {
-    "job_id": "job-70",
+    "job_id": "job-070",
     "job_title": "Trợ lý, Trưởng nhóm Bảo trì",
+    "company": "Cty Tnhh Redpower Vietnam",
     "keywords": [
       {
         "keyword": "kỹ thuật",
@@ -3216,8 +3286,9 @@
     ]
   },
   {
-    "job_id": "job-71",
+    "job_id": "job-071",
     "job_title": "Thợ cơ khí cắt gọt",
+    "company": "Cong Ty Tnhh Mtv Co Khi Trong Huu Thanh",
     "keywords": [
       {
         "keyword": "đứng",
@@ -3258,8 +3329,9 @@
     ]
   },
   {
-    "job_id": "job-72",
+    "job_id": "job-072",
     "job_title": "Đội Trưởng Quản Lý Công Trình Xây Lắp Viễn Thông",
+    "company": "Cong Ty Co Phan Xay Lap Va Dich Vu Hung Hung Dat",
     "keywords": [
       {
         "keyword": "công trình",
@@ -3304,8 +3376,9 @@
     ]
   },
   {
-    "job_id": "job-73",
+    "job_id": "job-073",
     "job_title": "Nhân Viên Vệ Sinh Nhà Xưởng",
+    "company": "Cong Ty Tnhh Mot Thanh Vien Hung Phuc",
     "keywords": [
       {
         "keyword": "vệ sinh",
@@ -3338,8 +3411,9 @@
     ]
   },
   {
-    "job_id": "job-74",
+    "job_id": "job-074",
     "job_title": "TRỢ LÝ TỔNG GIÁM ĐỐC (PHỤ TRÁCH KẾ TOÁN, NGÂN HÀNG)",
+    "company": "Cong Ty Co Phan Kien Truc Nhip Dieu Xanh",
     "keywords": [
       {
         "keyword": "xây dựng",
@@ -3384,8 +3458,9 @@
     ]
   },
   {
-    "job_id": "job-75",
+    "job_id": "job-075",
     "job_title": "Quản Lý Chi Nhánh",
+    "company": "Cong Ty Co Phan Jemmia",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -3430,8 +3505,9 @@
     ]
   },
   {
-    "job_id": "job-76",
+    "job_id": "job-076",
     "job_title": "Nhân viên Kinh doanh - Tư vấn giải pháp Kế toán MISA",
+    "company": "Van Phong Dai Dien Cong Ty Co Phan Misa Tai Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -3476,8 +3552,9 @@
     ]
   },
   {
-    "job_id": "job-77",
+    "job_id": "job-077",
     "job_title": "Nhân viên KẾ TOÁN KIÊM HCNS",
+    "company": "Cong Ty Cp Cong Nghe Omfarm",
     "keywords": [
       {
         "keyword": "thuế",
@@ -3522,8 +3599,9 @@
     ]
   },
   {
-    "job_id": "job-78",
+    "job_id": "job-078",
     "job_title": "Cần tuyển lơ xe giao hàng",
+    "company": "Cong Ty Tnhh Ngo Phong",
     "keywords": [
       {
         "keyword": "hàng",
@@ -3568,8 +3646,9 @@
     ]
   },
   {
-    "job_id": "job-79",
+    "job_id": "job-079",
     "job_title": "Nhân viên xử lý hồ sơ Visa và đi sự kiện",
+    "company": "Cong Ty Tnhh Dao Tao Goscholar",
     "keywords": [
       {
         "keyword": "hồ sơ",
@@ -3614,8 +3693,9 @@
     ]
   },
   {
-    "job_id": "job-80",
+    "job_id": "job-080",
     "job_title": "Nhân viên Marketing/Kỹ thuật Làm việc tại Ô Môn",
+    "company": "Cong Ty Tnhh Savicom",
     "keywords": [
       {
         "keyword": "video",
@@ -3660,8 +3740,9 @@
     ]
   },
   {
-    "job_id": "job-81",
+    "job_id": "job-081",
     "job_title": "Phục Vụ",
+    "company": "Cong Ty Trach Nhiem Huu Han Shk",
     "keywords": [
       {
         "keyword": "khách",
@@ -3706,8 +3787,9 @@
     ]
   },
   {
-    "job_id": "job-82",
+    "job_id": "job-082",
     "job_title": "PHỞ Z586 TUYỂN DỤNG NHÂN VIÊN PHỤC VỤ & PHỤ BẾP - THU NHẬP HẤP DẪN",
+    "company": "Pho Z586",
     "keywords": [
       {
         "keyword": "mô tả",
@@ -3736,8 +3818,9 @@
     ]
   },
   {
-    "job_id": "job-83",
+    "job_id": "job-083",
     "job_title": "Tài Xế D hoặc E khu vực Cần Thơ - HCM (chạy chầu ưu tiên)",
+    "company": "Cong Ty Tnhh Dang Cap Dong Bang Song Cuu Long",
     "keywords": [
       {
         "keyword": "lái xe",
@@ -3782,8 +3865,9 @@
     ]
   },
   {
-    "job_id": "job-84",
+    "job_id": "job-084",
     "job_title": "Nhân Viên Kế Toán Nội Bộ",
+    "company": "Cong Ty Tnhh Dich Thuat Visa Khanh An",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -3828,8 +3912,9 @@
     ]
   },
   {
-    "job_id": "job-85",
+    "job_id": "job-085",
     "job_title": "GIÁO VIÊN TIẾNG ANH (Part-time/Full-time)",
+    "company": "Trung Tam Ngoai Ngu Edugo",
     "keywords": [
       {
         "keyword": "giảng dạy",
@@ -3874,8 +3959,9 @@
     ]
   },
   {
-    "job_id": "job-86",
+    "job_id": "job-086",
     "job_title": "THỰC TẬP SINH SOSIAL MEDIA",
+    "company": "Cty Tnhh Xay Dung Nha Dep Phu An",
     "keywords": [
       {
         "keyword": "marketing",
@@ -3920,8 +4006,9 @@
     ]
   },
   {
-    "job_id": "job-87",
+    "job_id": "job-087",
     "job_title": "GIÁM ĐỐC NHÀ MÁY GỐM",
+    "company": "Cong Ty Tnhh Gom Vh",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -3966,8 +4053,9 @@
     ]
   },
   {
-    "job_id": "job-88",
+    "job_id": "job-088",
     "job_title": "NHÂN VIÊN IT - HIS (PHÒNG KẾ HOẠCH TỔNG HỢP)",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "phụ trách",
@@ -4012,8 +4100,9 @@
     ]
   },
   {
-    "job_id": "job-89",
+    "job_id": "job-089",
     "job_title": "(Long Xuyên - An Giang) Tuyển Dụng Kế Toán Kho",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Phat Trien Dong Duong Tap Doan The Thao Kingsport",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -4058,8 +4147,9 @@
     ]
   },
   {
-    "job_id": "job-90",
+    "job_id": "job-090",
     "job_title": "NHÂN VIÊN TƯ VẤN BÁN HÀNG (XE Ô TÔ VINFAST)",
+    "company": "Vinfast Quoc Viet Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -4104,8 +4194,9 @@
     ]
   },
   {
-    "job_id": "job-91",
+    "job_id": "job-091",
     "job_title": "BẾP CHÍNH LẠNH - MÔ HÌNH SÂN GOLF",
+    "company": "Cong Ty Co Phan Dau Tu Phat Trien Golf Long An",
     "keywords": [
       {
         "keyword": "lạnh",
@@ -4150,8 +4241,9 @@
     ]
   },
   {
-    "job_id": "job-92",
+    "job_id": "job-092",
     "job_title": "NHÂN VIÊN KINH DOANH MẢNG THÚ CƯNG - ACHAPETCARE",
+    "company": "Cong Ty Tnhh Thuoc Thu Y A Chau",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -4196,8 +4288,9 @@
     ]
   },
   {
-    "job_id": "job-93",
+    "job_id": "job-093",
     "job_title": "BẾP TRƯỞNG CHUYÊN NẤU CHÈ LÀM BÁNH",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Trai Cay Xanh",
     "keywords": [
       {
         "keyword": "chè bánh",
@@ -4242,8 +4335,9 @@
     ]
   },
   {
-    "job_id": "job-94",
+    "job_id": "job-094",
     "job_title": "Nhân Viên Nhập Liệu Phòng Mẫu",
+    "company": "Cong Ty Tnhh Sungjin Vinh Long Vina",
     "keywords": [
       {
         "keyword": "nhập liệu",
@@ -4288,8 +4382,9 @@
     ]
   },
   {
-    "job_id": "job-95",
+    "job_id": "job-095",
     "job_title": "Trưởng phòng Kỹ thuật điện lạnh",
+    "company": "Cong Ty Co Phan Hanh Nguyen Logistics",
     "keywords": [
       {
         "keyword": "điện",
@@ -4334,8 +4429,9 @@
     ]
   },
   {
-    "job_id": "job-96",
+    "job_id": "job-096",
     "job_title": "NHÂN VIÊN KỸ THUẬT - BẢO TRÌ",
+    "company": "Cong Ty Cp Center Lab Viet Nam Trung Tam Chan Doan Y Khoa",
     "keywords": [
       {
         "keyword": "hệ thống",
@@ -4380,8 +4476,9 @@
     ]
   },
   {
-    "job_id": "job-97",
+    "job_id": "job-097",
     "job_title": "CHUYÊN VIÊN KINH DOANH",
+    "company": "Pa Asia Travel",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -4426,8 +4523,9 @@
     ]
   },
   {
-    "job_id": "job-98",
+    "job_id": "job-098",
     "job_title": "Tài xế",
+    "company": "Cong Ty Tnhh Mtv Dong Phat",
     "keywords": [
       {
         "keyword": "hàng",
@@ -4472,8 +4570,9 @@
     ]
   },
   {
-    "job_id": "job-99",
+    "job_id": "job-099",
     "job_title": "Cần tuyển Nhân viên Sale ngành hàng gia dụng – Thu nhập hấp dẫn",
+    "company": "Cong Ty Tnhh Ngo Phong",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -4520,6 +4619,7 @@
   {
     "job_id": "job-100",
     "job_title": "Nhân viên pha chế",
+    "company": "Cantho Eco Resort",
     "keywords": [
       {
         "keyword": "pha chế",
@@ -4566,6 +4666,7 @@
   {
     "job_id": "job-101",
     "job_title": "QUẢN LÝ KINH DOANH",
+    "company": "Cong Ty Tnhh Bhnt Fubon Life Van Phong Can Tho",
     "keywords": [
       {
         "keyword": "chăm sóc",
@@ -4612,6 +4713,7 @@
   {
     "job_id": "job-102",
     "job_title": "NHÂN VIÊN KẾ TOÁN THANH TOÁN_LÀM VIỆC TẠI CẦN THƠ",
+    "company": "Cong Ty Co Phan Bmc Viet Nam",
     "keywords": [
       {
         "keyword": "công nợ phải",
@@ -4658,6 +4760,7 @@
   {
     "job_id": "job-103",
     "job_title": "DESIGNER MẢNG THẨM MỸ & LÀM ĐẸP - LÀM VIỆC TẠI TP.HCM",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Ph Aesthetics",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -4704,6 +4807,7 @@
   {
     "job_id": "job-104",
     "job_title": "Nhân viên Kế Toán/Kế toán Nội bộ",
+    "company": "Cong Ty Tnhh Hong Minh Chau",
     "keywords": [
       {
         "keyword": "công nợ",
@@ -4750,6 +4854,7 @@
   {
     "job_id": "job-105",
     "job_title": "Nhân viên Kỹ thuật Cơ khí",
+    "company": "Cong Ty Tnhh Xay Dung Cong Nghe Moi Truong Nano",
     "keywords": [
       {
         "keyword": "bản vẽ",
@@ -4796,6 +4901,7 @@
   {
     "job_id": "job-106",
     "job_title": "WordPress Developer",
+    "company": "Cong Ty Tnhh Vien Cham Soc Da Lac 39 S Beauty Center",
     "keywords": [
       {
         "keyword": "website",
@@ -4842,6 +4948,7 @@
   {
     "job_id": "job-107",
     "job_title": "Trưởng phòng Marketing",
+    "company": "Cong Ty Tnhh Giai Phap Truyen Thong At Media",
     "keywords": [
       {
         "keyword": "marketing",
@@ -4888,6 +4995,7 @@
   {
     "job_id": "job-108",
     "job_title": "Nhân Viên Kinh Doanh Vùng 1",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -4934,6 +5042,7 @@
   {
     "job_id": "job-109",
     "job_title": "Nhân viên Phụ kho Lúa",
+    "company": "Cong Ty Adc",
     "keywords": [
       {
         "keyword": "kho",
@@ -4980,6 +5089,7 @@
   {
     "job_id": "job-110",
     "job_title": "[Mekong] Trình Dược Viên OTC",
+    "company": "Cong Ty Cp Duoc Pham Mebolide",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -5026,6 +5136,7 @@
   {
     "job_id": "job-111",
     "job_title": "Cần tuyển nhân viên sắp xếp hàng hóa tại kho – Đi làm ngay, không yêu cầu kinh nghiệm",
+    "company": "Cong Ty Tnhh Ngo Phong",
     "keywords": [
       {
         "keyword": "hàng",
@@ -5072,6 +5183,7 @@
   {
     "job_id": "job-112",
     "job_title": "Chuyên viên xây dựng",
+    "company": "Cong Ty Co Phan Cara Group",
     "keywords": [
       {
         "keyword": "dự án",
@@ -5118,6 +5230,7 @@
   {
     "job_id": "job-113",
     "job_title": "NHÂN VIÊN KHO VẬT TƯ",
+    "company": "Cong Ty Tnhh Jia Zhi",
     "keywords": [
       {
         "keyword": "nhân viên",
@@ -5164,6 +5277,7 @@
   {
     "job_id": "job-114",
     "job_title": "[MG AN GIANG] TUYỂN DỤNG 10 TƯ VẤN BÁN HÀNG",
+    "company": "Cong Ty Co Phan Co Khi O To Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -5210,6 +5324,7 @@
   {
     "job_id": "job-115",
     "job_title": "NHÂN VIÊN SÁNG TẠO NỘI DUNG",
+    "company": "Cong Ty Tnhh Mjn Studio",
     "keywords": [
       {
         "keyword": "video",
@@ -5256,6 +5371,7 @@
   {
     "job_id": "job-116",
     "job_title": "Tài xế xe tải (Bằng B2)",
+    "company": "Cong Ty Tnhh Tmdv Y Nam Phat",
     "keywords": [
       {
         "keyword": "hàng",
@@ -5302,6 +5418,7 @@
   {
     "job_id": "job-117",
     "job_title": "NHÂN VIÊN VĂN PHÒNG (NỮ CN XÂY DỰNG)",
+    "company": "Cong Ty Tnhh Tmdv Goldsun",
     "keywords": [
       {
         "keyword": "khối lượng",
@@ -5348,6 +5465,7 @@
   {
     "job_id": "job-118",
     "job_title": "DESIGNER 3D – KIẾN TRÚC",
+    "company": "Cong Ty Tnhh Sang Vi",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -5394,6 +5512,7 @@
   {
     "job_id": "job-119",
     "job_title": "Chuyên viên HCNS tổng hợp",
+    "company": "Lumos Bakery Joy",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -5440,6 +5559,7 @@
   {
     "job_id": "job-120",
     "job_title": "Tạp Vụ (01 Nữ)",
+    "company": "Dich Vu An Uong Cam Thi",
     "keywords": [
       {
         "keyword": "buổi",
@@ -5478,6 +5598,7 @@
   {
     "job_id": "job-121",
     "job_title": "Nhân Viên Điều phối tiêu chuẩn Nhà Phân phối",
+    "company": "Mercedes Benz Haxaco Can Tho",
     "keywords": [
       {
         "keyword": "tiêu chuẩn",
@@ -5524,6 +5645,7 @@
   {
     "job_id": "job-122",
     "job_title": "NHÂN VIÊN SẢN XUẤT",
+    "company": "Cong Ty Tnhh Dego Holding",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -5570,6 +5692,7 @@
   {
     "job_id": "job-123",
     "job_title": "Thợ Sửa Xe",
+    "company": "Cong Ty Tnhh Xe May Hong Hung",
     "keywords": [
       {
         "keyword": "xe gắn máy",
@@ -5616,6 +5739,7 @@
   {
     "job_id": "job-124",
     "job_title": "Nhân viên KT tại CẦN THƠ",
+    "company": "Cong Ty Cp Dt Tm Sx Mekong Export",
     "keywords": [
       {
         "keyword": "trên",
@@ -5662,6 +5786,7 @@
   {
     "job_id": "job-125",
     "job_title": "Frontend Developer",
+    "company": "Cong Ty Tnhh Kuno Technologies",
     "keywords": [
       {
         "keyword": "develop",
@@ -5708,6 +5833,7 @@
   {
     "job_id": "job-126",
     "job_title": "Nhân sự canh tác lúa",
+    "company": "Cong Ty Tnhh Binh Minh Capital",
     "keywords": [
       {
         "keyword": "canh tác",
@@ -5754,6 +5880,7 @@
   {
     "job_id": "job-127",
     "job_title": "GẤp - Tuyển dụng thợ phụ làm nhà màng",
+    "company": "Cty Tnhh Mita Greenhouse",
     "keywords": [
       {
         "keyword": "công trình",
@@ -5800,6 +5927,7 @@
   {
     "job_id": "job-128",
     "job_title": "Nhân viên KỸ THUẬT NUÔI TRỒNG THỦY SẢN",
+    "company": "Cong Ty Tnhh Tm Sx Dai Nam Viet",
     "keywords": [
       {
         "keyword": "kỹ thuật",
@@ -5846,6 +5974,7 @@
   {
     "job_id": "job-129",
     "job_title": "Kế toán viên",
+    "company": "Cong Ty Co Phan Bj T",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -5892,6 +6021,7 @@
   {
     "job_id": "job-130",
     "job_title": "BỐC XẾP VLXD ,THIẾT BỊ VỆ SINH ,GẠCH MEN",
+    "company": "Vlxd Hue Loc",
     "keywords": [
       {
         "keyword": "bốc xếp",
@@ -5938,6 +6068,7 @@
   {
     "job_id": "job-131",
     "job_title": "Chuyên viên Quản lý Thiết kế",
+    "company": "Cong Ty Co Phan Cara Group",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -5984,6 +6115,7 @@
   {
     "job_id": "job-132",
     "job_title": "Kế Toán Nội Bộ Tại An Phát Cần Thơ",
+    "company": "Cong Ty Tnhh An Phat Can Tho",
     "keywords": [
       {
         "keyword": "theo dõi",
@@ -6030,6 +6162,7 @@
   {
     "job_id": "job-133",
     "job_title": "NHÂN VIÊN THIẾT KẾ (GRAPHIC DESIGNER)",
+    "company": "Cong Ty Tnhh Phat Trien San Xuat An Nhien",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -6076,6 +6209,7 @@
   {
     "job_id": "job-134",
     "job_title": "admin miền Đông và HCM",
+    "company": "Cong Ty Co Phan Sua Evergrowth",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -6122,6 +6256,7 @@
   {
     "job_id": "job-135",
     "job_title": "SALE BÁN HÀNG",
+    "company": "Cong Ty Tnhh Thuong Mai Dich Vu S I H A",
     "keywords": [
       {
         "keyword": "âm thanh",
@@ -6168,6 +6303,7 @@
   {
     "job_id": "job-136",
     "job_title": "Nhân viên kế toán",
+    "company": "Vua Cua Dang Quan",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -6214,6 +6350,7 @@
   {
     "job_id": "job-137",
     "job_title": "Nhân Viên Livestream Bán Hàng Nông Nghiệp",
+    "company": "Cong Ty Tnhh Nong Nghiep Tien Thanh",
     "keywords": [
       {
         "keyword": "livestream",
@@ -6260,6 +6397,7 @@
   {
     "job_id": "job-138",
     "job_title": "ĐIỀU DƯỠNG GÂY MÊ HỒI SỨC",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "gây mê",
@@ -6306,6 +6444,7 @@
   {
     "job_id": "job-139",
     "job_title": "CTV LIVESTREAM",
+    "company": "Cong Ty Tnhh Dego Holding",
     "keywords": [
       {
         "keyword": "livestream",
@@ -6352,6 +6491,7 @@
   {
     "job_id": "job-140",
     "job_title": "GIÁM SÁT HỆ THỐNG",
+    "company": "Cong Ty Trach Nhiem Huu Han Shk",
     "keywords": [
       {
         "keyword": "điểm",
@@ -6398,6 +6538,7 @@
   {
     "job_id": "job-141",
     "job_title": "SALE MẢNG THẨM MỸ & LÀM ĐẸP - LÀM VIỆC TẠI TP.HCM",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Ph Aesthetics",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -6444,6 +6585,7 @@
   {
     "job_id": "job-142",
     "job_title": "Video Editor (Quay & Dựng)",
+    "company": "Cong Ty Tnhh Truyen Thong Truong Cuu",
     "keywords": [
       {
         "keyword": "hình ảnh",
@@ -6490,6 +6632,7 @@
   {
     "job_id": "job-143",
     "job_title": "TRƯỞNG BỘ PHẬN KẾ HOẠCH SẢN XUẤT (PPC TEAMLEADER",
+    "company": "Cong Ty Cp Dm Dt Tm Thanh Cong Chi Nhanh Vinh Long",
     "keywords": [
       {
         "keyword": "hàng",
@@ -6536,6 +6679,7 @@
   {
     "job_id": "job-144",
     "job_title": "Vận hành xe nâng điện",
+    "company": "Cong Ty Cp Khuon Chinh Xac Minh Dat",
     "keywords": [
       {
         "keyword": "nâng",
@@ -6582,6 +6726,7 @@
   {
     "job_id": "job-145",
     "job_title": "Chuyên Viên Kỹ Thuật Điều Khiển – Tự Động Hóa",
+    "company": "J T Express Can Tho",
     "keywords": [
       {
         "keyword": "thiết bị",
@@ -6628,6 +6773,7 @@
   {
     "job_id": "job-146",
     "job_title": "Trợ Lý Thiết Kế",
+    "company": "Cong Ty Tnhh Tm Xd Vuong Tuan",
     "keywords": [
       {
         "keyword": "tuổi",
@@ -6674,6 +6820,7 @@
   {
     "job_id": "job-147",
     "job_title": "NHÂN VIÊN KINH DOANH THUỐC BVTV/ PHÂN BÓN",
+    "company": "Cong Ty Tnhh Xnk Vina Agri Group",
     "keywords": [
       {
         "keyword": "đại lý",
@@ -6720,6 +6867,7 @@
   {
     "job_id": "job-148",
     "job_title": "Họa viên",
+    "company": "Cong Ty Tnhh Thuong Mai Dau Tu Xay Dung Ngo Quan",
     "keywords": [
       {
         "keyword": "bản vẽ",
@@ -6766,6 +6914,7 @@
   {
     "job_id": "job-149",
     "job_title": "THỰC TẬP SINH QS (CHUYÊN NGÀNH XÂY DỰNG)",
+    "company": "Cong Ty Tnhh Tmdv Goldsun",
     "keywords": [
       {
         "keyword": "hồ sơ",
@@ -6812,6 +6961,7 @@
   {
     "job_id": "job-150",
     "job_title": "Kế toán bán hàng - điều phối (Mỹ Khánh, Phong Điền)",
+    "company": "Cong Ty Tnhh Roto",
     "keywords": [
       {
         "keyword": "đơn đặt hàng",
@@ -6858,6 +7008,7 @@
   {
     "job_id": "job-151",
     "job_title": "Nhân viên kinh doanh chuyên ngành Kiến trúc - Xây dựng",
+    "company": "Cong Ty Tnhh Tu Van Va Dau Tu Xay Dung Tp Home",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -6904,6 +7055,7 @@
   {
     "job_id": "job-152",
     "job_title": "Kỹ thuật viên Kiểm tra chất lượng",
+    "company": "Cong Ty Tnhh Gao Vinh Phat Wlmar",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -6950,6 +7102,7 @@
   {
     "job_id": "job-153",
     "job_title": "[AN GIANG] GHN TUYỂN NHÂN VIÊN GIAO HÀNG",
+    "company": "Cong Ty Co Phan Dich Vu Giao Hang Nhanh",
     "keywords": [
       {
         "keyword": "000",
@@ -6996,6 +7149,7 @@
   {
     "job_id": "job-154",
     "job_title": "Nhân Viên QA",
+    "company": "Cong Ty Tnhh Sungjin Vinh Long Vina",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -7042,6 +7196,7 @@
   {
     "job_id": "job-155",
     "job_title": "QUẢN LÝ CỘNG TÁC VIÊN",
+    "company": "Cong Ty Tnhh Cong Nghe Thiet Bi Giao Duc Song Phuong",
     "keywords": [
       {
         "keyword": "ctv",
@@ -7088,6 +7243,7 @@
   {
     "job_id": "job-156",
     "job_title": "Thủ kho",
+    "company": "Cong Ty Tnhh Nguyen Hung Phat",
     "keywords": [
       {
         "keyword": "kho",
@@ -7130,6 +7286,7 @@
   {
     "job_id": "job-157",
     "job_title": "THỢ GỖ",
+    "company": "Cong Ty Tnhh Mot Thanh Vien Tu Van Thiet Ke Xay Dung Hoang Qui",
     "keywords": [
       {
         "keyword": "biết",
@@ -7176,6 +7333,7 @@
   {
     "job_id": "job-158",
     "job_title": "NHÂN VIÊN BÁN HÀNG QUA ĐIỆN THOẠI (TELESALES)",
+    "company": "Cong Ty Tnhh Tmdv Tin Hung",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -7222,6 +7380,7 @@
   {
     "job_id": "job-159",
     "job_title": "Thợ ốp lát gạch, Sơn nước, Chống thấm",
+    "company": "Cong Ty Tnhh Giai Phap Xay Dung T T",
     "keywords": [
       {
         "keyword": "gạch",
@@ -7268,6 +7427,7 @@
   {
     "job_id": "job-160",
     "job_title": "Nhân viên Marketing",
+    "company": "Honda Oto Kien Giang Rach Gia",
     "keywords": [
       {
         "keyword": "chương trình",
@@ -7314,6 +7474,7 @@
   {
     "job_id": "job-161",
     "job_title": "NHÂN VIÊN THẨM ĐỊNH",
+    "company": "Y99",
     "keywords": [
       {
         "keyword": "thẩm định",
@@ -7360,6 +7521,7 @@
   {
     "job_id": "job-162",
     "job_title": "(Cần Thơ, Ô Môn, Thốt Nốt) Nhân Viên Bán Hàng - Chuỗi Bán Lẻ Thiết Bị Sức Khỏe KINGSPORT",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Phat Trien Dong Duong Tap Doan The Thao Kingsport",
     "keywords": [
       {
         "keyword": "kingsport",
@@ -7406,6 +7568,7 @@
   {
     "job_id": "job-163",
     "job_title": "Nhân viên Đảm bảo chất lượng",
+    "company": "Cong Ty Cp Cpt Food Chi Nhanh Vinh Long",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -7452,6 +7615,7 @@
   {
     "job_id": "job-164",
     "job_title": "Công Nhân Đóng Gói",
+    "company": "Cong Ty Tnhh Cong Nghe My Pham Va Duoc Pham Tu Nhien Dannygreen",
     "keywords": [
       {
         "keyword": "đóng gói",
@@ -7498,6 +7662,7 @@
   {
     "job_id": "job-165",
     "job_title": "THỦ KHO THÀNH PHẨM( NAM)",
+    "company": "Cong Ty Tnhh Sx Tm Dv Xd Bac Dau",
     "keywords": [
       {
         "keyword": "hàng",
@@ -7544,6 +7709,7 @@
   {
     "job_id": "job-166",
     "job_title": "Nhân viên bán hàng Part time",
+    "company": "Cong Ty Co Phan Levents Global",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -7590,6 +7756,7 @@
   {
     "job_id": "job-167",
     "job_title": "Nhân viên kỹ thuật - Kỹ sư",
+    "company": "Cong Ty Tnhh Dau Tu Phat Trien Dhc Viet Nam",
     "keywords": [
       {
         "keyword": "bàn giao",
@@ -7636,6 +7803,7 @@
   {
     "job_id": "job-168",
     "job_title": "NHÂN VIÊN KINH DOANH (NGÀNH Ô TÔ)",
+    "company": "Cong Ty Tnhh Kim Long Motor Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -7682,6 +7850,7 @@
   {
     "job_id": "job-169",
     "job_title": "BÓC XẾP HÀN THEO XE TẢI",
+    "company": "Cong Ty Tnhh Bach Nong Tam Nguyen",
     "keywords": [
       {
         "keyword": "bóc",
@@ -7728,6 +7897,7 @@
   {
     "job_id": "job-170",
     "job_title": "Senior Marketing Officer_Chinese Speaking",
+    "company": "Cong Ty Co Phan Vsip Can Tho",
     "keywords": [
       {
         "keyword": "marketing",
@@ -7774,6 +7944,7 @@
   {
     "job_id": "job-171",
     "job_title": "Lễ Tân",
+    "company": "Cong Ty Tnhh Dai Danh",
     "keywords": [
       {
         "keyword": "khách",
@@ -7820,6 +7991,7 @@
   {
     "job_id": "job-172",
     "job_title": "THỢ HÀN",
+    "company": "Cong Ty Tnhh Xay Dung Va Dich Vu Thuong Mai Hieu Thang",
     "keywords": [
       {
         "keyword": "cọc",
@@ -7866,6 +8038,7 @@
   {
     "job_id": "job-173",
     "job_title": "NHÂN VIÊN KINH DOANH THỊ TRƯỜNG",
+    "company": "Cong Ty Tnhh Mtv Nong Nghiep Trung Anh",
     "keywords": [
       {
         "keyword": "nông nghiệp",
@@ -7912,6 +8085,7 @@
   {
     "job_id": "job-174",
     "job_title": "Nhân viên Kinh doanh",
+    "company": "Cong Ty Tnhh Tm Xnk Cai Rang Food",
     "keywords": [
       {
         "keyword": "thị trường",
@@ -7958,6 +8132,7 @@
   {
     "job_id": "job-175",
     "job_title": "Giám sát hiện trường",
+    "company": "Cong Ty Co Phan Xd Tm Dv Kien Truc Xanh",
     "keywords": [
       {
         "keyword": "thi công",
@@ -8004,6 +8179,7 @@
   {
     "job_id": "job-176",
     "job_title": "Nhân viên Kinh doanh Xe Qua Sử Dụng Tại An Giang",
+    "company": "Cong Ty Tnhh Toyota Can Tho Cn An Giang",
     "keywords": [
       {
         "keyword": "bán",
@@ -8050,6 +8226,7 @@
   {
     "job_id": "job-177",
     "job_title": "Kế toán",
+    "company": "Cong Ty Tnhh Mtv Puolo Trip Can Tho",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -8096,6 +8273,7 @@
   {
     "job_id": "job-178",
     "job_title": "NHÂN VIÊN MUA HÀNG KIÊM XUẤT NHẬP KHẨU (TIẾNG HOA)",
+    "company": "Cong Ty Co Phan Bmc Viet Nam",
     "keywords": [
       {
         "keyword": "đăng ký",
@@ -8142,6 +8320,7 @@
   {
     "job_id": "job-179",
     "job_title": "NHÂN VIÊN BẢO TRÌ",
+    "company": "Cong Ty Tnhh Hai An New Material Hau Giang",
     "keywords": [
       {
         "keyword": "máy",
@@ -8188,6 +8367,7 @@
   {
     "job_id": "job-180",
     "job_title": "Kế Toán Tổng Hợp - Thuế",
+    "company": "Cong Ty Tnhh Tm Dv Giai Phap Cong Nghe Xanh",
     "keywords": [
       {
         "keyword": "thuế",
@@ -8234,6 +8414,7 @@
   {
     "job_id": "job-181",
     "job_title": "Nhân viên kinh doanh",
+    "company": "Cong Ty Co Phan Cen Hcm",
     "keywords": [
       {
         "keyword": "tháng",
@@ -8280,6 +8461,7 @@
   {
     "job_id": "job-182",
     "job_title": "Tư vấn bán hàng",
+    "company": "Cong Ty Tnhh Mtv A Lap Tai Can Tho",
     "keywords": [
       {
         "keyword": "dịch vụ",
@@ -8326,6 +8508,7 @@
   {
     "job_id": "job-183",
     "job_title": "Nhân viên Thu Ngân",
+    "company": "Cong Ty Tnhh San Xuat Thuong Mai Dich Vu Sanh Loc",
     "keywords": [
       {
         "keyword": "thu ngân",
@@ -8372,6 +8555,7 @@
   {
     "job_id": "job-184",
     "job_title": "NHÂN VIÊN AN TOÀN - MÔI TRƯỜNG - SỨC KHỎE",
+    "company": "Cong Ty Hai An Material",
     "keywords": [
       {
         "keyword": "trách nhiệm",
@@ -8418,6 +8602,7 @@
   {
     "job_id": "job-185",
     "job_title": "Kế Toán Thuế",
+    "company": "Cong Ty Tnhh Duoc Pham Tran Gia Tam",
     "keywords": [
       {
         "keyword": "báo cáo",
@@ -8464,6 +8649,7 @@
   {
     "job_id": "job-186",
     "job_title": "Nhân Viên Điều Hành Tour",
+    "company": "Cty Tnhh Tmdv Dl Yentravel",
     "keywords": [
       {
         "keyword": "điều hành",
@@ -8510,6 +8696,7 @@
   {
     "job_id": "job-187",
     "job_title": "TUYỂN DỤNG NHÂN VIÊN HÀNH CHÍNH – GIAO TIẾP TIẾNG ANH",
+    "company": "Doosan Enerbility Co Ltd O Mon Iv",
     "keywords": [
       {
         "keyword": "visa",
@@ -8556,6 +8743,7 @@
   {
     "job_id": "job-188",
     "job_title": "NHÂN SỰ - BIẾT TIẾNG TRUNG",
+    "company": "Cong Ty Hai An Material",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -8602,6 +8790,7 @@
   {
     "job_id": "job-189",
     "job_title": "TUYỂN THỰC TẬP SINH – LÀM THẬT, TRƯỞNG THÀNH THẬT",
+    "company": "Cong Ty Tnhh G A Thien Long Phat",
     "keywords": [
       {
         "keyword": "bạn",
@@ -8648,6 +8837,7 @@
   {
     "job_id": "job-190",
     "job_title": "[Cần Thơ] Nhân viên R&D - Vi sinh nông nghiệp",
+    "company": "Cong Ty Adc",
     "keywords": [
       {
         "keyword": "thí nghiệm",
@@ -8694,6 +8884,7 @@
   {
     "job_id": "job-191",
     "job_title": "AUTOMATION TEST ENGINEER INTERN (FULL-TIME) / Thực Tập SINH Kiểm Thử Tự Động",
+    "company": "Hopper Global Holdings",
     "keywords": [
       {
         "keyword": "the",
@@ -8740,6 +8931,7 @@
   {
     "job_id": "job-192",
     "job_title": "Thực Tập Sinh Nhân Viên Kinh Doanh Bất Động Sản",
+    "company": "Cong Ty Co Phan Dau Tu Dia Oc New World Land",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -8786,6 +8978,7 @@
   {
     "job_id": "job-193",
     "job_title": "Kế toán viên",
+    "company": "Van Phong Ke Toan Dich Vu Vo Hong Phat",
     "keywords": [
       {
         "keyword": "xuất",
@@ -8832,6 +9025,7 @@
   {
     "job_id": "job-194",
     "job_title": "NHÂN VIÊN PHỤC VỤ",
+    "company": "Cong Ty Tnhh Phan Huynh Food",
     "keywords": [
       {
         "keyword": "khách",
@@ -8878,6 +9072,7 @@
   {
     "job_id": "job-195",
     "job_title": "CHUYÊN VIÊN OCOP/VIETGAP trồng trọt, chăn nuôi",
+    "company": "Cong Ty Tnhh Tmdv Va Cong Nghe Van Xuan Viet Nam",
     "keywords": [
       {
         "keyword": "trồng trọt chăn nuôi",
@@ -8924,6 +9119,7 @@
   {
     "job_id": "job-196",
     "job_title": "Thợ tiện CNC - Tiện Cơ",
+    "company": "Cong Ty Tnhh Sau Con",
     "keywords": [
       {
         "keyword": "chuyên môn",
@@ -8970,6 +9166,7 @@
   {
     "job_id": "job-197",
     "job_title": "Nhân viên tuyển sinh",
+    "company": "Truong Cao Dang Cong Nghe Sai Gon",
     "keywords": [
       {
         "keyword": "khóa học",
@@ -9016,6 +9213,7 @@
   {
     "job_id": "job-198",
     "job_title": "Kế toán Tổng hợp",
+    "company": "Cong Ty Co Phan Xd Tm Dv Kien Truc Xanh",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -9062,6 +9260,7 @@
   {
     "job_id": "job-199",
     "job_title": "[Tuyển dụng] Giáo viên mỹ thuật_Trường tiểu học, THCS, THPT FPT Sóc Trăng",
+    "company": "Khoi Giao Duc Fpt Can Tho",
     "keywords": [
       {
         "keyword": "mỹ thuật",
@@ -9108,6 +9307,7 @@
   {
     "job_id": "job-200",
     "job_title": "NHÂN VIÊN CHĂM SÓC KHÁCH HÀNG",
+    "company": "Cong Ty Tnhh Tentamus Viet Nam",
     "keywords": [
       {
         "keyword": "kiểm nghiệm",
@@ -9154,6 +9354,7 @@
   {
     "job_id": "job-201",
     "job_title": "Trưởng nhóm Sale – Marketing Online (Ngành Nông nghiệp)",
+    "company": "Cong Ty Tnhh Dego Holding",
     "keywords": [
       {
         "keyword": "online",
@@ -9200,6 +9401,7 @@
   {
     "job_id": "job-202",
     "job_title": "MOBIFONE SÓC TRĂNG tuyển NV kinh doanh",
+    "company": "Cong Ty Co Phan Dich Vu Gia Tang Mobifone",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -9246,6 +9448,7 @@
   {
     "job_id": "job-203",
     "job_title": "NHÂN VIÊN KẾ TOÁN (ĐI LÀM NGAY)",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Hoang Phat",
     "keywords": [
       {
         "keyword": "báo cáo",
@@ -9292,6 +9495,7 @@
   {
     "job_id": "job-204",
     "job_title": "KCN Thốt Nốt - Nhân viên CNTT",
+    "company": "Cong Ty Cp Thuy San Ntsf",
     "keywords": [
       {
         "keyword": "chuyên ngành",
@@ -9338,6 +9542,7 @@
   {
     "job_id": "job-205",
     "job_title": "Nhân viên kỹ thuật ép nhựa",
+    "company": "Cong Ty Cp Khuon Chinh Xac Minh Dat",
     "keywords": [
       {
         "keyword": "máy",
@@ -9384,6 +9589,7 @@
   {
     "job_id": "job-206",
     "job_title": "Nhân Viên Kinh Doanh Vùng 2",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -9430,6 +9636,7 @@
   {
     "job_id": "job-207",
     "job_title": "Nhân viên khối sản xuất/QC kiểm hàng/Lao động thời vụ",
+    "company": "Cong Ty Tnhh King Group",
     "keywords": [
       {
         "keyword": "số lượng",
@@ -9476,6 +9683,7 @@
   {
     "job_id": "job-208",
     "job_title": "CHUYÊN VIÊN KẾ TOÁN - TÀI CHÍNH",
+    "company": "Trung Tam Ngoai Ngu Va Du Hoc Han Quoc Yejin",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -9522,6 +9730,7 @@
   {
     "job_id": "job-209",
     "job_title": "NHÂN VIÊN BẢO TRÌ MÁY",
+    "company": "Cong Ty Tnhh Gom Vh",
     "keywords": [
       {
         "keyword": "máy",
@@ -9568,6 +9777,7 @@
   {
     "job_id": "job-210",
     "job_title": "KCN Thốt Nốt-Nhân viên Kỹ thuật sửa chữa",
+    "company": "Cong Ty Cp Thuy San Ntsf",
     "keywords": [
       {
         "keyword": "thiết bị",
@@ -9614,6 +9824,7 @@
   {
     "job_id": "job-211",
     "job_title": "NHÂN VIÊN HSE",
+    "company": "Cong Ty Tnhh Jia Zhi",
     "keywords": [
       {
         "keyword": "tiếng",
@@ -9660,6 +9871,7 @@
   {
     "job_id": "job-212",
     "job_title": "Nhân viên Marketing (Content & Social Media)",
+    "company": "Cty Tnhh Mita Greenhouse",
     "keywords": [
       {
         "keyword": "nội dung",
@@ -9706,6 +9918,7 @@
   {
     "job_id": "job-213",
     "job_title": "Nam Kế Toán Kho",
+    "company": "Cong Ty Tnhh Sx Tm Xnk Khanh Phat Phan Bon Thuoc Bvtv",
     "keywords": [
       {
         "keyword": "hàng",
@@ -9752,6 +9965,7 @@
   {
     "job_id": "job-214",
     "job_title": "THỢ ĐIỆN",
+    "company": "Cong Ty Tnhh Mot Thanh Vien Tu Van Thiet Ke Xay Dung Hoang Qui",
     "keywords": [
       {
         "keyword": "đường",
@@ -9798,6 +10012,7 @@
   {
     "job_id": "job-215",
     "job_title": "Nhân viên giao hàng",
+    "company": "Dai Ly Bia Nuoc Da Phuc Thao",
     "keywords": [
       {
         "keyword": "h00",
@@ -9844,6 +10059,7 @@
   {
     "job_id": "job-216",
     "job_title": "Nhân viên nhân sự",
+    "company": "Cong Ty Co Phan Thanh Dong Group",
     "keywords": [
       {
         "keyword": "lao động",
@@ -9890,6 +10106,7 @@
   {
     "job_id": "job-217",
     "job_title": "Nhân Viên Hành Chính Nhân Sự",
+    "company": "Cong Ty Tnhh San Xuat Xay Dung Thuong Mai Dich Vu Noi That Xanh",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -9936,6 +10153,7 @@
   {
     "job_id": "job-218",
     "job_title": "DESIGNER 3D – KIẾN TRÚC (LÀM VIỆC BAN ĐÊM)",
+    "company": "Cong Ty Tnhh Sang Vi",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -9982,6 +10200,7 @@
   {
     "job_id": "job-219",
     "job_title": "CHUYÊN VIÊN LIVESTREAM, MẪU, KOL",
+    "company": "Cong Ty Trach Nhiem Huu Han Shk",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -10028,6 +10247,7 @@
   {
     "job_id": "job-220",
     "job_title": "Quản Lý Kinh Doanh Khu Vực (ASM)",
+    "company": "Cong Ty Tnhh Trung Son Alpha",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -10074,6 +10294,7 @@
   {
     "job_id": "job-221",
     "job_title": "Kế toán tổng hợp",
+    "company": "Cong Ty Tnhh San Xuat Thuong Mai Dich Vu Trang Non",
     "keywords": [
       {
         "keyword": "thuế",
@@ -10120,6 +10341,7 @@
   {
     "job_id": "job-222",
     "job_title": "Quản Lý Sản Xuất",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -10166,6 +10388,7 @@
   {
     "job_id": "job-223",
     "job_title": "PG SUPERVISOR",
+    "company": "Cong Ty Tnhh Fes Viet Nam",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -10212,6 +10435,7 @@
   {
     "job_id": "job-224",
     "job_title": "Nhân viên KCS Nhà máy Sản Xuất Lúa Gạo",
+    "company": "Cong Ty Tnhh Che Bien Luong Thuc Van Hung",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -10258,6 +10482,7 @@
   {
     "job_id": "job-225",
     "job_title": "NHÂN VIÊN KINH DOANH PHÂN BÓN, THUỐC BVTV",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Hoang Phat",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -10304,6 +10529,7 @@
   {
     "job_id": "job-226",
     "job_title": "Nhân viên kế toán",
+    "company": "Cong Ty Tnhh Mtv Nhut Tran",
     "keywords": [
       {
         "keyword": "hàng",
@@ -10350,6 +10576,7 @@
   {
     "job_id": "job-227",
     "job_title": "Nhân viên kỹ thuật vận hành",
+    "company": "Cong Ty Tnhh Dau Gao Sethia Hemraj",
     "keywords": [
       {
         "keyword": "vận hành",
@@ -10396,6 +10623,7 @@
   {
     "job_id": "job-228",
     "job_title": "Chuyên Viên C&B",
+    "company": "J T Express Can Tho",
     "keywords": [
       {
         "keyword": "lương",
@@ -10442,6 +10670,7 @@
   {
     "job_id": "job-229",
     "job_title": "UX/UI DESIGNER INTERN (FULL-TIME) / Thực Tập SINH Thiết Kế GIAO Diện Và Trải Nghiệm Người Dùng",
+    "company": "Hopper Global Holdings",
     "keywords": [
       {
         "keyword": "fiora",
@@ -10488,6 +10717,7 @@
   {
     "job_id": "job-230",
     "job_title": "Nhân Viên Bảo Vệ Phòng Khám",
+    "company": "Cong Ty Cp Center Lab Viet Nam Trung Tam Chan Doan Y Khoa",
     "keywords": [
       {
         "keyword": "phòng khám",
@@ -10534,6 +10764,7 @@
   {
     "job_id": "job-231",
     "job_title": "Nhân viên Chăm sóc Khách hàng",
+    "company": "Cong Ty Tnhh Trung Son Alpha",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -10580,6 +10811,7 @@
   {
     "job_id": "job-232",
     "job_title": "Nhân viên kinh doanh (Ưu tiên có thể đi thị trường)",
+    "company": "Cong Ty Tnhh Sinh Hoc Nong Nghiep Rong Vang",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -10626,6 +10858,7 @@
   {
     "job_id": "job-233",
     "job_title": "ĐIỀU DƯỠNG DỤNG CỤ PHÒNG MỔ",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "dụng cụ",
@@ -10672,6 +10905,7 @@
   {
     "job_id": "job-234",
     "job_title": "Nhân viên nhân sự",
+    "company": "Cong Ty Tnhh Vinh Ty",
     "keywords": [
       {
         "keyword": "bhxh",
@@ -10718,6 +10952,7 @@
   {
     "job_id": "job-235",
     "job_title": "Nhân viên hoàn thiện khuôn",
+    "company": "Cong Ty Cp Khuon Chinh Xac Minh Dat",
     "keywords": [
       {
         "keyword": "khuôn",
@@ -10764,6 +10999,7 @@
   {
     "job_id": "job-236",
     "job_title": "Trưởng Phòng Dự Án",
+    "company": "Cong Ty Tnhh Cong Nghe Thiet Bi Giao Duc Song Phuong",
     "keywords": [
       {
         "keyword": "giáo dục",
@@ -10810,6 +11046,7 @@
   {
     "job_id": "job-237",
     "job_title": "Nhân viên buồng phòng",
+    "company": "Cong Ty Tnhh Tm Dv Khach San 101",
     "keywords": [
       {
         "keyword": "phòng",
@@ -10856,6 +11093,7 @@
   {
     "job_id": "job-238",
     "job_title": "Kế toán trưởng",
+    "company": "Cong Ty Co Phan Dong Tam",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -10902,6 +11140,7 @@
   {
     "job_id": "job-239",
     "job_title": "LAO ĐỘNG PHỔ THÔNG / CÔNG NHÂN XÂY DỰNG",
+    "company": "Cong Ty Tnhh Xay Dung Va Dich Vu Thuong Mai Hieu Thang",
     "keywords": [
       {
         "keyword": "phân công",
@@ -10948,6 +11187,7 @@
   {
     "job_id": "job-240",
     "job_title": "TUYỂN CỘNG TÁC VIÊN DU LỊCH",
+    "company": "Cong Ty Tnhh Dang Cap Dong Bang Song Cuu Long",
     "keywords": [
       {
         "keyword": "du lịch",
@@ -10994,6 +11234,7 @@
   {
     "job_id": "job-241",
     "job_title": "Lập trình viên",
+    "company": "Cong Ty Tnhh Cau Noi Mekong",
     "keywords": [
       {
         "keyword": "hoặc",
@@ -11040,6 +11281,7 @@
   {
     "job_id": "job-242",
     "job_title": "Nhân viên Bán hàng tại Showroom",
+    "company": "Cong Ty Co Phan Dntc Do Nghe Tu Chon",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -11086,6 +11328,7 @@
   {
     "job_id": "job-243",
     "job_title": "Nhân viên QC",
+    "company": "Cong Ty Co Phan Bj T",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -11132,6 +11375,7 @@
   {
     "job_id": "job-244",
     "job_title": "Công Nhân",
+    "company": "Cong Ty Tnhh Foodant",
     "keywords": [
       {
         "keyword": "tiếp nhận",
@@ -11178,6 +11422,7 @@
   {
     "job_id": "job-245",
     "job_title": "KÊ TOÁN BÁN HÀNG",
+    "company": "Cong Ty Tnhh Mtv Co Khi Trong Huu Thanh",
     "keywords": [
       {
         "keyword": "cửa hàng",
@@ -11224,6 +11469,7 @@
   {
     "job_id": "job-246",
     "job_title": "UNIPAX VỊ THANH [NHÂN VIÊN QA]",
+    "company": "Cty Tnhh Unipax Vi Thanh",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -11270,6 +11516,7 @@
   {
     "job_id": "job-247",
     "job_title": "NHÂN VIÊN VĂN PHÒNG SẢN XUẤT",
+    "company": "Cong Ty Tnhh Mf Viet Nam Nhat Ban",
     "keywords": [
       {
         "keyword": "công nhân",
@@ -11316,6 +11563,7 @@
   {
     "job_id": "job-248",
     "job_title": "Video Editor",
+    "company": "Manh Cuong Mobile Can Tho",
     "keywords": [
       {
         "keyword": "ảnh",
@@ -11362,6 +11610,7 @@
   {
     "job_id": "job-249",
     "job_title": "NHÂN VIÊN KỸ THUẬT - TẠI SÓC TRĂNG (CŨ)",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Hoang Phat",
     "keywords": [
       {
         "keyword": "hoặc",
@@ -11408,6 +11657,7 @@
   {
     "job_id": "job-250",
     "job_title": "Nhân Viên Kế Toán",
+    "company": "Cong Ty Cp Nhua Can Tho",
     "keywords": [
       {
         "keyword": "khi",
@@ -11454,6 +11704,7 @@
   {
     "job_id": "job-251",
     "job_title": "PHỤ KHO",
+    "company": "Cong Ty Tnhh Cong Nghe Thiet Bi Giao Duc Song Phuong",
     "keywords": [
       {
         "keyword": "kho",
@@ -11500,6 +11751,7 @@
   {
     "job_id": "job-252",
     "job_title": "NHÂN VIÊN PHOTOCOPY VÀ QUẢN LÝ CỬA HÀNG",
+    "company": "Cong Ty Tnhh Thuong Mai Va Dich Vu Kn Can Tho",
     "keywords": [
       {
         "keyword": "photocopy",
@@ -11546,6 +11798,7 @@
   {
     "job_id": "job-253",
     "job_title": "Sales Supervisor / Sales Executive",
+    "company": "Cong Ty Tnhh Dau Gao Sethia Hemraj",
     "keywords": [
       {
         "keyword": "the",
@@ -11592,6 +11845,7 @@
   {
     "job_id": "job-254",
     "job_title": "Nhân viên sale",
+    "company": "Tham My Quyen Anh",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -11638,6 +11892,7 @@
   {
     "job_id": "job-255",
     "job_title": "Kiên Giang - Nhân viên kỹ thuật",
+    "company": "Cong Ty Co Phan Nha Trang Seafood",
     "keywords": [
       {
         "keyword": "thiết bị",
@@ -11684,6 +11939,7 @@
   {
     "job_id": "job-256",
     "job_title": "Nhân viên thu mua",
+    "company": "Cong Ty Co Phan Bj T",
     "keywords": [
       {
         "keyword": "hàng",
@@ -11730,6 +11986,7 @@
   {
     "job_id": "job-257",
     "job_title": "Nhân viên thiết kế - Kỹ thuật",
+    "company": "Cong Ty Tnhh Chiplife Viet Nam",
     "keywords": [
       {
         "keyword": "máy in",
@@ -11776,6 +12033,7 @@
   {
     "job_id": "job-258",
     "job_title": "CTV Tư Vấn Du Học",
+    "company": "Du Hoc Quoc Te Tran Quang Cs Can Tho",
     "keywords": [
       {
         "keyword": "online",
@@ -11822,6 +12080,7 @@
   {
     "job_id": "job-259",
     "job_title": "Nhân Viên Marketing",
+    "company": "Chuoi Quan Dong Xanh",
     "keywords": [
       {
         "keyword": "tháng",
@@ -11868,6 +12127,7 @@
   {
     "job_id": "job-260",
     "job_title": "GIÁO VIÊN TIẾNG HÀN",
+    "company": "Trung Tam Ngoai Ngu Va Du Hoc Han Quoc Yejin",
     "keywords": [
       {
         "keyword": "học viên",
@@ -11914,6 +12174,7 @@
   {
     "job_id": "job-261",
     "job_title": "Nhân viên kinh doanh",
+    "company": "Cong Ty Tnhh Thuong Mai Dau Tu Xay Dung Ngo Quan",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -11960,6 +12221,7 @@
   {
     "job_id": "job-262",
     "job_title": "NHÂN VIÊN KINH DOANH",
+    "company": "Cong Ty Tnhh Thuong Mai Dich Vu S I H A",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -12006,6 +12268,7 @@
   {
     "job_id": "job-263",
     "job_title": "Nhân viên cơ điện",
+    "company": "Cong Ty Tnhh Vinh Ty",
     "keywords": [
       {
         "keyword": "hàn điện",
@@ -12052,6 +12315,7 @@
   {
     "job_id": "job-264",
     "job_title": "Nhân viên kho",
+    "company": "Cong Ty Tnhh Dich Vu Dafuna Dat Phuong Nam",
     "keywords": [
       {
         "keyword": "kho",
@@ -12098,6 +12362,7 @@
   {
     "job_id": "job-265",
     "job_title": "Giám đốc Nhân sự",
+    "company": "Cong Ty Co Phan Hanh Nguyen Logistics",
     "keywords": [
       {
         "keyword": "nhân sự",
@@ -12144,6 +12409,7 @@
   {
     "job_id": "job-266",
     "job_title": "Nhân Viên MD",
+    "company": "Cong Ty Tnhh Sungjin Vinh Long Vina",
     "keywords": [
       {
         "keyword": "đơn hàng",
@@ -12190,6 +12456,7 @@
   {
     "job_id": "job-267",
     "job_title": "Chuyên viên Tuyển dụng - Đào tạo",
+    "company": "Cong Ty Co Phan Xhome Can Tho",
     "keywords": [
       {
         "keyword": "đào tạo",
@@ -12236,6 +12503,7 @@
   {
     "job_id": "job-268",
     "job_title": "Nhân Viên Kinh Doanh",
+    "company": "Cong Ty Co Phan Sadico Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -12282,6 +12550,7 @@
   {
     "job_id": "job-269",
     "job_title": "CHUYÊN VIÊN KẾ TOÁN",
+    "company": "Cong Ty Co Phan Dau Tu Bat Dong San Cuu Long",
     "keywords": [
       {
         "keyword": "báo cáo",
@@ -12328,6 +12597,7 @@
   {
     "job_id": "job-270",
     "job_title": "KẾ TOÁN HÀNH CHÍNH",
+    "company": "Cong Ty Cp Dien Nuoc Ngoc Ngan",
     "keywords": [
       {
         "keyword": "biết",
@@ -12374,6 +12644,7 @@
   {
     "job_id": "job-271",
     "job_title": "Nhân Viên Tiếng Anh (Đào Tạo HSE - Không Yêu Cầu Kinh Nghiệm)",
+    "company": "Cong Ty Tnhh Sungjin Vinh Long Vina",
     "keywords": [
       {
         "keyword": "kinh nghiệm",
@@ -12420,6 +12691,7 @@
   {
     "job_id": "job-272",
     "job_title": "[Cần Thơ] Nhân Viên IT Helpdesk",
+    "company": "Cong Ty Adc",
     "keywords": [
       {
         "keyword": "dùng",
@@ -12466,6 +12738,7 @@
   {
     "job_id": "job-273",
     "job_title": "Trưởng/Phó Phòng Hành Chính Nhân Sự",
+    "company": "Cong Ty Co Phan Sadico Can Tho",
     "keywords": [
       {
         "keyword": "nhân sự",
@@ -12512,6 +12785,7 @@
   {
     "job_id": "job-274",
     "job_title": "Nhân Viên Tư Vấn",
+    "company": "Cong Ty Co Phan Jemmia",
     "keywords": [
       {
         "keyword": "hàng",
@@ -12558,6 +12832,7 @@
   {
     "job_id": "job-275",
     "job_title": "Giám sát nhà hàng",
+    "company": "Cong Ty Tnhh San Xuat Thuong Mai Dich Vu Trang Non",
     "keywords": [
       {
         "keyword": "quản lí",
@@ -12604,6 +12879,7 @@
   {
     "job_id": "job-276",
     "job_title": "NHÂN VIÊN TẠP VỤ",
+    "company": "Cong Ty Tnhh Trung Son Alpha",
     "keywords": [
       {
         "keyword": "dọn dẹp",
@@ -12638,6 +12914,7 @@
   {
     "job_id": "job-277",
     "job_title": "NHÂN VIÊN PHA CHẾ THUỐC BVTV TẠI LONG AN",
+    "company": "Cong Ty Co Phan Bmc Viet Nam",
     "keywords": [
       {
         "keyword": "pha chế",
@@ -12684,6 +12961,7 @@
   {
     "job_id": "job-278",
     "job_title": "Kỹ Sư Phần Cứng",
+    "company": "Cong Ty Tnhh Onyx United Foundation",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -12730,6 +13008,7 @@
   {
     "job_id": "job-279",
     "job_title": "Nhân Viên Kiểm Tra Chất Lượng",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Cuu Long Xanh",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -12776,6 +13055,7 @@
   {
     "job_id": "job-280",
     "job_title": "KIẾN TRÚC SƯ",
+    "company": "Kien Truc Xay Dung An Nam",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -12822,6 +13102,7 @@
   {
     "job_id": "job-281",
     "job_title": "Tuyển Giao Hàng Xe Máy GHTK Ninh Kiều Cần Thơ",
+    "company": "Cong Ty Co Phan Giao Hang Tiet Kiem",
     "keywords": [
       {
         "keyword": "kho",
@@ -12868,6 +13149,7 @@
   {
     "job_id": "job-282",
     "job_title": "Nhân viên buồng phòng",
+    "company": "Cong Ty Tnhh Hoang Kim Golden Era",
     "keywords": [
       {
         "keyword": "phòng",
@@ -12914,6 +13196,7 @@
   {
     "job_id": "job-283",
     "job_title": "KẾ TOÁN TRƯỞNG",
+    "company": "Cong Ty Cp Luong Thuc Ngoc Phuc",
     "keywords": [
       {
         "keyword": "tuổi",
@@ -12960,6 +13243,7 @@
   {
     "job_id": "job-284",
     "job_title": "NHÂN VIÊN SALE",
+    "company": "Niu Studio",
     "keywords": [
       {
         "keyword": "đức",
@@ -13006,6 +13290,7 @@
   {
     "job_id": "job-285",
     "job_title": "Nhân Viên Chăm Sóc Khách Hàng",
+    "company": "Cong Ty Co Phan Thanh Dong Group",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -13052,6 +13337,7 @@
   {
     "job_id": "job-286",
     "job_title": "TƯ VẤN BÁN HÀNG XE Ô TÔ MITSUBISHI",
+    "company": "Cong Ty Co Phan Oto Vig An Giang",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -13098,6 +13384,7 @@
   {
     "job_id": "job-287",
     "job_title": "Kỹ Sư M&E",
+    "company": "Cong Ty Tnhh Tmdv Goldsun",
     "keywords": [
       {
         "keyword": "thi công",
@@ -13144,6 +13431,7 @@
   {
     "job_id": "job-288",
     "job_title": "Nhân Viên Hồ Hải Sản",
+    "company": "Cong Ty Trach Nhiem Huu Han Shk",
     "keywords": [
       {
         "keyword": "hải sản",
@@ -13190,6 +13478,7 @@
   {
     "job_id": "job-289",
     "job_title": "CÁN BỘ NHÂN SỰ VÀ HÀNH CHÍNH",
+    "company": "Cong Ty Co Phan Kien Truc Nhip Dieu Xanh",
     "keywords": [
       {
         "keyword": "ưu tiên",
@@ -13236,6 +13525,7 @@
   {
     "job_id": "job-290",
     "job_title": "Kế Toán Doanh Thu",
+    "company": "J T Express Can Tho",
     "keywords": [
       {
         "keyword": "công nợ",
@@ -13282,6 +13572,7 @@
   {
     "job_id": "job-291",
     "job_title": "TUYỂN DỤNG: QUẢN LÝ WEBSITE",
+    "company": "Cong Ty Tnhh Thuong Mai Cafinex Coffee",
     "keywords": [
       {
         "keyword": "website",
@@ -13328,6 +13619,7 @@
   {
     "job_id": "job-292",
     "job_title": "KIẾN TRÚC SƯ",
+    "company": "Cong Ty Tnhh Kien Truc Xay Dung Hadico",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -13374,6 +13666,7 @@
   {
     "job_id": "job-293",
     "job_title": "NHÂN VIÊN KẾ TOÁN",
+    "company": "Cong Ty Tnhh Dego Holding",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -13420,6 +13713,7 @@
   {
     "job_id": "job-294",
     "job_title": "Nhân viên lái xe nâng",
+    "company": "Cong Ty Co Phan Binh Vinh Chi Nhanh Can Tho",
     "keywords": [
       {
         "keyword": "hàng",
@@ -13466,6 +13760,7 @@
   {
     "job_id": "job-295",
     "job_title": "Nhân Viên HSE",
+    "company": "Cong Ty Tnhh Sungjin Vinh Long Vina",
     "keywords": [
       {
         "keyword": "pccc",
@@ -13512,6 +13807,7 @@
   {
     "job_id": "job-296",
     "job_title": "CÁN BỘ QUẢN LÝ DỰ ÁN",
+    "company": "Cong Ty Co Phan Kien Truc Nhip Dieu Xanh",
     "keywords": [
       {
         "keyword": "kinh nghiệm",
@@ -13558,6 +13854,7 @@
   {
     "job_id": "job-297",
     "job_title": "Công Nhân: Kho, Sơ Chế, Thành Phẩm",
+    "company": "Cong Ty Tnhh Mot Thanh Vien Hung Phuc",
     "keywords": [
       {
         "keyword": "đóng",
@@ -13588,6 +13885,7 @@
   {
     "job_id": "job-298",
     "job_title": "NHÂN VIÊN KỸ THUẬT THUỐC BVTV/ PHÂN BÓN",
+    "company": "Cong Ty Tnhh Xnk Vina Agri Group",
     "keywords": [
       {
         "keyword": "thị trường",
@@ -13634,6 +13932,7 @@
   {
     "job_id": "job-299",
     "job_title": "KIỂM NGHIỆM VIÊN VI SINH",
+    "company": "Cong Ty Tnhh Tentamus Viet Nam",
     "keywords": [
       {
         "keyword": "iso",
@@ -13680,6 +13979,7 @@
   {
     "job_id": "job-300",
     "job_title": "NHÂN VIÊN MARKETING",
+    "company": "Cong Ty Co Phan Tap Doan Xuat Nhap Khau Unicorn Viet Nam",
     "keywords": [
       {
         "keyword": "marketing",
@@ -13726,6 +14026,7 @@
   {
     "job_id": "job-301",
     "job_title": "Nhân Viên In",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "tay nghề",
@@ -13772,6 +14073,7 @@
   {
     "job_id": "job-302",
     "job_title": "CHUYÊN VIÊN VẬN HÀNH",
+    "company": "Cong Ty Tnhh Minh Quang Edu",
     "keywords": [
       {
         "keyword": "học viên",
@@ -13818,6 +14120,7 @@
   {
     "job_id": "job-303",
     "job_title": "Chuyên viên Đảm bảo chất lượng",
+    "company": "Cong Ty Cp Cpt Food Chi Nhanh Vinh Long",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -13864,6 +14167,7 @@
   {
     "job_id": "job-304",
     "job_title": "Nhân viên Kiểm soát chất lượng - QC",
+    "company": "Cong Ty Tnhh Lac Thanh King Foods",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -13910,6 +14214,7 @@
   {
     "job_id": "job-305",
     "job_title": "Nhân viên Marketing",
+    "company": "Cong Ty Tnhh Toyota Ninh Kieu",
     "keywords": [
       {
         "keyword": "marketing",
@@ -13956,6 +14261,7 @@
   {
     "job_id": "job-306",
     "job_title": "Nhân viên kinh doanh",
+    "company": "Cty Cp Satuda",
     "keywords": [
       {
         "keyword": "nhân viên",
@@ -14002,6 +14308,7 @@
   {
     "job_id": "job-307",
     "job_title": "Nhân Viên Compliance",
+    "company": "Cong Ty Tnhh Sungjin Vinh Long Vina",
     "keywords": [
       {
         "keyword": "tuân thủ",
@@ -14048,6 +14355,7 @@
   {
     "job_id": "job-308",
     "job_title": "PHIÊN DỊCH TIẾNG ANH",
+    "company": "Cong Ty Hai An Material",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -14094,6 +14402,7 @@
   {
     "job_id": "job-309",
     "job_title": "Kế Toán Nhân Sự",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "hợp đồng",
@@ -14140,6 +14449,7 @@
   {
     "job_id": "job-310",
     "job_title": "Sale Admin",
+    "company": "Cong Ty Tnhh Nong Nghiep Manh Nong",
     "keywords": [
       {
         "keyword": "hàng",
@@ -14186,6 +14496,7 @@
   {
     "job_id": "job-311",
     "job_title": "Nhân Viên Tuyển Dụng KV Kiên Giang - Long An",
+    "company": "J T Express Can Tho",
     "keywords": [
       {
         "keyword": "tuyển dụng",
@@ -14232,6 +14543,7 @@
   {
     "job_id": "job-312",
     "job_title": "Nhân viên marketing",
+    "company": "Cong Ty Cp Giai Phap Moi Truong Ares",
     "keywords": [
       {
         "keyword": "marketing",
@@ -14278,6 +14590,7 @@
   {
     "job_id": "job-313",
     "job_title": "Dự toán & Thiết kế nội thất",
+    "company": "Cong Ty Tnhh Cong Nghe Thiet Bi Giao Duc Song Phuong",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -14324,6 +14637,7 @@
   {
     "job_id": "job-314",
     "job_title": "Tài Xế B2 khu vực Cần Thơ - HCM (chạy chầu ưu tiên)",
+    "company": "Cong Ty Tnhh Dang Cap Dong Bang Song Cuu Long",
     "keywords": [
       {
         "keyword": "lái xe",
@@ -14370,6 +14684,7 @@
   {
     "job_id": "job-315",
     "job_title": "Kế toán viên",
+    "company": "Cong Ty Tnhh Nong Nghiep Manh Nong",
     "keywords": [
       {
         "keyword": "thuế",
@@ -14416,6 +14731,7 @@
   {
     "job_id": "job-316",
     "job_title": "Nhân viên C&B",
+    "company": "Cong Ty Co Phan Cara Group",
     "keywords": [
       {
         "keyword": "lương",
@@ -14462,6 +14778,7 @@
   {
     "job_id": "job-317",
     "job_title": "Chuyên viên kế toán",
+    "company": "Cong Ty Co Phan Hanh Nguyen Logistics",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -14508,6 +14825,7 @@
   {
     "job_id": "job-318",
     "job_title": "KẾ TOÁN",
+    "company": "Cong Ty Tnhh Xay Dung Thuong Mai Phu Quy",
     "keywords": [
       {
         "keyword": "hàng",
@@ -14554,6 +14872,7 @@
   {
     "job_id": "job-319",
     "job_title": "Nhân viên BA/Helpdesk",
+    "company": "Cong Ty Tnhh Cong Nghe Thiet Bi Giao Duc Song Phuong",
     "keywords": [
       {
         "keyword": "phần mềm",
@@ -14600,6 +14919,7 @@
   {
     "job_id": "job-320",
     "job_title": "Chăm sóc khách hàng",
+    "company": "Cong Ty Tnhh Mtv Nauy",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -14646,6 +14966,7 @@
   {
     "job_id": "job-321",
     "job_title": "PHÓ TRƯỞNG PHÒNG KINH DOANH",
+    "company": "Cong Ty Tnhh Bhnt Fubon Life Van Phong Can Tho",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -14692,6 +15013,7 @@
   {
     "job_id": "job-322",
     "job_title": "Trưởng Phòng Kinh Doanh Vùng",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "kế hoạch",
@@ -14738,6 +15060,7 @@
   {
     "job_id": "job-323",
     "job_title": "Kỹ Sư Cơ Khí Chế Tạo Máy",
+    "company": "Cong Ty Tnhh Sau Con",
     "keywords": [
       {
         "keyword": "bản vẽ",
@@ -14784,6 +15107,7 @@
   {
     "job_id": "job-324",
     "job_title": "Chuyên viên kế toán",
+    "company": "Cong Ty Tnhh Phu Tung O To Nguyen Phat",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -14830,6 +15154,7 @@
   {
     "job_id": "job-325",
     "job_title": "Nhân Viên Kinh Doanh xe Du lịch",
+    "company": "Cong Ty Tnhh Dv Tm Auto Anh Sang",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -14876,6 +15201,7 @@
   {
     "job_id": "job-326",
     "job_title": "Giáo viên mầm non",
+    "company": "Cong Ty Tnhh Giao Duc Va Dao Tao Mekong",
     "keywords": [
       {
         "keyword": "con",
@@ -14922,6 +15248,7 @@
   {
     "job_id": "job-327",
     "job_title": "Chuyên Viên Digital Marketing",
+    "company": "Cong Ty Co Phan Dich Vu Bat Dong San Nam Mien Tay",
     "keywords": [
       {
         "keyword": "ads",
@@ -14968,6 +15295,7 @@
   {
     "job_id": "job-328",
     "job_title": "Nhân Viê Tài Xế",
+    "company": "Cong Ty Co Phan Xay Lap Va Dich Vu Hung Hung Dat",
     "keywords": [
       {
         "keyword": "chở",
@@ -15014,6 +15342,7 @@
   {
     "job_id": "job-329",
     "job_title": "PHÓ PHÒNG MARKETING",
+    "company": "Cong Ty Trach Nhiem Huu Han Shk",
     "keywords": [
       {
         "keyword": "tạo sản phẩm",
@@ -15060,6 +15389,7 @@
   {
     "job_id": "job-330",
     "job_title": "[Mekong] Trình Dược Viên ETC",
+    "company": "Cong Ty Cp Duoc Pham Mebolide",
     "keywords": [
       {
         "keyword": "mối quan hệ",
@@ -15106,6 +15436,7 @@
   {
     "job_id": "job-331",
     "job_title": "Thư Ký",
+    "company": "Cty Tnhh Xuat Nhap Khau Quoc Tin",
     "keywords": [
       {
         "keyword": "hàng",
@@ -15152,6 +15483,7 @@
   {
     "job_id": "job-332",
     "job_title": "KỸ THUẬT VIÊN DÁN FILM Ô TÔ",
+    "company": "Vinfast Quoc Viet Can Tho",
     "keywords": [
       {
         "keyword": "ô tô",
@@ -15198,6 +15530,7 @@
   {
     "job_id": "job-333",
     "job_title": "Nhân Viên Kế Toán Nội Bộ",
+    "company": "Dien Thoai 102",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -15244,6 +15577,7 @@
   {
     "job_id": "job-334",
     "job_title": "Thực tập sinh chuyên môn (Marketing, Nhân sự)",
+    "company": "Cong Ty Tnhh Nw",
     "keywords": [
       {
         "keyword": "tham gia",
@@ -15290,6 +15624,7 @@
   {
     "job_id": "job-335",
     "job_title": "KCN Thốt Nốt - Nhân viên Kiểm soát Chất lượng (QC)",
+    "company": "Cong Ty Cp Thuy San Ntsf",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -15336,6 +15671,7 @@
   {
     "job_id": "job-336",
     "job_title": "Kỹ Sư Xây Dựng Mới Ra Trường",
+    "company": "Cong Ty Co Phan Cong Nghiep Xay Dung Toan Thanh",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -15382,6 +15718,7 @@
   {
     "job_id": "job-337",
     "job_title": "Nhân viên Kinh doanh & Logistics Xuất nhập khẩu",
+    "company": "Cong Ty Tnhh Dich Thuat Visa Khanh An",
     "keywords": [
       {
         "keyword": "xuất nhập khẩu",
@@ -15428,6 +15765,7 @@
   {
     "job_id": "job-338",
     "job_title": "Chuyên viên CSKH + giáo vụ",
+    "company": "Trung Tam Ngoai Ngu Va Du Hoc Han Quoc Yejin",
     "keywords": [
       {
         "keyword": "học tập",
@@ -15474,6 +15812,7 @@
   {
     "job_id": "job-339",
     "job_title": "Nhân viên Telesales",
+    "company": "Cong Ty Tnhh Duoc Hong Loc Phat",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -15520,6 +15859,7 @@
   {
     "job_id": "job-340",
     "job_title": "Chuyên Viên Kinh Doanh - Bán hàng Kỹ thuật",
+    "company": "Cong Ty Tnhh Thuong Mai Va Phat Trien Cong Nghe Tnf Viet Nam",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -15566,6 +15906,7 @@
   {
     "job_id": "job-341",
     "job_title": "27.03.2026 Cần Tuyển công nhân đóng gói sản phẩm ngũ cốc",
+    "company": "Co So Thuan Hoa",
     "keywords": [
       {
         "keyword": "000",
@@ -15612,6 +15953,7 @@
   {
     "job_id": "job-342",
     "job_title": "(Bạc Liêu, Giá Rai) Tuyển Nhân Viên Bán Hàng - Chuỗi Bán Lẻ Thiết Bị Sức Khỏe KINGSPORT",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Phat Trien Dong Duong Tap Doan The Thao Kingsport",
     "keywords": [
       {
         "keyword": "kingsport",
@@ -15658,6 +16000,7 @@
   {
     "job_id": "job-343",
     "job_title": "Nhân viên kỹ thuật",
+    "company": "Cong Ty Tnhh Hong Mon",
     "keywords": [
       {
         "keyword": "lắp đặt",
@@ -15704,6 +16047,7 @@
   {
     "job_id": "job-344",
     "job_title": "NHÂN VIÊN KINH DOANH THUỐC THỦY SẢN MẢNG ONLINE",
+    "company": "Cong Ty Tnhh San Xuat Kinh Doanh My Phu",
     "keywords": [
       {
         "keyword": "livestream",
@@ -15750,6 +16094,7 @@
   {
     "job_id": "job-345",
     "job_title": "Trưởng Phòng Chăm sóc khách hàng",
+    "company": "Cong Ty Co Phan Hanh Nguyen Logistics",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -15796,6 +16141,7 @@
   {
     "job_id": "job-346",
     "job_title": "Nhân viên kỹ thuật",
+    "company": "Cong Ty Tnhh Mtv Tam Ngoc",
     "keywords": [
       {
         "keyword": "vi sinh môi trường",
@@ -15842,6 +16188,7 @@
   {
     "job_id": "job-347",
     "job_title": "Kỹ sư xây dựng",
+    "company": "Cong Ty Tnhh Vat Tu Xay Dung Hoang Minh",
     "keywords": [
       {
         "keyword": "thi công",
@@ -15888,6 +16235,7 @@
   {
     "job_id": "job-348",
     "job_title": "Nhân viên Truyền Thông Xã Hội Ứng Dụng AI",
+    "company": "Truong Dai Hoc Nam Can Tho",
     "keywords": [
       {
         "keyword": "kênh",
@@ -15934,6 +16282,7 @@
   {
     "job_id": "job-349",
     "job_title": "Kế toán công nợ, tài sản cố định",
+    "company": "Cong Ty Co Phan Xay Dung Ha Tang Khu Cong Nghiep Can Tho",
     "keywords": [
       {
         "keyword": "theo dõi",
@@ -15980,6 +16329,7 @@
   {
     "job_id": "job-350",
     "job_title": "nhân viên phụ bếp",
+    "company": "Cty Tnhh Thuong Mai Dich Vu Cao Cap Viet",
     "keywords": [
       {
         "keyword": "bếp",
@@ -16026,6 +16376,7 @@
   {
     "job_id": "job-351",
     "job_title": "Nhân viên Tuyển sinh (Ngoại ngữ và Du học) (yêu cầu kinh nghiệm)",
+    "company": "Cong Ty Tnhh Nw",
     "keywords": [
       {
         "keyword": "kỹ năng",
@@ -16072,6 +16423,7 @@
   {
     "job_id": "job-352",
     "job_title": "Nhân viên Quản lý tài sản",
+    "company": "Cong Ty Co Phan Hanh Nguyen Logistics",
     "keywords": [
       {
         "keyword": "tài sản",
@@ -16118,6 +16470,7 @@
   {
     "job_id": "job-353",
     "job_title": "NHÂN VIÊN THỐNG KÊ - KHO",
+    "company": "Cong Ty Co Phan Nha Trang Seafood",
     "keywords": [
       {
         "keyword": "kho",
@@ -16164,6 +16517,7 @@
   {
     "job_id": "job-354",
     "job_title": "NHÂN VIÊN BÁN HÀNG NÔNG NGHIỆP",
+    "company": "Cong Ty Tnhh Dego Holding",
     "keywords": [
       {
         "keyword": "hỗ trợ",
@@ -16210,6 +16564,7 @@
   {
     "job_id": "job-355",
     "job_title": "[SÓC TRĂNG] TUYỂN NHÂN VIÊN GIAO HÀNG",
+    "company": "Cong Ty Co Phan Dich Vu Giao Hang Nhanh",
     "keywords": [
       {
         "keyword": "thu nhập",
@@ -16256,6 +16611,7 @@
   {
     "job_id": "job-356",
     "job_title": "CHUYÊN VIÊN EDITOR",
+    "company": "Cong Ty Trach Nhiem Huu Han Shk",
     "keywords": [
       {
         "keyword": "sản phẩm",
@@ -16302,6 +16658,7 @@
   {
     "job_id": "job-357",
     "job_title": "Kỹ Sư Kết Cấu",
+    "company": "Kien Truc Xay Dung Rh",
     "keywords": [
       {
         "keyword": "kết cấu",
@@ -16348,6 +16705,7 @@
   {
     "job_id": "job-358",
     "job_title": "NHÂN VIÊN KINH DOANH B2B",
+    "company": "Va N Xuan",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -16394,6 +16752,7 @@
   {
     "job_id": "job-359",
     "job_title": "Le Fruit - NHÂN VIÊN THU MUA",
+    "company": "Cong Ty Co Phan Vuon Trai Cuu Long Les Vergers Du Mekong",
     "keywords": [
       {
         "keyword": "hàng",
@@ -16440,6 +16799,7 @@
   {
     "job_id": "job-360",
     "job_title": "CỘNG TÁC VIÊN TƯ VẤN & CHĂM SÓC KHÁCH HÀNG TRUNG TÂM TOÁN TRÍ TUỆ GENIUSKID",
+    "company": "Cty Tnhh Dau Tu Va Phat Trien Viet My",
     "keywords": [
       {
         "keyword": "hỗ trợ",
@@ -16486,6 +16846,7 @@
   {
     "job_id": "job-361",
     "job_title": "TRƯỞNG BỘ PHẬN THU MUA",
+    "company": "Cong Ty Tnhh Dego Holding",
     "keywords": [
       {
         "keyword": "thu mua",
@@ -16532,6 +16893,7 @@
   {
     "job_id": "job-362",
     "job_title": "NHÂN VIÊN Y TẾ",
+    "company": "Cty Tnhh Unipax Vi Thanh",
     "keywords": [
       {
         "keyword": "y tế",
@@ -16578,6 +16940,7 @@
   {
     "job_id": "job-363",
     "job_title": "KẾ TOÁN TRƯỞNG",
+    "company": "Cong Ty Co Phan Kien Truc Nhip Dieu Xanh",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -16624,6 +16987,7 @@
   {
     "job_id": "job-364",
     "job_title": "Kỹ thuật hiện trường",
+    "company": "Cong Ty Cp Xay Dung Tm An Nhien House",
     "keywords": [
       {
         "keyword": "kỹ năng",
@@ -16670,6 +17034,7 @@
   {
     "job_id": "job-365",
     "job_title": "NHÂN VIÊN SALE MARKETING",
+    "company": "Cong Ty Co Phan Ung Dung Cong Nghe Xanh Viet Nam",
     "keywords": [
       {
         "keyword": "livestream",
@@ -16716,6 +17081,7 @@
   {
     "job_id": "job-366",
     "job_title": "NHÂN VIÊN NHÂN SỰ (PHỤ TRÁCH TUYỂN DỤNG & ĐÀO TẠO)",
+    "company": "Cty Tnhh Unipax Vi Thanh",
     "keywords": [
       {
         "keyword": "đào tạo",
@@ -16762,6 +17128,7 @@
   {
     "job_id": "job-367",
     "job_title": "THỰC TẬP SINH GIÁM SÁT XÂY DỰNG",
+    "company": "Cong Ty Tnhh Tmdv Goldsun",
     "keywords": [
       {
         "keyword": "thi công",
@@ -16808,6 +17175,7 @@
   {
     "job_id": "job-368",
     "job_title": "NHÂN VIÊN HỖ TRỢ KINH DOANH",
+    "company": "Cong Ty Co Phan Kien Truc Nhip Dieu Xanh",
     "keywords": [
       {
         "keyword": "trao đổi",
@@ -16854,6 +17222,7 @@
   {
     "job_id": "job-369",
     "job_title": "KẾ TOÁN TỔNG HỢP",
+    "company": "Cong Ty Tnhh Tm Dv Giai Phap Cong Nghe Xanh",
     "keywords": [
       {
         "keyword": "thuế",
@@ -16900,6 +17269,7 @@
   {
     "job_id": "job-370",
     "job_title": "Kiến Trúc Sư Chuyên Ngành Quy Hoạch Đô Thị",
+    "company": "Cong Ty Cp Dau Tu Dia Oc Hoang Quan Can Tho",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -16946,6 +17316,7 @@
   {
     "job_id": "job-371",
     "job_title": "ĐIỀU DƯỠNG VIÊN",
+    "company": "Cong Ty Cp Center Lab Viet Nam Trung Tam Chan Doan Y Khoa",
     "keywords": [
       {
         "keyword": "người bệnh",
@@ -16992,6 +17363,7 @@
   {
     "job_id": "job-372",
     "job_title": "CÔNG NHÂN TOÀN THỜI GIAN",
+    "company": "Cong Ty Tnhh Mtv May Mac Hsm",
     "keywords": [
       {
         "keyword": "may",
@@ -17038,6 +17410,7 @@
   {
     "job_id": "job-373",
     "job_title": "Trưởng Phòng Xuất nhập khẩu",
+    "company": "Cong Ty Co Phan Hanh Nguyen Logistics",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -17084,6 +17457,7 @@
   {
     "job_id": "job-374",
     "job_title": "Nhân viên phòng cắt",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "cắt",
@@ -17130,6 +17504,7 @@
   {
     "job_id": "job-375",
     "job_title": "TUYỂN DỤNG 10 NHÂN VIÊN KINH DOANH BẤT ĐỘNG SẢN",
+    "company": "Cong Ty Co Phan Dich Vu Dat Xanh Mien Tay",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -17176,6 +17551,7 @@
   {
     "job_id": "job-376",
     "job_title": "Nhân viên kỹ thuật Farm",
+    "company": "Cong Ty Tnhh Binh Minh Capital",
     "keywords": [
       {
         "keyword": "kỹ thuật",
@@ -17222,6 +17598,7 @@
   {
     "job_id": "job-377",
     "job_title": "NHÂN VIÊN R&D SẢN PHẨM",
+    "company": "Cong Ty Co Phan Nong San Thuc Pham Thanh Ngoc",
     "keywords": [
       {
         "keyword": "sản phẩm",
@@ -17268,6 +17645,7 @@
   {
     "job_id": "job-378",
     "job_title": "Nhân viên Marketing",
+    "company": "Cong Ty Tnhh Mtv Hp",
     "keywords": [
       {
         "keyword": "video",
@@ -17314,6 +17692,7 @@
   {
     "job_id": "job-379",
     "job_title": "Kiên Giang - Nhân viên KCS",
+    "company": "Cong Ty Co Phan Nha Trang Seafood",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -17360,6 +17739,7 @@
   {
     "job_id": "job-380",
     "job_title": "GIÁO VIÊN TIẾNG TRUNG",
+    "company": "Trung Tam Ngoai Ngu Va Du Hoc Han Quoc Yejin",
     "keywords": [
       {
         "keyword": "học viên",
@@ -17406,6 +17786,7 @@
   {
     "job_id": "job-381",
     "job_title": "CÔNG NHÂN MAY",
+    "company": "Cty Tnhh Unipax Vi Thanh",
     "keywords": [
       {
         "keyword": "máy may",
@@ -17452,6 +17833,7 @@
   {
     "job_id": "job-382",
     "job_title": "Nhân viên Content Marketing",
+    "company": "Cong Ty Tnhh Trung Son Alpha",
     "keywords": [
       {
         "keyword": "nội dung",
@@ -17498,6 +17880,7 @@
   {
     "job_id": "job-383",
     "job_title": "Tài xế lái xe văn phòng",
+    "company": "Cong Ty Tnhh Dv Tm Hoa",
     "keywords": [
       {
         "keyword": "trở",
@@ -17544,6 +17927,7 @@
   {
     "job_id": "job-384",
     "job_title": "Chuyên Viên Bán Hàng Trang Sức",
+    "company": "Phong Nhan Su Cty Kim Bao Han",
     "keywords": [
       {
         "keyword": "bán",
@@ -17590,6 +17974,7 @@
   {
     "job_id": "job-385",
     "job_title": "Kỹ Sư Điện Tử IoT",
+    "company": "Cong Ty Tnhh Onyx United Foundation",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -17636,6 +18021,7 @@
   {
     "job_id": "job-386",
     "job_title": "Nhân viên Kế toán Nội Bộ",
+    "company": "Cong Ty Co Phan Dntc Do Nghe Tu Chon",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -17682,6 +18068,7 @@
   {
     "job_id": "job-387",
     "job_title": "KẾ TOÁN VIÊN",
+    "company": "Cong Ty Trach Nhiem Huu Han Shk",
     "keywords": [
       {
         "keyword": "báo cáo",
@@ -17728,6 +18115,7 @@
   {
     "job_id": "job-388",
     "job_title": "Nhân viên cắm hoa kiêm quản lý kho",
+    "company": "Chi Nhanh Cong Ty Cp Du Lich Thanh Thanh Cong Tai Can Tho Khach San Ttc",
     "keywords": [
       {
         "keyword": "hoa",
@@ -17774,6 +18162,7 @@
   {
     "job_id": "job-389",
     "job_title": "[Tuyển dụng Khối Giáo dục FPT miền Tây] Giáo viên chủ nhiệm tiểu học",
+    "company": "Khoi Giao Duc Fpt Can Tho",
     "keywords": [
       {
         "keyword": "giảng dạy",
@@ -17820,6 +18209,7 @@
   {
     "job_id": "job-390",
     "job_title": "Digital Marketing",
+    "company": "Cong Ty Co Phan Hanh Nguyen Logistics",
     "keywords": [
       {
         "keyword": "xây dựng",
@@ -17866,6 +18256,7 @@
   {
     "job_id": "job-391",
     "job_title": "GIÁO VIÊN TIẾNG TRUNG – OFFLINE",
+    "company": "Cong Ty Tnhh Phat Trien Giao Duc Tuong Lai Tot Dep Nhat",
     "keywords": [
       {
         "keyword": "giảng dạy",
@@ -17912,6 +18303,7 @@
   {
     "job_id": "job-392",
     "job_title": "CSKH - Kế toán",
+    "company": "Manh Cuong Mobile Can Tho",
     "keywords": [
       {
         "keyword": "kiểm soát",
@@ -17958,6 +18350,7 @@
   {
     "job_id": "job-393",
     "job_title": "Tư vấn viên",
+    "company": "Tong Cty Bao Viet Nhan Tho Trung Tam Kinh Doanh Tay Do 1",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -18004,6 +18397,7 @@
   {
     "job_id": "job-394",
     "job_title": "Lao Động Phổ Thông",
+    "company": "Cong Ty Tnhh Mtv May Mac Hsm",
     "keywords": [
       {
         "keyword": "may",
@@ -18050,6 +18444,7 @@
   {
     "job_id": "job-395",
     "job_title": "Nhân viên Kinh doanh",
+    "company": "Cong Ty Tnhh Dao Tao Goscholar",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -18096,6 +18491,7 @@
   {
     "job_id": "job-396",
     "job_title": "Giáo Viên Mầm Non",
+    "company": "Cong Ty Co Phan Giao Duc Cong Nghe Quoc Te Milestones",
     "keywords": [
       {
         "keyword": "giảng dạy",
@@ -18142,6 +18538,7 @@
   {
     "job_id": "job-397",
     "job_title": "Nhân viên Hỗ trợ kỹ thuật",
+    "company": "Cong Ty Co Phan My Lan",
     "keywords": [
       {
         "keyword": "kỹ thuật",
@@ -18188,6 +18585,7 @@
   {
     "job_id": "job-398",
     "job_title": "Cộng tác viên bán hàng",
+    "company": "Cong Ty Tnhh Cau Noi Mekong",
     "keywords": [
       {
         "keyword": "hàng",
@@ -18234,6 +18632,7 @@
   {
     "job_id": "job-399",
     "job_title": "Kinh doanh quốc tế, làm chứng từ xuất khẩu tại tp Bạc Liêu",
+    "company": "Cong Ty Cp Dt Tm Sx Mekong Export",
     "keywords": [
       {
         "keyword": "đơn hàng",
@@ -18280,6 +18679,7 @@
   {
     "job_id": "job-400",
     "job_title": "Kỹ Sư Điện Tử",
+    "company": "Cong Ty Tnhh Onyx United Foundation",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -18326,6 +18726,7 @@
   {
     "job_id": "job-401",
     "job_title": "[CẦN THƠ] NHÂN VIÊN KINH DOANH NGÀNH DƯỢC",
+    "company": "Cong Ty Tnhh Duoc Hong Loc Phat",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -18372,6 +18773,7 @@
   {
     "job_id": "job-402",
     "job_title": "KẾ TOÁN DOANH THU",
+    "company": "Cong Ty Tnhh Tentamus Viet Nam",
     "keywords": [
       {
         "keyword": "doanh thu",
@@ -18418,6 +18820,7 @@
   {
     "job_id": "job-403",
     "job_title": "Nhân Viên – Cộng tác viên Kinh Doanh Bất Động Sản",
+    "company": "Cong Ty Tnhh Vat Tu Xay Dung Hoang Minh",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -18464,6 +18867,7 @@
   {
     "job_id": "job-404",
     "job_title": "NHÂN VIÊN KINH DOANH THỊ TRƯỜNG",
+    "company": "Cong Ty Tnhh Dien May An Nguyen",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -18510,6 +18914,7 @@
   {
     "job_id": "job-405",
     "job_title": "BUSINESS DEVELOPMENT / CTV Phát Triển KINH DOANH",
+    "company": "Hopper Global Holdings",
     "keywords": [
       {
         "keyword": "chủ quán",
@@ -18556,6 +18961,7 @@
   {
     "job_id": "job-406",
     "job_title": "Nhân viên kinh doanh",
+    "company": "Cong Ty Cp Cong Nghe Omfarm",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -18602,6 +19008,7 @@
   {
     "job_id": "job-407",
     "job_title": "Kế Toán Thu Mua",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "nhà cung cấp",
@@ -18648,6 +19055,7 @@
   {
     "job_id": "job-408",
     "job_title": "BẾP CHÍNH ÂU - MÔ HÌNH SÂN GOLF",
+    "company": "Cong Ty Co Phan Dau Tu Phat Trien Golf Long An",
     "keywords": [
       {
         "keyword": "món",
@@ -18694,6 +19102,7 @@
   {
     "job_id": "job-409",
     "job_title": "Trưởng phòng thiết kế",
+    "company": "Cong Ty Tnhh Tu Van Va Dau Tu Xay Dung Tp Home",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -18740,6 +19149,7 @@
   {
     "job_id": "job-410",
     "job_title": "Giám đốc Nhà máy_ Kỹ sư Cơ Khí",
+    "company": "Cong Ty Co Phan Xuat Nhap Khau Nam Thai Son",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -18786,6 +19196,7 @@
   {
     "job_id": "job-411",
     "job_title": "Kế Toán Chăm Sóc",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -18832,6 +19243,7 @@
   {
     "job_id": "job-412",
     "job_title": "MOBILE DEVELOPMENT INTERN (FULL-TIME) / THỰC TẬP SINH LẬP TRÌNH MOBILE",
+    "company": "Hopper Global Holdings",
     "keywords": [
       {
         "keyword": "native",
@@ -18878,6 +19290,7 @@
   {
     "job_id": "job-413",
     "job_title": "Bán Hàng Xe Máy, Phụ Tùng",
+    "company": "Cong Ty Tnhh Xe May Hong Hung",
     "keywords": [
       {
         "keyword": "xe gắn máy",
@@ -18924,6 +19337,7 @@
   {
     "job_id": "job-414",
     "job_title": "HỖ TRỢ KINH DOANH KÊNH DỰ ÁN (SALE ADMIN)",
+    "company": "Cong Ty Tnhh Mtv Tu Van Xay Dung Vinh Linh",
     "keywords": [
       {
         "keyword": "trên",
@@ -18970,6 +19384,7 @@
   {
     "job_id": "job-415",
     "job_title": "Nhân viên phòng Thiết kế",
+    "company": "Cong Ty Tnhh King Group",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -19016,6 +19431,7 @@
   {
     "job_id": "job-416",
     "job_title": "NHÂN VIÊN KINH DOANH",
+    "company": "Cong Ty Tnhh Tm Dv Vu Tinh",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -19062,6 +19478,7 @@
   {
     "job_id": "job-417",
     "job_title": "KẾ TOÁN TỔNG HỢP (ƯU TIÊN CÓ KINH NGHIỆM, LÀM VIỆC NGAY)",
+    "company": "Cong Ty Co Phan Agrijapan",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -19108,6 +19525,7 @@
   {
     "job_id": "job-418",
     "job_title": "THỰC TẬP SINH KINH DOANH",
+    "company": "Cong Ty Co Phan Cong Nghe Sapo",
     "keywords": [
       {
         "keyword": "phần mềm",
@@ -19154,6 +19572,7 @@
   {
     "job_id": "job-419",
     "job_title": "Nhân viên Hành chính Nhân sự",
+    "company": "Cong Ty Cp Cong Nghe Teknix Chi Nhanh Can Tho",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -19200,6 +19619,7 @@
   {
     "job_id": "job-420",
     "job_title": "Graphic Designer",
+    "company": "Chuoi Quan Dong Xanh",
     "keywords": [
       {
         "keyword": "biết",
@@ -19246,6 +19666,7 @@
   {
     "job_id": "job-421",
     "job_title": "Fresher DevOps Engineer (Good English communication)",
+    "company": "Beyondedge",
     "keywords": [
       {
         "keyword": "with",
@@ -19292,6 +19713,7 @@
   {
     "job_id": "job-422",
     "job_title": "Telesale Nha Khoa",
+    "company": "Nha Khoa Tham My Quoc Te Vindental",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -19338,6 +19760,7 @@
   {
     "job_id": "job-423",
     "job_title": "Nhân viên bán hàng Online",
+    "company": "Cong Ty Tnhh Duoc Hong Loc Phat",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -19384,6 +19807,7 @@
   {
     "job_id": "job-424",
     "job_title": "NHÂN VIÊN LIVESTREAM PART-TIME",
+    "company": "Cong Ty Tnhh Xnk Vina Agri Group",
     "keywords": [
       {
         "keyword": "livestream",
@@ -19430,6 +19854,7 @@
   {
     "job_id": "job-425",
     "job_title": "Nhân Viên Cơ Điện (Gấp)",
+    "company": "Cong Ty Tnhh Mot Thanh Vien Hung Phuc",
     "keywords": [
       {
         "keyword": "điện",
@@ -19476,6 +19901,7 @@
   {
     "job_id": "job-426",
     "job_title": "Quản Lý Vùng (ASM) Miền Tây",
+    "company": "Cong Ty Tnhh Cong Nghe Sinh Hoc Tenabio Viet Duc",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -19522,6 +19948,7 @@
   {
     "job_id": "job-427",
     "job_title": "DevOps / Cloud Engineer",
+    "company": "Cong Ty Tmdv Phuc An Khang",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -19568,6 +19995,7 @@
   {
     "job_id": "job-428",
     "job_title": "Quản lý sản xuất",
+    "company": "Cong Ty Co Phan Tap Doan Tien Thinh",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -19614,6 +20042,7 @@
   {
     "job_id": "job-429",
     "job_title": "NHÂN VIÊN KINH DOANH",
+    "company": "Cong Ty Co Phan Tap Doan Xuat Nhap Khau Unicorn Viet Nam",
     "keywords": [
       {
         "keyword": "khu vực",
@@ -19660,6 +20089,7 @@
   {
     "job_id": "job-430",
     "job_title": "Nhân Viên Điện (vận hàng máy, hệ thống lạnh) Tại Bạc Liêu",
+    "company": "Cong Ty Cp Dt Tm Sx Mekong Export",
     "keywords": [
       {
         "keyword": "hệ thống",
@@ -19706,6 +20136,7 @@
   {
     "job_id": "job-431",
     "job_title": "NHÂN VIÊN THU HỒI NỢ HIỆN TRƯỜNG",
+    "company": "Y99",
     "keywords": [
       {
         "keyword": "thu hồi",
@@ -19752,6 +20183,7 @@
   {
     "job_id": "job-432",
     "job_title": "Nhân Viên Bảo Trì",
+    "company": "Cong Ty Co Phan My Lan",
     "keywords": [
       {
         "keyword": "bảo trì",
@@ -19798,6 +20230,7 @@
   {
     "job_id": "job-433",
     "job_title": "Nhân Viên Kinh Doanh",
+    "company": "Chi Nhanh Cong Ty Co Phan Thuong Mai Co Khi Tan Thanh Tai Vinh Long",
     "keywords": [
       {
         "keyword": "giao tiếp",
@@ -19844,6 +20277,7 @@
   {
     "job_id": "job-434",
     "job_title": "Kế toán nội bộ",
+    "company": "Cong Ty Tnhh Mjn Studio",
     "keywords": [
       {
         "keyword": "theo dõi",
@@ -19890,6 +20324,7 @@
   {
     "job_id": "job-435",
     "job_title": "Chuyên viên Kinh doanh BĐS - Sản Phẩm Đa Dạng, Độc Quyền, Hỗ Trợ MKT 90%",
+    "company": "Cong Ty Cp Cen Hcm",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -19936,6 +20371,7 @@
   {
     "job_id": "job-436",
     "job_title": "Kế Toán Tổng Hợp",
+    "company": "Cong Ty Tnhh Kim Long Motor Can Tho",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -19982,6 +20418,7 @@
   {
     "job_id": "job-437",
     "job_title": "Nhân Viên Media (Quay - Dựng Video)",
+    "company": "Chuoi Quan Dong Xanh",
     "keywords": [
       {
         "keyword": "video",
@@ -20028,6 +20465,7 @@
   {
     "job_id": "job-438",
     "job_title": "Trưởng Phỏng Đảm Bảo Chất Lượng",
+    "company": "Cong Ty Tnhh Cong Nghe My Pham Va Duoc Pham Tu Nhien Dannygreen",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -20074,6 +20512,7 @@
   {
     "job_id": "job-439",
     "job_title": "Tài xế giao hàng",
+    "company": "Cty Cp Ung Dung Sinh Hoc An Thinh Phat",
     "keywords": [
       {
         "keyword": "ứng viên",
@@ -20120,6 +20559,7 @@
   {
     "job_id": "job-440",
     "job_title": "Kế Toán Tổng Hợp",
+    "company": "Cong Ty Tnhh Mot Thanh Vien F A L",
     "keywords": [
       {
         "keyword": "thuế",
@@ -20166,6 +20606,7 @@
   {
     "job_id": "job-441",
     "job_title": "Nhân viên Kinh doanh",
+    "company": "Cong Ty Co Phan Nvb Play",
     "keywords": [
       {
         "keyword": "hàng",
@@ -20212,6 +20653,7 @@
   {
     "job_id": "job-442",
     "job_title": "Cần tuyển nhân viên lơ xe, giao hàng xe tải – thu nhập ổn định, nhận việc ngay",
+    "company": "Cong Ty Nhua Ngo Phong Cua Hang So 1",
     "keywords": [
       {
         "keyword": "hàng",
@@ -20258,6 +20700,7 @@
   {
     "job_id": "job-443",
     "job_title": "Nhân viên kế toán",
+    "company": "Cong Ty Co Phan Dau Tu Phuc Dien Hau Giang",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -20304,6 +20747,7 @@
   {
     "job_id": "job-444",
     "job_title": "Cần tuyển Nhân viên kinh doanh nhựa gia dụng – Thu nhập hấp dẫn",
+    "company": "Cong Ty Tnhh Ngo Phong",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -20350,6 +20794,7 @@
   {
     "job_id": "job-445",
     "job_title": "Quản lý đơn hàng",
+    "company": "Cong Ty Tnhh J M Inter",
     "keywords": [
       {
         "keyword": "đơn hàng",
@@ -20396,6 +20841,7 @@
   {
     "job_id": "job-446",
     "job_title": "Giáo viên Giảng dạy kỹ năng sống",
+    "company": "Cong Ty Tnhh Nw",
     "keywords": [
       {
         "keyword": "đào tạo",
@@ -20442,6 +20888,7 @@
   {
     "job_id": "job-447",
     "job_title": "NHÂN VIÊN PHIÊN DỊCH TIẾNG TRUNG",
+    "company": "Cong Ty Tnhh Nong Nghiep Thailand",
     "keywords": [
       {
         "keyword": "tiếng",
@@ -20488,6 +20935,7 @@
   {
     "job_id": "job-448",
     "job_title": "NHÂN VIÊN NHÂN SỰ (ƯU TIÊN CÓ KINH NGHIỆM, ĐI LÀM NGAY)",
+    "company": "Cong Ty Co Phan Agrijapan",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -20534,6 +20982,7 @@
   {
     "job_id": "job-449",
     "job_title": "Thống kê Kho",
+    "company": "Cong Ty Co Phan Tap Doan Tien Thinh",
     "keywords": [
       {
         "keyword": "kho",
@@ -20580,6 +21029,7 @@
   {
     "job_id": "job-450",
     "job_title": "TÀI XẾ",
+    "company": "Cong Ty Tnhh Dego Holding",
     "keywords": [
       {
         "keyword": "lái xe tải",
@@ -20626,6 +21076,7 @@
   {
     "job_id": "job-451",
     "job_title": "CTV Chăm Sóc Khách Hàng (Bình Minh - Vĩnh Long)",
+    "company": "J T Express Can Tho",
     "keywords": [
       {
         "keyword": "khiếu nại",
@@ -20672,6 +21123,7 @@
   {
     "job_id": "job-452",
     "job_title": "Dự toán Xây dựng (Có kinh nghiệm)",
+    "company": "Cong Ty Co Phan Xd Tm Dv Kien Truc Xanh",
     "keywords": [
       {
         "keyword": "nội thất",
@@ -20718,6 +21170,7 @@
   {
     "job_id": "job-453",
     "job_title": "NHÂN VIÊN PART-TIME HÀNH CHÍNH – KẾ TOÁN",
+    "company": "Trung Tam Giao Duc Ngon Ngu Han Quoc K Cantho",
     "keywords": [
       {
         "keyword": "hỗ trợ",
@@ -20764,6 +21217,7 @@
   {
     "job_id": "job-454",
     "job_title": "NHÂN VIÊN BẢO TRÌ ĐIỆN",
+    "company": "Cong Ty Tnhh Gom Vh",
     "keywords": [
       {
         "keyword": "máy",
@@ -20810,6 +21264,7 @@
   {
     "job_id": "job-455",
     "job_title": "Nhân viên bảo vệ nội bộ",
+    "company": "Cong Ty Tnhh Trung Son Clinic",
     "keywords": [
       {
         "keyword": "đảm bảo",
@@ -20856,6 +21311,7 @@
   {
     "job_id": "job-456",
     "job_title": "Fresher FrontEnd Developer",
+    "company": "Beyondedge",
     "keywords": [
       {
         "keyword": "have",
@@ -20902,6 +21358,7 @@
   {
     "job_id": "job-457",
     "job_title": "KẾ TOÁN GIÁ THÀNH",
+    "company": "Cong Ty Tnhh Dego Holding",
     "keywords": [
       {
         "keyword": "nhập",
@@ -20948,6 +21405,7 @@
   {
     "job_id": "job-458",
     "job_title": "Tài Xế",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "cẩn thận",
@@ -20994,6 +21452,7 @@
   {
     "job_id": "job-459",
     "job_title": "Kỹ sư nông nghiệp",
+    "company": "Cong Ty Tnhh Mtv Tam Ngoc",
     "keywords": [
       {
         "keyword": "trồng trọt",
@@ -21040,6 +21499,7 @@
   {
     "job_id": "job-460",
     "job_title": "TỔ TRƯỞNG XI MĂNG",
+    "company": "Cong Ty Tnhh Gom Vh",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -21086,6 +21546,7 @@
   {
     "job_id": "job-461",
     "job_title": "Trưởng nhóm",
+    "company": "Tong Cty Bao Viet Nhan Tho Trung Tam Kinh Doanh Tay Do 1",
     "keywords": [
       {
         "keyword": "nhóm",
@@ -21132,6 +21593,7 @@
   {
     "job_id": "job-462",
     "job_title": "Nhân Viên Kinh Doanh",
+    "company": "Trung Tam Ngoai Ngu Edugo",
     "keywords": [
       {
         "keyword": "chương trình",
@@ -21178,6 +21640,7 @@
   {
     "job_id": "job-463",
     "job_title": "CHUYÊN VIÊN IT PHẦN CỨNG (HELPDESK)",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -21224,6 +21687,7 @@
   {
     "job_id": "job-464",
     "job_title": "Maintenance Executive (EI&A)",
+    "company": "Cong Ty Tnhh Dau Gao Sethia Hemraj",
     "keywords": [
       {
         "keyword": "the",
@@ -21270,6 +21734,7 @@
   {
     "job_id": "job-465",
     "job_title": "CHUYÊN VIÊN KINH DOANH KEY ACCOUNT (NGÀNH GIA CẦM)",
+    "company": "Cong Ty Tnhh Thuoc Thu Y A Chau",
     "keywords": [
       {
         "keyword": "chăn nuôi",
@@ -21316,6 +21781,7 @@
   {
     "job_id": "job-466",
     "job_title": "Quản lý Tuyển sinh Ngoại ngữ và Du học",
+    "company": "Cong Ty Tnhh Nw",
     "keywords": [
       {
         "keyword": "tư vấn",
@@ -21362,6 +21828,7 @@
   {
     "job_id": "job-467",
     "job_title": "Trưởng Nhóm Quản Lý Mạng Lưới",
+    "company": "J T Express Can Tho",
     "keywords": [
       {
         "keyword": "vận hành",
@@ -21408,6 +21875,7 @@
   {
     "job_id": "job-468",
     "job_title": "Kỹ Sư Xây Dựng",
+    "company": "Cong Ty Cp Ky Thuat Xay Dung Bach Khoa",
     "keywords": [
       {
         "keyword": "autocad",
@@ -21454,6 +21922,7 @@
   {
     "job_id": "job-469",
     "job_title": "ACCOUNTANT CUM HR ADMIN (FULL-TIME) / Kế Toán Kiêm Hành Chính Nhân Sự",
+    "company": "Hopper Global Holdings",
     "keywords": [
       {
         "keyword": "hopper",
@@ -21500,6 +21969,7 @@
   {
     "job_id": "job-470",
     "job_title": "Giám Đốc/ Phó Giám Đốc Trung Tâm Tài Chính",
+    "company": "Cong Ty Co Phan Sadico Can Tho",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -21546,6 +22016,7 @@
   {
     "job_id": "job-471",
     "job_title": "Công Nhân Phân Xưởng Sản Xuất (Gấp)",
+    "company": "Cong Ty Co Phan Sadico Can Tho",
     "keywords": [
       {
         "keyword": "thời gian mỗi",
@@ -21592,6 +22063,7 @@
   {
     "job_id": "job-472",
     "job_title": "Nhân viên Marketing",
+    "company": "Cong Ty Co Phan Nvb Play",
     "keywords": [
       {
         "keyword": "marketing",
@@ -21638,6 +22110,7 @@
   {
     "job_id": "job-473",
     "job_title": "Nhân Viên Hàn Nối Cáp Quang",
+    "company": "Cong Ty Co Phan Xay Lap Va Dich Vu Hung Hung Dat",
     "keywords": [
       {
         "keyword": "hàn",
@@ -21684,6 +22157,7 @@
   {
     "job_id": "job-474",
     "job_title": "Nhân viên Marketing",
+    "company": "Cong Ty Tnhh Dv Tm Auto Anh Sang",
     "keywords": [
       {
         "keyword": "ý tưởng",
@@ -21730,6 +22204,7 @@
   {
     "job_id": "job-475",
     "job_title": "Nhân viên kế toán",
+    "company": "Cong Ty Co Phan Chung Nhan Va Giam Dinh Mientaycert",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -21776,6 +22251,7 @@
   {
     "job_id": "job-476",
     "job_title": "Nhân Viên Bảo Trì Điện",
+    "company": "Cong Ty Tnhh Dau Gao Sethia Hemraj",
     "keywords": [
       {
         "keyword": "điện điện công nghiệp",
@@ -21822,6 +22298,7 @@
   {
     "job_id": "job-477",
     "job_title": "Nhân viên bán hàng - Thới Long, Ô Môn",
+    "company": "Cong Ty Tnhh Dong Mart Chi Nhanh Can Tho",
     "keywords": [
       {
         "keyword": "hàng",
@@ -21868,6 +22345,7 @@
   {
     "job_id": "job-478",
     "job_title": "Nhân viên kho",
+    "company": "Cong Ty Co Phan Viet Thang Cuu Long",
     "keywords": [
       {
         "keyword": "mỗi",
@@ -21914,6 +22392,7 @@
   {
     "job_id": "job-479",
     "job_title": "Trưởng nhóm thị trường",
+    "company": "Cong Ty Tnhh Xay Dung Cong Nghe Moi Truong Nano",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -21960,6 +22439,7 @@
   {
     "job_id": "job-480",
     "job_title": "Nhân viên kinh doanh thế chấp ô tô",
+    "company": "Cong Ty Tnhh Ho Gia An",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -22006,6 +22486,7 @@
   {
     "job_id": "job-481",
     "job_title": "[Long An] Chuyên viên Tiền Lương & Phúc Lợi",
+    "company": "Cong Ty Co Phan Dau Tu Phat Trien Golf Long An",
     "keywords": [
       {
         "keyword": "lao động",
@@ -22052,6 +22533,7 @@
   {
     "job_id": "job-482",
     "job_title": "Kỹ Thuật Viên Xét Nghiệm",
+    "company": "Cong Ty Tnhh Vien Cham Soc Da Lac 39 S Beauty Center",
     "keywords": [
       {
         "keyword": "mẫu",
@@ -22098,6 +22580,7 @@
   {
     "job_id": "job-483",
     "job_title": "Chuyên Viên Quay Dựng",
+    "company": "Cong Ty Co Phan Dich Vu Bat Dong San Nam Mien Tay",
     "keywords": [
       {
         "keyword": "clip",
@@ -22144,6 +22627,7 @@
   {
     "job_id": "job-484",
     "job_title": "Vĩnh Long-Vận hành máy lựa nang",
+    "company": "Cong Ty Co Phan Duoc Pham Cuu Long",
     "keywords": [
       {
         "keyword": "lựa nang",
@@ -22190,6 +22674,7 @@
   {
     "job_id": "job-485",
     "job_title": "[Tuyển dụng] Giáo viên âm nhạc_Trường tiểu học, THCS, THPT FPT Sóc Trăng",
+    "company": "Khoi Giao Duc Fpt Can Tho",
     "keywords": [
       {
         "keyword": "âm nhạc",
@@ -22236,6 +22721,7 @@
   {
     "job_id": "job-486",
     "job_title": "MARKETING LEADER – PHÒNG KHÁM DA LIỄU THẨM MỸ NỘI KHOA",
+    "company": "Cong Ty Tnhh Vien Cham Soc Da Lac 39 S Beauty Center",
     "keywords": [
       {
         "keyword": "marketing",
@@ -22282,6 +22768,7 @@
   {
     "job_id": "job-487",
     "job_title": "Nhân viên nhập liệu, điều phối kho",
+    "company": "Dien Thoai 102",
     "keywords": [
       {
         "keyword": "hàng hóa",
@@ -22328,6 +22815,7 @@
   {
     "job_id": "job-488",
     "job_title": "Công nhân vận hành máy - Ca ngày",
+    "company": "Cty Tnhh Mtv Nhua Sinh Hoc Hau Giang",
     "keywords": [
       {
         "keyword": "máy",
@@ -22374,6 +22862,7 @@
   {
     "job_id": "job-489",
     "job_title": "Kế toán",
+    "company": "Cong Ty Co Phan Giao Duc Va Dao Tao Dai Tay Nam",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -22420,6 +22909,7 @@
   {
     "job_id": "job-490",
     "job_title": "Kế toán bán hàng",
+    "company": "Cong Ty Co Phan Nam Tien",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -22466,6 +22956,7 @@
   {
     "job_id": "job-491",
     "job_title": "[BẠC LIÊU] GHN TUYỂN NHÂN VIÊN GIAO HÀNG",
+    "company": "Cong Ty Co Phan Dich Vu Giao Hang Nhanh",
     "keywords": [
       {
         "keyword": "bưu cục",
@@ -22512,6 +23003,7 @@
   {
     "job_id": "job-492",
     "job_title": "Nhân Viên Kho KCN Bình Minh",
+    "company": "Cong Ty Tnhh Spx Express",
     "keywords": [
       {
         "keyword": "hàng hóa",
@@ -22558,6 +23050,7 @@
   {
     "job_id": "job-493",
     "job_title": "MOBIFONE CẦN THƠ tuyển Nhân viên bán hàng",
+    "company": "Cong Ty Co Phan Dich Vu Gia Tang Mobifone",
     "keywords": [
       {
         "keyword": "bán",
@@ -22604,6 +23097,7 @@
   {
     "job_id": "job-494",
     "job_title": "Trưởng ban quản lý chợ Kênh Đ",
+    "company": "Cong Ty Tnhh Dau Tu Phat Trien Cho Sieu Thi Viet Mai",
     "keywords": [
       {
         "keyword": "chợ",
@@ -22650,6 +23144,7 @@
   {
     "job_id": "job-495",
     "job_title": "Nhân viên kinh doanh SILICONE, ĐỒ SẮT",
+    "company": "Cong Ty Tnhh Sx Tm Dt Con Ca Heo",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -22696,6 +23191,7 @@
   {
     "job_id": "job-496",
     "job_title": "NHÂN VIÊN ĐĂNG KÝ XE (HÃNG XE FOTON QUỐC VIỆT)",
+    "company": "Cong Ty Co Phan O To Quoc Viet",
     "keywords": [
       {
         "keyword": "đăng ký",
@@ -22742,6 +23238,7 @@
   {
     "job_id": "job-497",
     "job_title": "Nhân viên kinh doanh",
+    "company": "Cong Ty Co Phan Cong Nghe Bat Dong San Open Broker Mekong",
     "keywords": [
       {
         "keyword": "thơ",
@@ -22788,6 +23285,7 @@
   {
     "job_id": "job-498",
     "job_title": "KĨ THUẬT VIÊN SỬA CHỮA CHUNG (XE Ô TÔ VINFAST)",
+    "company": "Vinfast Quoc Viet Can Tho",
     "keywords": [
       {
         "keyword": "sửa chữa",
@@ -22834,6 +23332,7 @@
   {
     "job_id": "job-499",
     "job_title": "Nhân viên Kế toán Kho lương thực",
+    "company": "Cong Ty Cp Xuat Nhap Khau Nong San Thuc Pham An Giang",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -22880,6 +23379,7 @@
   {
     "job_id": "job-500",
     "job_title": "NHÂN VIÊN KINH DOANH",
+    "company": "Cong Ty Co Phan Cara Group",
     "keywords": [
       {
         "keyword": "kỹ năng",
@@ -22926,6 +23426,7 @@
   {
     "job_id": "job-501",
     "job_title": "TRƯỞNG PHÒNG KINH DOANH",
+    "company": "Cong Ty Co Phan Kien Truc Nhip Dieu Xanh",
     "keywords": [
       {
         "keyword": "lĩnh vực",
@@ -22972,6 +23473,7 @@
   {
     "job_id": "job-502",
     "job_title": "Trợ lý cấp cao Phòng Nghiên cứu khoa học",
+    "company": "Truong Dai Hoc Nam Can Tho",
     "keywords": [
       {
         "keyword": "bài",
@@ -23018,6 +23520,7 @@
   {
     "job_id": "job-503",
     "job_title": "Nhân viên thủ kho",
+    "company": "Cong Ty Tnhh San Xuat Va Thuong Mai Anh Tri Tue",
     "keywords": [
       {
         "keyword": "hàng",
@@ -23064,6 +23567,7 @@
   {
     "job_id": "job-504",
     "job_title": "PHÓ PHÒNG KINH DOANH",
+    "company": "Cong Ty Tnhh G A Thien Long Phat",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -23110,6 +23614,7 @@
   {
     "job_id": "job-505",
     "job_title": "Trưởng nhóm kinh doanh",
+    "company": "Cong Ty Tnhh Dao Tao Goscholar",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -23156,6 +23661,7 @@
   {
     "job_id": "job-506",
     "job_title": "Kế toán tổng hợp - Báo cáo thuế",
+    "company": "Cong Ty Tnhh Tmdv Y Nam Phat",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -23202,6 +23708,7 @@
   {
     "job_id": "job-507",
     "job_title": "Lập trình viên website remote PHP Laravel React Vue Fullstack",
+    "company": "Cong Ty Tnhh Tu Van Cong Nghe Chau Giang",
     "keywords": [
       {
         "keyword": "laravel react",
@@ -23248,6 +23755,7 @@
   {
     "job_id": "job-508",
     "job_title": "THỦ KHO THÀNH PHẨM (Nam)",
+    "company": "Cong Ty Tnhh Emdees Foods",
     "keywords": [
       {
         "keyword": "kho",
@@ -23294,6 +23802,7 @@
   {
     "job_id": "job-509",
     "job_title": "Nhân Viên Kế Toán - Bán hàng",
+    "company": "Cong Ty Tnhh Mtv Thuong Mai Quang Cao Hue Lien Dia Diem Kinh Doanh Nha May Ton Mai Hoang Phat",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -23340,6 +23849,7 @@
   {
     "job_id": "job-510",
     "job_title": "Trình Dược Viên",
+    "company": "Cong Ty Tnhh Duoc Pham Hung Loc",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -23386,6 +23896,7 @@
   {
     "job_id": "job-511",
     "job_title": "Chuyên viên kinh doanh",
+    "company": "Cong Ty Co Phan Cong Nghe Bat Dong San Open Broker Mekong",
     "keywords": [
       {
         "keyword": "kinh nghiệm",
@@ -23432,6 +23943,7 @@
   {
     "job_id": "job-512",
     "job_title": "Nhân viên Tạp Vụ",
+    "company": "Cong Ty Tnhh Duoc Si Tien",
     "keywords": [
       {
         "keyword": "vệ sinh",
@@ -23478,6 +23990,7 @@
   {
     "job_id": "job-513",
     "job_title": "Kỹ Thuật Kinh Doanh Trồng Trọt (An Giang)",
+    "company": "Cong Ty Tnhh Cong Nghe Sinh Hoc Tenabio Viet Duc",
     "keywords": [
       {
         "keyword": "thị trường",
@@ -23524,6 +24037,7 @@
   {
     "job_id": "job-514",
     "job_title": "Tài xế ô tô",
+    "company": "Cong Ty Co Phan Hanh Nguyen Logistics",
     "keywords": [
       {
         "keyword": "đúng",
@@ -23570,6 +24084,7 @@
   {
     "job_id": "job-515",
     "job_title": "Nhân viên kinh doanh",
+    "company": "Cong Ty Tnhh Phat Trien Xay Dung Thuong Mai Truong Long",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -23616,6 +24131,7 @@
   {
     "job_id": "job-516",
     "job_title": "Nhân Viên An Ninh Sản Phẩm (IT)",
+    "company": "Cong Ty Tnhh Tkg Taekwang Can Tho",
     "keywords": [
       {
         "keyword": "security",
@@ -23662,6 +24178,7 @@
   {
     "job_id": "job-517",
     "job_title": "[KIÊN GIANG] GHN TUYỂN SHIPPER",
+    "company": "Cong Ty Co Phan Dich Vu Giao Hang Nhanh",
     "keywords": [
       {
         "keyword": "bưu cục",
@@ -23708,6 +24225,7 @@
   {
     "job_id": "job-518",
     "job_title": "Content Marketing",
+    "company": "Manh Cuong Mobile Can Tho",
     "keywords": [
       {
         "keyword": "nội dung",
@@ -23754,6 +24272,7 @@
   {
     "job_id": "job-519",
     "job_title": "Front-end Developer (Angular)",
+    "company": "Axon Active Vietnam",
     "keywords": [
       {
         "keyword": "with",
@@ -23800,6 +24319,7 @@
   {
     "job_id": "job-520",
     "job_title": "Kỹ thuật viên lắp đặt thang máy",
+    "company": "Cong Ty Tnhh Tadobe",
     "keywords": [
       {
         "keyword": "thang máy",
@@ -23846,6 +24366,7 @@
   {
     "job_id": "job-521",
     "job_title": "TRƯỞNG PHÒNG NHÂN SỰ",
+    "company": "Cong Ty Trach Nhiem Huu Han Shk",
     "keywords": [
       {
         "keyword": "nhân sự",
@@ -23892,6 +24413,7 @@
   {
     "job_id": "job-522",
     "job_title": "Nhân viên Kinh doanh phần mềm (SaaS) / Giải pháp nông nghiệp số",
+    "company": "Cong Ty Co Phan My Lan",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -23938,6 +24460,7 @@
   {
     "job_id": "job-523",
     "job_title": "Giám Sát Công Trình Dân Dụng",
+    "company": "Kien Truc Xay Dung Rh",
     "keywords": [
       {
         "keyword": "công trình",
@@ -23984,6 +24507,7 @@
   {
     "job_id": "job-524",
     "job_title": "Cần tuyển tài xế xe tải – Giao hàng các tỉnh Miền Tây",
+    "company": "Cong Ty Nhua Ngo Phong Cua Hang So 1",
     "keywords": [
       {
         "keyword": "hàng",
@@ -24030,6 +24554,7 @@
   {
     "job_id": "job-525",
     "job_title": "NV PHỤC VỤ 14H ĐẾN 23H - GIAO TIẾP TIẾNG ANH - NHÀ HÀNG THE LIGHTHOUSE",
+    "company": "Nha Hang The Lighthouse",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -24076,6 +24601,7 @@
   {
     "job_id": "job-526",
     "job_title": "KẾ TOÁN TỔNG HỢP",
+    "company": "Cong Ty Tnhh San Xuat Thuong Mai Quang Cao Vigifts",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -24122,6 +24648,7 @@
   {
     "job_id": "job-527",
     "job_title": "CTV , Nhân Viên Kinh Doanh",
+    "company": "Cty Tai Chinh Shb Finance",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -24168,6 +24695,7 @@
   {
     "job_id": "job-528",
     "job_title": "Nhân viên công nghệ thông tin - IT",
+    "company": "Cong Ty Cp Giai Phap Moi Truong Ares",
     "keywords": [
       {
         "keyword": "hệ thống",
@@ -24214,6 +24742,7 @@
   {
     "job_id": "job-529",
     "job_title": "FULL-STACK WEB AND BACK-END DEVELOPMENT INTERN (FULL-TIME) /THỰC TẬP SINH FULL-STACK WEB AND BACKEND",
+    "company": "Hopper Global Holdings",
     "keywords": [
       {
         "keyword": "hopper",
@@ -24260,6 +24789,7 @@
   {
     "job_id": "job-530",
     "job_title": "TỔ TRƯỞNG BẾP HÀN",
+    "company": "Cong Ty Co Phan Dau Tu Phat Trien Golf Long An",
     "keywords": [
       {
         "keyword": "hàn",
@@ -24306,6 +24836,7 @@
   {
     "job_id": "job-531",
     "job_title": "Nhân viên tư vấn bán hàng",
+    "company": "Hp Auto Trung Tam Cham Soc Bao Duong Va Do Xe O To",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -24352,6 +24883,7 @@
   {
     "job_id": "job-532",
     "job_title": "Thợ hàn - Cơ khí",
+    "company": "Cong Ty Tnhh Sau Con",
     "keywords": [
       {
         "keyword": "hàn",
@@ -24398,6 +24930,7 @@
   {
     "job_id": "job-533",
     "job_title": "NHÂN VÊN THU MUA",
+    "company": "Cong Ty Tnhh Emdees Foods",
     "keywords": [
       {
         "keyword": "nhà cung cấp",
@@ -24444,6 +24977,7 @@
   {
     "job_id": "job-534",
     "job_title": "TRỢ LÝ GIÁM ĐỐC ĐIỀU HÀNH (MẢNG Y TẾ, QUẢN LÝ BỆNH VIỆN)",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -24490,6 +25024,7 @@
   {
     "job_id": "job-535",
     "job_title": "Giáo viên Tiếng Hàn",
+    "company": "Trung Tam Giao Duc Ngon Ngu Han Quoc K Cantho",
     "keywords": [
       {
         "keyword": "giảng dạy",
@@ -24536,6 +25071,7 @@
   {
     "job_id": "job-536",
     "job_title": "KẾ TOÁN TỔNG HỢP",
+    "company": "Cong Ty Co Phan Hoa Dau Vinh Phuc",
     "keywords": [
       {
         "keyword": "hàng",
@@ -24582,6 +25118,7 @@
   {
     "job_id": "job-537",
     "job_title": "Kế toán",
+    "company": "Van Phong Thua Phat Lai Me Kong",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -24628,6 +25165,7 @@
   {
     "job_id": "job-538",
     "job_title": "Nhân viên kinh doanh",
+    "company": "Cong Ty Tnhh Mtv Puolo Trip Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -24674,6 +25212,7 @@
   {
     "job_id": "job-539",
     "job_title": "Team Leader – SME Customers",
+    "company": "Cong Ty Cho Thue Tai Chinh Trach Nhiem Huu Han Mot Thanh Vien Quoc Te Chailease",
     "keywords": [
       {
         "keyword": "customer",
@@ -24720,6 +25259,7 @@
   {
     "job_id": "job-540",
     "job_title": "KẾ TOÁN KHO",
+    "company": "Thuoc Thuy San Nam Thanh",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -24766,6 +25306,7 @@
   {
     "job_id": "job-541",
     "job_title": "Nhân Viên Kỹ Thuật Cơ Điện",
+    "company": "Cong Ty Co Phan Sadico Can Tho",
     "keywords": [
       {
         "keyword": "máy",
@@ -24812,6 +25353,7 @@
   {
     "job_id": "job-542",
     "job_title": "THỦ KHO",
+    "company": "Cong Ty Tnhh Nhua Mma",
     "keywords": [
       {
         "keyword": "hàng",
@@ -24858,6 +25400,7 @@
   {
     "job_id": "job-543",
     "job_title": "KẾ TOÁN",
+    "company": "Cong Ty Co Phan Thoi Trang Eros Viet Nam",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -24904,6 +25447,7 @@
   {
     "job_id": "job-544",
     "job_title": "Kế Toán Tổng Hợp",
+    "company": "Cong Ty Tnhh Cong Nghe Thiet Bi Giao Duc Song Phuong",
     "keywords": [
       {
         "keyword": "tổng hợp",
@@ -24950,6 +25494,7 @@
   {
     "job_id": "job-545",
     "job_title": "CHUYÊN VIÊN TƯ VẤN TÀI CHÍNH",
+    "company": "Cong Ty Tnhh G A Thien Long Phat",
     "keywords": [
       {
         "keyword": "bạn",
@@ -24996,6 +25541,7 @@
   {
     "job_id": "job-546",
     "job_title": "NHÂN VIÊN SALE MARKETING NÔNG NGHIỆP",
+    "company": "Cong Ty Tnhh Dego Holding",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -25042,6 +25588,7 @@
   {
     "job_id": "job-547",
     "job_title": "Chuyên Viên Điều Phối Vận Tải - Nhận Việc Ngay",
+    "company": "Cong Ty Tnhh Spx Express",
     "keywords": [
       {
         "keyword": "vận hành",
@@ -25088,6 +25635,7 @@
   {
     "job_id": "job-548",
     "job_title": "CƠ ĐIỆN - BẢO TRÌ MÁY MAY - LÀM VIỆC TẠI HẬU GIANG",
+    "company": "Cong Ty Hai An Material",
     "keywords": [
       {
         "keyword": "máy",
@@ -25134,6 +25682,7 @@
   {
     "job_id": "job-549",
     "job_title": "NHÂN VIÊN THỐNG KẾ THÀNH PHẨM",
+    "company": "Cong Ty Co Phan Nong San Thuc Pham Thanh Ngoc",
     "keywords": [
       {
         "keyword": "khác",
@@ -25180,6 +25729,7 @@
   {
     "job_id": "job-550",
     "job_title": "BẢO VỆ TẠI KCN TRÀ NÓC",
+    "company": "Cn Cty Co Phan Thuong Mai Dich Vu Bao Ve Ngay Dem Tai Tp Can Tho",
     "keywords": [
       {
         "keyword": "bảo vệ",
@@ -25226,6 +25776,7 @@
   {
     "job_id": "job-551",
     "job_title": "Nhân viên thiết kế",
+    "company": "Cong Ty Tnhh Dau Tu Va Phat Trien Nong Nghiep Xuan Nong",
     "keywords": [
       {
         "keyword": "nhà",
@@ -25272,6 +25823,7 @@
   {
     "job_id": "job-552",
     "job_title": "Nhân viên bếp bánh",
+    "company": "Cong Ty Tnhh Mtv Khach San Sai Gon Can Tho Khach San Charmant Suites",
     "keywords": [
       {
         "keyword": "chuẩn bị",
@@ -25318,6 +25870,7 @@
   {
     "job_id": "job-553",
     "job_title": "NHÂN VIÊN BẢO VỆ",
+    "company": "Cty Tnhh Mtv Nhua Sinh Hoc Hau Giang",
     "keywords": [
       {
         "keyword": "ra vào",
@@ -25364,6 +25917,7 @@
   {
     "job_id": "job-554",
     "job_title": "Kỹ thuật viên Nông nghiệp",
+    "company": "Cong Ty Tnhh Binh Minh Capital",
     "keywords": [
       {
         "keyword": "khả năng",
@@ -25410,6 +25964,7 @@
   {
     "job_id": "job-555",
     "job_title": "[Cần Thơ] Nhân viên R&D – Vi sinh thuỷ sản",
+    "company": "Cong Ty Adc",
     "keywords": [
       {
         "keyword": "trên cá tôm",
@@ -25456,6 +26011,7 @@
   {
     "job_id": "job-556",
     "job_title": "Công nhân Bếp ăn",
+    "company": "Cong Ty Tnhh Mf Viet Nam Nhat Ban",
     "keywords": [
       {
         "keyword": "hỗ trợ",
@@ -25502,6 +26058,7 @@
   {
     "job_id": "job-557",
     "job_title": "Kế toán thanh toán/Vốn bằng tiền",
+    "company": "Cong Ty Co Phan Xay Dung Ha Tang Khu Cong Nghiep Can Tho",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -25548,6 +26105,7 @@
   {
     "job_id": "job-558",
     "job_title": "[HẬU GIANG] TUYỂN NHÂN VIÊN GIAO HÀNG",
+    "company": "Cong Ty Co Phan Dich Vu Giao Hang Nhanh",
     "keywords": [
       {
         "keyword": "thu nhập",
@@ -25594,6 +26152,7 @@
   {
     "job_id": "job-559",
     "job_title": "KỸ THUẬT VIÊN (XE MÁY ĐIỆN VINFAST)",
+    "company": "Vinfast Quoc Viet Can Tho",
     "keywords": [
       {
         "keyword": "sửa chữa",
@@ -25640,6 +26199,7 @@
   {
     "job_id": "job-560",
     "job_title": "Nhân viên truyền thông",
+    "company": "Bio Fruit Coop",
     "keywords": [
       {
         "keyword": "kênh truyền thông",
@@ -25686,6 +26246,7 @@
   {
     "job_id": "job-561",
     "job_title": "Tạp vụ",
+    "company": "Dk Fitness Club",
     "keywords": [
       {
         "keyword": "vệ sinh",
@@ -25732,6 +26293,7 @@
   {
     "job_id": "job-562",
     "job_title": "Trưởng Phòng R&D",
+    "company": "Cong Ty Tnhh Cong Nghe My Pham Va Duoc Pham Tu Nhien Dannygreen",
     "keywords": [
       {
         "keyword": "sản phẩm",
@@ -25778,6 +26340,7 @@
   {
     "job_id": "job-563",
     "job_title": "Nhân Viên Đại Diện Bán Hàng Thu Nhập Đến 18 Triệu",
+    "company": "Cong Ty Co Phan Thuong Mai Bia Sai Gon Song Tien",
     "keywords": [
       {
         "keyword": "bán",
@@ -25824,6 +26387,7 @@
   {
     "job_id": "job-564",
     "job_title": "[Tuyển dụng] Cán bộ Hành chính - Viện Đào tạo Quốc tế FPT",
+    "company": "Khoi Giao Duc Fpt Can Tho",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -25870,6 +26434,7 @@
   {
     "job_id": "job-565",
     "job_title": "Trợ lý hành chính - du học",
+    "company": "Trung Tam Giao Duc Ngon Ngu Han Quoc Can Tho",
     "keywords": [
       {
         "keyword": "hỗ trợ",
@@ -25916,6 +26481,7 @@
   {
     "job_id": "job-566",
     "job_title": "NHÂN VIÊN KINH DOANH CAO CẤP",
+    "company": "Cong Ty Tnhh Bhnt Fubon Life Van Phong Can Tho",
     "keywords": [
       {
         "keyword": "chăm sóc",
@@ -25962,6 +26528,7 @@
   {
     "job_id": "job-567",
     "job_title": "CHUYÊN VIÊN TƯ VẤN GIẢI PHÁP CÔNG NGHỆ",
+    "company": "Cong Ty Tnhh Cong Nghe Phan Mem Nasani Chi Nhanh Tai Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -26008,6 +26575,7 @@
   {
     "job_id": "job-568",
     "job_title": "Nhân viên kinh doanh - sale thị trường",
+    "company": "Cong Ty Tnhh Dau Tu Vuong Tan",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -26054,6 +26622,7 @@
   {
     "job_id": "job-569",
     "job_title": "TUYỂN CỘNG TÁC VIÊN SALES ONLINE (REMOTE) – LĨNH VỰC PHẦN MỀM / IT OUTSOURCING",
+    "company": "Cong Ty Tnhh Giai Phap So Smart Code",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -26100,6 +26669,7 @@
   {
     "job_id": "job-570",
     "job_title": "Content Creator",
+    "company": "Cong Ty Co Phan Phan Bon Va Hoa Chat Can Tho",
     "keywords": [
       {
         "keyword": "video",
@@ -26146,6 +26716,7 @@
   {
     "job_id": "job-571",
     "job_title": "Tài xế",
+    "company": "Cong Ty Tnhh Nguyen Hung Phat",
     "keywords": [
       {
         "keyword": "tài xế",
@@ -26180,6 +26751,7 @@
   {
     "job_id": "job-572",
     "job_title": "Sales Nông Nghiệp",
+    "company": "Cong Ty Tnhh Mtv Nauy",
     "keywords": [
       {
         "keyword": "hàng",
@@ -26226,6 +26798,7 @@
   {
     "job_id": "job-573",
     "job_title": "CÔNG NHÂN CHẾ BIẾN RAU CỦ QUẢ",
+    "company": "Cong Ty Co Phan Nong San Thuc Pham Thanh Ngoc",
     "keywords": [
       {
         "keyword": "đóng gói",
@@ -26272,6 +26845,7 @@
   {
     "job_id": "job-574",
     "job_title": "Kỹ Thuật Viên Đồng",
+    "company": "Cong Ty Co Phan O To Sai Gon Cuu Long",
     "keywords": [
       {
         "keyword": "sửa chữa",
@@ -26318,6 +26892,7 @@
   {
     "job_id": "job-575",
     "job_title": "Quản lý marketing",
+    "company": "Cong Ty Co Phan Phan Bon Va Hoa Chat Can Tho",
     "keywords": [
       {
         "keyword": "sản phẩm",
@@ -26364,6 +26939,7 @@
   {
     "job_id": "job-576",
     "job_title": "Trưởng phòng Marketing và bán hàng Online",
+    "company": "Cong Ty Tnhh Duoc Hong Loc Phat",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -26410,6 +26986,7 @@
   {
     "job_id": "job-577",
     "job_title": "[Long An, Hậu Giang, Kiên Giang, Trà Vinh] Nhân Viên Marketing Kỹ Thuật",
+    "company": "Cong Ty Adc",
     "keywords": [
       {
         "keyword": "nông dân",
@@ -26456,6 +27033,7 @@
   {
     "job_id": "job-578",
     "job_title": "Nhân Viên Hành Chính Nhân Sự",
+    "company": "Cong Ty Co Phan Hoa Dau Vinh Phuc",
     "keywords": [
       {
         "keyword": "theo dõi",
@@ -26502,6 +27080,7 @@
   {
     "job_id": "job-579",
     "job_title": "Chuyên viên kinh doanh",
+    "company": "Cong Ty Cp Cong Nghe Moi Truong Va Nong Nghiep Ben Vung",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -26548,6 +27127,7 @@
   {
     "job_id": "job-580",
     "job_title": "GIÁO VIÊN TIẾNG HÀN",
+    "company": "Cong Ty Co Phan Quoc Te Inmeko",
     "keywords": [
       {
         "keyword": "học viên",
@@ -26594,6 +27174,7 @@
   {
     "job_id": "job-581",
     "job_title": "Trưởng phòng Kinh doanh",
+    "company": "Cong Ty Cp Giai Phap Moi Truong Ares",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -26640,6 +27221,7 @@
   {
     "job_id": "job-582",
     "job_title": "THỰC TẬP SINH KINH DOANH DU LỊCH",
+    "company": "Pa Asia Travel",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -26686,6 +27268,7 @@
   {
     "job_id": "job-583",
     "job_title": "Nhân viên bán hàng (OTC và ETC)",
+    "company": "Cong Ty Tnhh Mtv Thien An Pharma",
     "keywords": [
       {
         "keyword": "địa bàn",
@@ -26732,6 +27315,7 @@
   {
     "job_id": "job-584",
     "job_title": "Nhân Viên KCS GẠO",
+    "company": "Cong Ty Co Phan Tap Doan Tan Long",
     "keywords": [
       {
         "keyword": "hàng",
@@ -26778,6 +27362,7 @@
   {
     "job_id": "job-585",
     "job_title": "Nhân Viên Vận Hành Máy",
+    "company": "Cong Ty Tnhh Nhua Mma",
     "keywords": [
       {
         "keyword": "vận hành",
@@ -26824,6 +27409,7 @@
   {
     "job_id": "job-586",
     "job_title": "Nhân viên kỹ thuật đan vợt - kho",
+    "company": "Cong Ty Co Phan Nvb Play",
     "keywords": [
       {
         "keyword": "hàng",
@@ -26870,6 +27456,7 @@
   {
     "job_id": "job-587",
     "job_title": "Nhân viên Kỹ Thuật Nông Nghiệp",
+    "company": "Cong Ty Tnhh Nong Nghiep Tien Thanh",
     "keywords": [
       {
         "keyword": "kỹ thuật",
@@ -26916,6 +27503,7 @@
   {
     "job_id": "job-588",
     "job_title": "Human Resources Generalist (Nhân viên hành chính nhân sự tổng hợp)",
+    "company": "Cong Ty Tnhh Phan Mem Biwoco",
     "keywords": [
       {
         "keyword": "the",
@@ -26962,6 +27550,7 @@
   {
     "job_id": "job-589",
     "job_title": "Thực tập sinh Marketing",
+    "company": "Cong Ty Tnhh Giao Duc Va Dao Tao Mekong",
     "keywords": [
       {
         "keyword": "truyền thông",
@@ -27008,6 +27597,7 @@
   {
     "job_id": "job-590",
     "job_title": "Kinh doanh thị trường",
+    "company": "Cong Ty Tnhh Sinh Hoc Chau A",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -27054,6 +27644,7 @@
   {
     "job_id": "job-591",
     "job_title": "Kế toán viên",
+    "company": "Suzuki Song Hao",
     "keywords": [
       {
         "keyword": "phụ tùng phụ kiện",
@@ -27100,6 +27691,7 @@
   {
     "job_id": "job-592",
     "job_title": "Nhân Viên Kho Thành Phẩm",
+    "company": "Cong Ty Tnhh Tmdv Sx Dong Phuc Va Qua Tang Ngoi Sao Xanh",
     "keywords": [
       {
         "keyword": "cẩn thận",
@@ -27146,6 +27738,7 @@
   {
     "job_id": "job-593",
     "job_title": "Nhân Viên Kỹ Thuật Cơ Khí",
+    "company": "Chi Nhanh Cong Ty Co Phan Thuong Mai Co Khi Tan Thanh Tai Vinh Long",
     "keywords": [
       {
         "keyword": "chịu trách nhiệm",
@@ -27192,6 +27785,7 @@
   {
     "job_id": "job-594",
     "job_title": "Nhân viên kế toán thuế",
+    "company": "Dien Thoai 102",
     "keywords": [
       {
         "keyword": "thuế",
@@ -27238,6 +27832,7 @@
   {
     "job_id": "job-595",
     "job_title": "Nhân viên kế toán tổng hợp",
+    "company": "Bio Fruit Coop",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -27284,6 +27879,7 @@
   {
     "job_id": "job-596",
     "job_title": "Nhân viên kế toán",
+    "company": "Cong Ty Co Phan Xay Lap Va Vat Lieu Xay Dung Cat Tuong",
     "keywords": [
       {
         "keyword": "thu",
@@ -27330,6 +27926,7 @@
   {
     "job_id": "job-597",
     "job_title": "Nhân viên bếp canteen",
+    "company": "Cong Ty Tnhh Mtv Khach San Sai Gon Can Tho Khach San Charmant Suites",
     "keywords": [
       {
         "keyword": "món",
@@ -27376,6 +27973,7 @@
   {
     "job_id": "job-598",
     "job_title": "Thợ nhôm đúc hợp kim",
+    "company": "Cong Ty Tnhh Tm Xd Vuong Tuan",
     "keywords": [
       {
         "keyword": "sản xuất lắp đặt",
@@ -27422,6 +28020,7 @@
   {
     "job_id": "job-599",
     "job_title": "Nhân viên bảo trì sửa",
+    "company": "Cong Ty Co Phan Hanh Nguyen Logistics",
     "keywords": [
       {
         "keyword": "điện cơ khí",
@@ -27468,6 +28067,7 @@
   {
     "job_id": "job-600",
     "job_title": "Thủ kho",
+    "company": "Bio Fruit Coop",
     "keywords": [
       {
         "keyword": "kho",
@@ -27514,6 +28114,7 @@
   {
     "job_id": "job-601",
     "job_title": "Công nhân sản xuất",
+    "company": "Cong Ty Tnhh Giay Ching Luh Viet Nam Chi Nhanh Vinh Long",
     "keywords": [
       {
         "keyword": "may",
@@ -27560,6 +28161,7 @@
   {
     "job_id": "job-602",
     "job_title": "NHÂN VIÊN VỆ SINH XƯỞNG (GẤP)",
+    "company": "Cong Ty Tnhh Emdees Foods",
     "keywords": [
       {
         "keyword": "khử trùng",
@@ -27606,6 +28208,7 @@
   {
     "job_id": "job-603",
     "job_title": "Giám Sát Kế toán Dự án (Cần Thơ, Hồ Chí Minh)",
+    "company": "Cong Ty Tnhh Mot Thanh Vien Masan Hg",
     "keywords": [
       {
         "keyword": "dự án",
@@ -27652,6 +28255,7 @@
   {
     "job_id": "job-604",
     "job_title": "[Long An] Trưởng phòng Nhân sự",
+    "company": "Cong Ty Co Phan Dau Tu Phat Trien Golf Long An",
     "keywords": [
       {
         "keyword": "nhân sự",
@@ -27698,6 +28302,7 @@
   {
     "job_id": "job-605",
     "job_title": "Cần tuyển nhân viên sale - Nhân viên thị trường",
+    "company": "Cong Ty Nhua Ngo Phong Cua Hang So 1",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -27744,6 +28349,7 @@
   {
     "job_id": "job-606",
     "job_title": "Nhân viên Kỹ thuật Làm việc tại Ô Môn - Cần Thơ",
+    "company": "Cong Ty Tnhh Savicom",
     "keywords": [
       {
         "keyword": "hỗ trợ",
@@ -27790,6 +28396,7 @@
   {
     "job_id": "job-607",
     "job_title": "Nhân viên Hoá vô cơ",
+    "company": "Cong Ty Co Phan Chung Nhan Va Kiem Nghiem Fao",
     "keywords": [
       {
         "keyword": "kinh nghiệm",
@@ -27836,6 +28443,7 @@
   {
     "job_id": "job-608",
     "job_title": "Lao động phổ thông (May ghép mảnh) - Tuyển dụng tháng 3",
+    "company": "Cong Ty Tnhh Topknit Group",
     "keywords": [
       {
         "keyword": "000",
@@ -27882,6 +28490,7 @@
   {
     "job_id": "job-609",
     "job_title": "CSKH online",
+    "company": "Nha Khoa Tham My Quoc Te Vindental",
     "keywords": [
       {
         "keyword": "liên hệ",
@@ -27928,6 +28537,7 @@
   {
     "job_id": "job-610",
     "job_title": "Nhân viên Marketing VĨNH LONG",
+    "company": "Cong Ty Co Phan Ung Dung Cong Nghe Xanh Viet Nam",
     "keywords": [
       {
         "keyword": "tiktok",
@@ -27974,6 +28584,7 @@
   {
     "job_id": "job-611",
     "job_title": "Nhân viên Media",
+    "company": "Cong Ty Co Phan Nvb Play",
     "keywords": [
       {
         "keyword": "video",
@@ -28020,6 +28631,7 @@
   {
     "job_id": "job-612",
     "job_title": "Nhân viên vận hành",
+    "company": "Cong Ty Tnhh Lac Thanh King Foods",
     "keywords": [
       {
         "keyword": "hệ thống",
@@ -28066,6 +28678,7 @@
   {
     "job_id": "job-613",
     "job_title": "Cơ Khí",
+    "company": "Cong Ty Tnhh Mot Thanh Vien Hung Phuc",
     "keywords": [
       {
         "keyword": "sử dụng",
@@ -28112,6 +28725,7 @@
   {
     "job_id": "job-614",
     "job_title": "Trưởng phòng kinh doanh",
+    "company": "Cong Ty Tnhh Kho La Nh Vi Nh Long",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -28158,6 +28772,7 @@
   {
     "job_id": "job-615",
     "job_title": "Quản Lý Kinh Doanh",
+    "company": "J T Express Can Tho",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -28204,6 +28819,7 @@
   {
     "job_id": "job-616",
     "job_title": "Trưởng Phòng Hành Chính",
+    "company": "Cong Ty Co Phan Dich Vu Bat Dong San Nam Mien Tay",
     "keywords": [
       {
         "keyword": "nhân sự",
@@ -28250,6 +28866,7 @@
   {
     "job_id": "job-617",
     "job_title": "Trưởng phòng Kinh Doanh",
+    "company": "Cong Ty Ba O Hie M Pjico Ca N Tho To Ng Cong Ty Ba O Hie M Pjico",
     "keywords": [
       {
         "keyword": "xây dựng",
@@ -28296,6 +28913,7 @@
   {
     "job_id": "job-618",
     "job_title": "TRƯỞNG NHÓM PHÒNG THÍ NGHIỆM",
+    "company": "Cty Tnhh Unipax Vi Thanh",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -28342,6 +28960,7 @@
   {
     "job_id": "job-619",
     "job_title": "Lao động phổ thông (plus +)",
+    "company": "Cong Ty Tnhh Uniform Viet Nam",
     "keywords": [
       {
         "keyword": "phụ",
@@ -28388,6 +29007,7 @@
   {
     "job_id": "job-620",
     "job_title": "THỦ KHO BAO BÌ",
+    "company": "Cong Ty Tnhh Emdees Foods",
     "keywords": [
       {
         "keyword": "hàng",
@@ -28434,6 +29054,7 @@
   {
     "job_id": "job-621",
     "job_title": "Tài xế xe nâng",
+    "company": "Cong Ty Tnhh Dich Vu Dafuna Dat Phuong Nam",
     "keywords": [
       {
         "keyword": "nâng",
@@ -28480,6 +29101,7 @@
   {
     "job_id": "job-622",
     "job_title": "Thực tập sinh vận hành nhà học (Part time)",
+    "company": "Cong Ty Tnhh Minh Quang Edu",
     "keywords": [
       {
         "keyword": "học",
@@ -28526,6 +29148,7 @@
   {
     "job_id": "job-623",
     "job_title": "MEDIA - VIDEO EDITOR",
+    "company": "Cong Ty Tnhh Vien Cham Soc Da Lac 39 S Beauty Center",
     "keywords": [
       {
         "keyword": "video",
@@ -28572,6 +29195,7 @@
   {
     "job_id": "job-624",
     "job_title": "Nhân Viên Kế Toán",
+    "company": "Cong Ty Tnhh Tu Van Xay Dung Thuong Mai Dich Vu Thien Quoc",
     "keywords": [
       {
         "keyword": "báo cáo",
@@ -28618,6 +29242,7 @@
   {
     "job_id": "job-625",
     "job_title": "Giáo viên Tiếng Hoa (Part-time)",
+    "company": "Cong Ty Tnhh Dao Tao Goscholar",
     "keywords": [
       {
         "keyword": "tiếng hoa",
@@ -28664,6 +29289,7 @@
   {
     "job_id": "job-626",
     "job_title": "Cán bộ kỹ thuật",
+    "company": "Cong Ty Co Phan Xhome Can Tho",
     "keywords": [
       {
         "keyword": "thi công",
@@ -28710,6 +29336,7 @@
   {
     "job_id": "job-627",
     "job_title": "GIÁO VIÊN CỘNG TÁC DẠY TOÁN",
+    "company": "Cong Ty Tnhh Minh Quang Edu",
     "keywords": [
       {
         "keyword": "thầy cô",
@@ -28756,6 +29383,7 @@
   {
     "job_id": "job-628",
     "job_title": "CỘNG TÁC VIÊN KINH DOANH",
+    "company": "Cong Ty Tnhh Mtv Tm Dv Du Lich Bach Nghe",
     "keywords": [
       {
         "keyword": "đến",
@@ -28802,6 +29430,7 @@
   {
     "job_id": "job-629",
     "job_title": "TUYỂN LAO ĐỘNG PHỔ THÔNG- LÀM VIỆC TẠI HẬU GIANG VÀ BÌNH DƯƠNG",
+    "company": "Cong Ty Hai An Material",
     "keywords": [
       {
         "keyword": "công nhân",
@@ -28848,6 +29477,7 @@
   {
     "job_id": "job-630",
     "job_title": "Nhân viên TÀI XẾ",
+    "company": "Cong Ty Co Phan Thuy San Chau Phi",
     "keywords": [
       {
         "keyword": "lái xe",
@@ -28894,6 +29524,7 @@
   {
     "job_id": "job-631",
     "job_title": "CHUYÊN VIÊN MARKETING",
+    "company": "Vinfast Quoc Viet Can Tho",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -28940,6 +29571,7 @@
   {
     "job_id": "job-632",
     "job_title": "Nhân viên QA ngành Mây tre lá",
+    "company": "Vietnam Housewares Intl",
     "keywords": [
       {
         "keyword": "chất lượng sản phẩm",
@@ -28986,6 +29618,7 @@
   {
     "job_id": "job-633",
     "job_title": "Chuyên Viên Pháp Lý",
+    "company": "J T Express Can Tho",
     "keywords": [
       {
         "keyword": "pháp lý",
@@ -29032,6 +29665,7 @@
   {
     "job_id": "job-634",
     "job_title": "Nhân Viên Kinh Doanh",
+    "company": "Cong Ty Tnhh Us Bio",
     "keywords": [
       {
         "keyword": "chăm sóc",
@@ -29078,6 +29712,7 @@
   {
     "job_id": "job-635",
     "job_title": "TRỢ LÝ VĂN PHÒNG",
+    "company": "Cong Ty Tnhh G A Thien Long Phat",
     "keywords": [
       {
         "keyword": "hỗ trợ",
@@ -29124,6 +29759,7 @@
   {
     "job_id": "job-636",
     "job_title": "Chuyên viên Kế toán tổng hợp",
+    "company": "Cong Ty Tnhh Gao Vinh Phat Wlmar",
     "keywords": [
       {
         "keyword": "bảo hiểm",
@@ -29170,6 +29806,7 @@
   {
     "job_id": "job-637",
     "job_title": "Nhân Viên Tư Vấn Chăm Sóc Khách Hàng",
+    "company": "Cong Ty Tnhh Cong Nghe Phan Mem Nasani Chi Nhanh Tai Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -29216,6 +29853,7 @@
   {
     "job_id": "job-638",
     "job_title": "CHUYÊN VIÊN XỬ LÝ DỮ LIỆU VÀ PHÁT TRIỂN ỨNG DỤNG",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "dữ liệu",
@@ -29262,6 +29900,7 @@
   {
     "job_id": "job-639",
     "job_title": "MOBIFONE HẬU GIANG tuyển NV kinh doanh",
+    "company": "Cong Ty Co Phan Dich Vu Gia Tang Mobifone",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -29308,6 +29947,7 @@
   {
     "job_id": "job-640",
     "job_title": "Chuyên viên tư vấn",
+    "company": "Trung Tam Ngoai Ngu Va Du Hoc Han Quoc Yejin",
     "keywords": [
       {
         "keyword": "tư vấn",
@@ -29354,6 +29994,7 @@
   {
     "job_id": "job-641",
     "job_title": "Nhân viên Vận hành Cơ điện - Lạnh",
+    "company": "Cong Ty Co Phan Nha Trang Seafood",
     "keywords": [
       {
         "keyword": "thiết bị",
@@ -29400,6 +30041,7 @@
   {
     "job_id": "job-642",
     "job_title": "QUẢN LÝ NHÂN VIÊN SALE THỊ TRƯỜNG",
+    "company": "Cong Ty Tnhh Tm Xnk Cai Rang Food",
     "keywords": [
       {
         "keyword": "thị trường",
@@ -29446,6 +30088,7 @@
   {
     "job_id": "job-643",
     "job_title": "NHÂN VIÊN KINH DOANH THUỐC THỦY SẢN",
+    "company": "Cong Ty Tnhh Tm Sx Dai Nam Viet",
     "keywords": [
       {
         "keyword": "nuôi",
@@ -29492,6 +30135,7 @@
   {
     "job_id": "job-644",
     "job_title": "NHÂN VIÊN KINH DOANH ONLINE (LÀM VIỆC TẠI VĂN PHÒNG)",
+    "company": "Cong Ty Cp Ung Dung Cong Nghe Xanh Viet Nam Chi Nhanh Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -29538,6 +30182,7 @@
   {
     "job_id": "job-645",
     "job_title": "Pha Chế Tuyển Gấp (02 Nam/Nữ)",
+    "company": "Dich Vu An Uong Cam Thi",
     "keywords": [
       {
         "keyword": "chi tiết",
@@ -29564,6 +30209,7 @@
   {
     "job_id": "job-646",
     "job_title": "Kỷ thuật hiện trường",
+    "company": "Xay Dung An Tin Home",
     "keywords": [
       {
         "keyword": "hiện trường",
@@ -29610,6 +30256,7 @@
   {
     "job_id": "job-647",
     "job_title": "NHÂN VIÊN KỸ THUẬT",
+    "company": "Cong Ty Co Phan Thoi Trang Eros Viet Nam",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -29656,6 +30303,7 @@
   {
     "job_id": "job-648",
     "job_title": "NHÂN VIÊN SẢN XUẤT",
+    "company": "Cong Ty Co Phan Nong San Thuc Pham Thanh Ngoc",
     "keywords": [
       {
         "keyword": "vệ sinh",
@@ -29702,6 +30350,7 @@
   {
     "job_id": "job-649",
     "job_title": "Nhân Viên Bảo Vệ",
+    "company": "Cong Ty Cp Nhua Can Tho",
     "keywords": [
       {
         "keyword": "khi",
@@ -29748,6 +30397,7 @@
   {
     "job_id": "job-650",
     "job_title": "CTV TUYỂN SINH (THU NHẬP HƠN 30 TRIỆU)",
+    "company": "Vpdd Cong Ty Co Phan Lien Minh Tien Bo Quoc Te Ek",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -29794,6 +30444,7 @@
   {
     "job_id": "job-651",
     "job_title": "Nhân viên Marketing",
+    "company": "Cong Ty Tnhh Cong Nghe Thiet Bi Giao Duc Song Phuong",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -29840,6 +30491,7 @@
   {
     "job_id": "job-652",
     "job_title": "NHÂN VIÊN KINH DOANH SỰ KIỆN",
+    "company": "Pa Asia Travel",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -29886,6 +30538,7 @@
   {
     "job_id": "job-653",
     "job_title": "Nhân Viên Bảo Trì Cơ Khí",
+    "company": "Bio Fruit Coop",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -29932,6 +30585,7 @@
   {
     "job_id": "job-654",
     "job_title": "Cần tuyển nhân viên kho hàng - Soạn hàng theo đơn.",
+    "company": "Cong Ty Tnhh Ngo Phong",
     "keywords": [
       {
         "keyword": "hàng",
@@ -29978,6 +30632,7 @@
   {
     "job_id": "job-655",
     "job_title": "Nhân viên Marketing",
+    "company": "Cong Ty Tnhh Mtv Khach San Sai Gon Can Tho Khach San Charmant Suites",
     "keywords": [
       {
         "keyword": "truyền thông",
@@ -30024,6 +30679,7 @@
   {
     "job_id": "job-656",
     "job_title": "Trưởng nhóm Phát triển sản phẩm (Mảng đào tạo ngoại ngữ)",
+    "company": "Cong Ty Tnhh Nw",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -30070,6 +30726,7 @@
   {
     "job_id": "job-657",
     "job_title": "Nhân viên kinh doanh",
+    "company": "Cong Ty Co Phan Thuc Pham Thuan Tuong Thuan Tuong Food",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -30116,6 +30773,7 @@
   {
     "job_id": "job-658",
     "job_title": "Purchasing Supervisor/ Giám Sát Thu Mua",
+    "company": "Legacy Mekong Can Tho Autograph Collection",
     "keywords": [
       {
         "keyword": "all",
@@ -30162,6 +30820,7 @@
   {
     "job_id": "job-659",
     "job_title": "Kế toán viên",
+    "company": "Lumos Bakery Joy",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -30208,6 +30867,7 @@
   {
     "job_id": "job-660",
     "job_title": "DƯỢC SĨ LÂM SÀNG",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "thuốc",
@@ -30254,6 +30914,7 @@
   {
     "job_id": "job-661",
     "job_title": "Nhân viên tư vấn khóa học ngoại ngữ và tư vấn du học",
+    "company": "Cong Ty Tnhh Dao Tao Goscholar",
     "keywords": [
       {
         "keyword": "tiếng",
@@ -30300,6 +30961,7 @@
   {
     "job_id": "job-662",
     "job_title": "Nhân viên Tư vấn Tuyển sinh - Phú Quốc",
+    "company": "He Thong Trung Tam Ngoai Ngu Cb Centres",
     "keywords": [
       {
         "keyword": "lớp học",
@@ -30346,6 +31008,7 @@
   {
     "job_id": "job-663",
     "job_title": "Cần tuyển tài xế giao hàng các tỉnh miền Tây – Thu nhập ổn định",
+    "company": "Cong Ty Tnhh Ngo Phong",
     "keywords": [
       {
         "keyword": "hàng",
@@ -30392,6 +31055,7 @@
   {
     "job_id": "job-664",
     "job_title": "Nhân viên kiểm soát chất lượng",
+    "company": "Cong Ty Co Phan Tap Doan Tien Thinh",
     "keywords": [
       {
         "keyword": "giám sát",
@@ -30438,6 +31102,7 @@
   {
     "job_id": "job-665",
     "job_title": "Cộng Tác Viên Kinh Doanh - Làm Từ Xa/ Online",
+    "company": "Cong Ty Tnhh Thuong Mai An Ying",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -30484,6 +31149,7 @@
   {
     "job_id": "job-666",
     "job_title": "Nhân viên Chăm sóc Khách hàng (nhân bản)",
+    "company": "Cong Ty Co Phan Hoa Dau Vinh Phuc",
     "keywords": [
       {
         "keyword": "hàng",
@@ -30530,6 +31196,7 @@
   {
     "job_id": "job-667",
     "job_title": "Nhân Viên Pha Chế",
+    "company": "Cong Ty Tnhh Cong Nghe My Pham Va Duoc Pham Tu Nhien Dannygreen",
     "keywords": [
       {
         "keyword": "pha chế",
@@ -30576,6 +31243,7 @@
   {
     "job_id": "job-668",
     "job_title": "Chuyên viên kinh doanh bất động sản",
+    "company": "Cong Ty Co Phan Cen Hcm",
     "keywords": [
       {
         "keyword": "thu nhập",
@@ -30622,6 +31290,7 @@
   {
     "job_id": "job-669",
     "job_title": "Kế toán bán hàng",
+    "company": "Truong Phat Mekong",
     "keywords": [
       {
         "keyword": "g30",
@@ -30668,6 +31337,7 @@
   {
     "job_id": "job-670",
     "job_title": "Kế Toán Tổng Hợp - An Giang",
+    "company": "May Anh Viet Nam",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -30714,6 +31384,7 @@
   {
     "job_id": "job-671",
     "job_title": "NHÂN VIÊN SOẠN HÀNG - BÁN HÀNG",
+    "company": "Cong Ty Tnhh Nong Duoc Hoang Khang",
     "keywords": [
       {
         "keyword": "chuyên môn",
@@ -30760,6 +31431,7 @@
   {
     "job_id": "job-672",
     "job_title": "Nhân Viên Bảo Vệ",
+    "company": "Cong Ty Co Phan Dau Tu Va Phat Trien Agrifarm",
     "keywords": [
       {
         "keyword": "kho",
@@ -30806,6 +31478,7 @@
   {
     "job_id": "job-673",
     "job_title": "Kỹ Thuật Kinh Doanh Trồng Trọt (Vĩnh Long)",
+    "company": "Cong Ty Tnhh Cong Nghe Sinh Hoc Tenabio Viet Duc",
     "keywords": [
       {
         "keyword": "thị trường",
@@ -30852,6 +31525,7 @@
   {
     "job_id": "job-674",
     "job_title": "Nhân viên Phục vụ",
+    "company": "Chi Nhanh Cong Ty Cp Du Lich Thanh Thanh Cong Tai Can Tho Khach San Ttc",
     "keywords": [
       {
         "keyword": "phục vụ",
@@ -30898,6 +31572,7 @@
   {
     "job_id": "job-675",
     "job_title": "Nhân Viên Văn Thư Tổng Hợp",
+    "company": "Cong Ty Co Phan Xay Lap Va Dich Vu Hung Hung Dat",
     "keywords": [
       {
         "keyword": "công tác",
@@ -30944,6 +31619,7 @@
   {
     "job_id": "job-676",
     "job_title": "[CẦN THƠ] GHN TUYỂN NHÂN VIÊN GIAO NHẬN HÀNG",
+    "company": "Cong Ty Co Phan Dich Vu Giao Hang Nhanh",
     "keywords": [
       {
         "keyword": "000",
@@ -30990,6 +31666,7 @@
   {
     "job_id": "job-677",
     "job_title": "KTV XÉT NGHIỆM Y HỌC",
+    "company": "Cong Ty Cp Center Lab Viet Nam Trung Tam Chan Doan Y Khoa",
     "keywords": [
       {
         "keyword": "xét nghiệm",
@@ -31036,6 +31713,7 @@
   {
     "job_id": "job-678",
     "job_title": "Nhân viên Kế toán (giá thành)",
+    "company": "Cong Ty Cp Dm Dt Tm Thanh Cong Chi Nhanh Vinh Long",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -31082,6 +31760,7 @@
   {
     "job_id": "job-679",
     "job_title": "CHUYÊN VIÊN DỰ ÁN",
+    "company": "Cong Ty Co Phan Dau Tu Bat Dong San Cuu Long",
     "keywords": [
       {
         "keyword": "hành chính",
@@ -31128,6 +31807,7 @@
   {
     "job_id": "job-680",
     "job_title": "Cà Mau - Nhân viên QC",
+    "company": "Cong Ty Co Phan Nha Trang Seafood",
     "keywords": [
       {
         "keyword": "giám sát",
@@ -31174,6 +31854,7 @@
   {
     "job_id": "job-681",
     "job_title": "Nhân viên content creator",
+    "company": "Cong Ty Tnhh Duoc Pham Cong Nghe Cao Amexpharm",
     "keywords": [
       {
         "keyword": "video",
@@ -31220,6 +31901,7 @@
   {
     "job_id": "job-682",
     "job_title": "Giáo viên Tiếng Hoa (Full-time)",
+    "company": "Cong Ty Tnhh Dao Tao Goscholar",
     "keywords": [
       {
         "keyword": "tiếng hoa",
@@ -31266,6 +31948,7 @@
   {
     "job_id": "job-683",
     "job_title": "Nhân Viên Marketing",
+    "company": "Cong Ty Tnhh Mtv Sx Tm Dv Phat Minh Chau",
     "keywords": [
       {
         "keyword": "nội dung",
@@ -31312,6 +31995,7 @@
   {
     "job_id": "job-684",
     "job_title": "Nhân viên Kế Toán",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Cuu Long Xanh",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -31358,6 +32042,7 @@
   {
     "job_id": "job-685",
     "job_title": "[Tuyển dụng] Giáo viên Toán_Trường tiểu học, THCS, THPT FPT Sóc Trăng",
+    "company": "Khoi Giao Duc Fpt Can Tho",
     "keywords": [
       {
         "keyword": "chuyên môn",
@@ -31404,6 +32089,7 @@
   {
     "job_id": "job-686",
     "job_title": "Trưởng Phòng Marketing",
+    "company": "Benh Vien Da Khoa Hoan My Cuu Long",
     "keywords": [
       {
         "keyword": "chúng tôi",
@@ -31450,6 +32136,7 @@
   {
     "job_id": "job-687",
     "job_title": "TRỢ LÝ BÀN CẮT",
+    "company": "Cong Ty Tnhh Kwong Lung Meko",
     "keywords": [
       {
         "keyword": "lấy",
@@ -31496,6 +32183,7 @@
   {
     "job_id": "job-688",
     "job_title": "Nhân viên Sale & Marketing",
+    "company": "Cong Ty Tnhh Onyx United Foundation",
     "keywords": [
       {
         "keyword": "hàng",
@@ -31542,6 +32230,7 @@
   {
     "job_id": "job-689",
     "job_title": "Thực tập sinh điện công nghiệp, cơ khí, tự động hoá",
+    "company": "Cty Tnhh Redpower Vietnam",
     "keywords": [
       {
         "keyword": "hệ thống",
@@ -31588,6 +32277,7 @@
   {
     "job_id": "job-690",
     "job_title": "Giám Sát Sales Admin",
+    "company": "Cong Ty Co Phan Thuong Mai Bia Sai Gon Song Tien",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -31634,6 +32324,7 @@
   {
     "job_id": "job-691",
     "job_title": "Nhân viên tiêu chuẩn - Phòng tiêu chuẩn",
+    "company": "Cong Ty Co Phan Dich Vu Moi Truong Mekong Xanh",
     "keywords": [
       {
         "keyword": "tiêu chuẩn",
@@ -31680,6 +32371,7 @@
   {
     "job_id": "job-692",
     "job_title": "TRƯỞNG NHÓM SALE - MARKETING ONLINE (Ngành Nông nghiệp)",
+    "company": "Cong Ty Tnhh Xnk Vina Agri Group",
     "keywords": [
       {
         "keyword": "online",
@@ -31726,6 +32418,7 @@
   {
     "job_id": "job-693",
     "job_title": "Nhân viên giao hàng siêu thị tại Cần Thơ",
+    "company": "Cong Ty Tnhh M Bike Ship",
     "keywords": [
       {
         "keyword": "tài xế",
@@ -31772,6 +32465,7 @@
   {
     "job_id": "job-694",
     "job_title": "TRƯỞNG PHÒNG KỸ THUẬT",
+    "company": "Cty Tnhh Redpower Vietnam",
     "keywords": [
       {
         "keyword": "kỹ thuật",
@@ -31818,6 +32512,7 @@
   {
     "job_id": "job-695",
     "job_title": "NHÂN VIÊN KỸ THUẬT NÔNG NGHIỆP",
+    "company": "Cong Ty Tnhh Tmdv Viet Phat",
     "keywords": [
       {
         "keyword": "thị trường",
@@ -31864,6 +32559,7 @@
   {
     "job_id": "job-696",
     "job_title": "NHÂN VIÊN PHÁT TRIỂN THỊ TRƯỜNG (KHU VỰC TÂY NGUYÊN VÀ BẮC MIỀN TRUNG - TỪ HUẾ ĐẾN NGHỆ AN)",
+    "company": "Cong Ty Tnhh Thuoc Thu Y A Chau",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -31910,6 +32606,7 @@
   {
     "job_id": "job-697",
     "job_title": "Hành Chính Nhân Sự",
+    "company": "Cong Ty Tnhh Mtv Tinh Than Nhat Ban Japan Spirit",
     "keywords": [
       {
         "keyword": "theo dõi",
@@ -31956,6 +32653,7 @@
   {
     "job_id": "job-698",
     "job_title": "Nhân viên kế toán bán hàng",
+    "company": "Cong Ty Tnhh Che Bien Dua Sap Cau Ke Vicosap",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -32002,6 +32700,7 @@
   {
     "job_id": "job-699",
     "job_title": "Kỹ Sư Xây Dựng",
+    "company": "Cong Ty Tnhh Tu Van Xay Dung Thuong Mai Dich Vu Thien Quoc",
     "keywords": [
       {
         "keyword": "tuổi",
@@ -32048,6 +32747,7 @@
   {
     "job_id": "job-700",
     "job_title": "Nhân viên bảo trì cơ khí",
+    "company": "Cong Ty Co Phan Xay Lap Va Vat Lieu Xay Dung Cat Tuong",
     "keywords": [
       {
         "keyword": "thiết bị",
@@ -32094,6 +32794,7 @@
   {
     "job_id": "job-701",
     "job_title": "Nhân viên kinh doanh",
+    "company": "Cong Ty Tnhh Thuong Mai Dich Vu Hkb",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -32140,6 +32841,7 @@
   {
     "job_id": "job-702",
     "job_title": "NHÂN VIÊN TƯ VẤN BÁN HÀNG (HÃNG XE FOTON QUỐC VIỆT)",
+    "company": "Cong Ty Co Phan O To Quoc Viet",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -32186,6 +32888,7 @@
   {
     "job_id": "job-703",
     "job_title": "Tuyển gấp Đại diện bán hàng khu vực Vĩnh Long (Ngành dầu, nhớt) (nhân bản)",
+    "company": "Cong Ty Co Phan Hoa Dau Vinh Phuc",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -32232,6 +32935,7 @@
   {
     "job_id": "job-704",
     "job_title": "TƯ VẤN VIÊN BÁN HÀNG LIVESTREAM PART TIME",
+    "company": "Cong Ty Tnhh Xnk Vina Agri Group",
     "keywords": [
       {
         "keyword": "livestream",
@@ -32278,6 +32982,7 @@
   {
     "job_id": "job-705",
     "job_title": "Le Fruit - KỸ SƯ NÔNG NGHIỆP (SL: 02, nam)",
+    "company": "Cong Ty Co Phan Vuon Trai Cuu Long Les Vergers Du Mekong",
     "keywords": [
       {
         "keyword": "nông nghiệp",
@@ -32324,6 +33029,7 @@
   {
     "job_id": "job-706",
     "job_title": "Kế Toán Nội Bộ - An Giang",
+    "company": "May Anh Viet Nam",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -32370,6 +33076,7 @@
   {
     "job_id": "job-707",
     "job_title": "Project Manager",
+    "company": "Beyondedge",
     "keywords": [
       {
         "keyword": "project",
@@ -32416,6 +33123,7 @@
   {
     "job_id": "job-708",
     "job_title": "Nhân viên Thu mua (Source), hàng đông lạnh xuất khẩu: Cá tra, Tôm, Thủy Hải Sản – Nông Sản, Trái Cây",
+    "company": "Cong Ty Tnhh Dong Phuong Viet Nam",
     "keywords": [
       {
         "keyword": "mua hàng",
@@ -32462,6 +33170,7 @@
   {
     "job_id": "job-709",
     "job_title": "Tốt nghiệp Trung Học Phổ Thông",
+    "company": "Hop Tac Xa Kim Hung",
     "keywords": [
       {
         "keyword": "hướng dẫn",
@@ -32492,6 +33201,7 @@
   {
     "job_id": "job-710",
     "job_title": "Nhân viên Kỹ thuật Hiện trường & Chuyển giao Công nghệ TOMGOXY",
+    "company": "Cong Ty Co Phan My Lan",
     "keywords": [
       {
         "keyword": "kỹ thuật",
@@ -32538,6 +33248,7 @@
   {
     "job_id": "job-711",
     "job_title": "Nhân Viên QC (02 Nam)",
+    "company": "Cong Ty Co Phan Cong Nghe Nano Bsb",
     "keywords": [
       {
         "keyword": "khi",
@@ -32584,6 +33295,7 @@
   {
     "job_id": "job-712",
     "job_title": "KẾ TOÁN TỔNG HỢP TẠI SÓC TRĂNG LƯƠNG 7-10TR (ĐI LÀM NGAY)",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Hoang Phat",
     "keywords": [
       {
         "keyword": "báo cáo",
@@ -32630,6 +33342,7 @@
   {
     "job_id": "job-713",
     "job_title": "QUẢN LÝ, GIÁM SÁT VỰA HẢI SẢN",
+    "company": "Cong Ty Trach Nhiem Huu Han Shk",
     "keywords": [
       {
         "keyword": "hải sản",
@@ -32676,6 +33389,7 @@
   {
     "job_id": "job-714",
     "job_title": "PHÓ TỔNG KINH DOANH - TIẾP THỊ (40tr~50tr)",
+    "company": "Cong Ty Co Phan Cara Group",
     "keywords": [
       {
         "keyword": "thị trường",
@@ -32722,6 +33436,7 @@
   {
     "job_id": "job-715",
     "job_title": "TUYỂN DỤNG NHÂN VIÊN MARKETING",
+    "company": "Sda Tech",
     "keywords": [
       {
         "keyword": "marketing",
@@ -32768,6 +33483,7 @@
   {
     "job_id": "job-716",
     "job_title": "NHÂN VIÊN MARKETING",
+    "company": "Cong Ty Tnhh Mtv Tu Van Xay Dung Vinh Linh",
     "keywords": [
       {
         "keyword": "marketing",
@@ -32814,6 +33530,7 @@
   {
     "job_id": "job-717",
     "job_title": "Nhân viên Dự án",
+    "company": "Cong Ty Co Phan Xhome Can Tho",
     "keywords": [
       {
         "keyword": "dự án",
@@ -32860,6 +33577,7 @@
   {
     "job_id": "job-718",
     "job_title": "Nhân viên kỹ thuật",
+    "company": "Cong Ty Tnhh Thuong Mai Va Phat Trien Cong Nghe Tnf Viet Nam",
     "keywords": [
       {
         "keyword": "nâng",
@@ -32906,6 +33624,7 @@
   {
     "job_id": "job-719",
     "job_title": "Nhân viên",
+    "company": "Cong Ty Co Phan Tmdv Song Bang Giang",
     "keywords": [
       {
         "keyword": "lễ tân",
@@ -32952,6 +33671,7 @@
   {
     "job_id": "job-720",
     "job_title": "Bảo Vệ (01 Nam)",
+    "company": "Dich Vu An Uong Cam Thi",
     "keywords": [
       {
         "keyword": "buổi",
@@ -32994,6 +33714,7 @@
   {
     "job_id": "job-721",
     "job_title": "TÀI XẾ",
+    "company": "Cong Ty Tnhh Cong Nghe Thiet Bi Giao Duc Song Phuong",
     "keywords": [
       {
         "keyword": "lái xe",
@@ -33040,6 +33761,7 @@
   {
     "job_id": "job-722",
     "job_title": "Sale Admin (Tuyển Nữ)",
+    "company": "Cong Ty Tnhh Tmdv Y Nam Phat",
     "keywords": [
       {
         "keyword": "hàng",
@@ -33086,6 +33808,7 @@
   {
     "job_id": "job-723",
     "job_title": "KẾ TOÁN TỔNG HỢP",
+    "company": "Vinfast Quoc Viet Can Tho",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -33132,6 +33855,7 @@
   {
     "job_id": "job-724",
     "job_title": "Nhân viên cơ điện",
+    "company": "Cong Ty Co Phan Xay Lap Va Vat Lieu Xay Dung Cat Tuong",
     "keywords": [
       {
         "keyword": "hệ thống điện",
@@ -33178,6 +33902,7 @@
   {
     "job_id": "job-725",
     "job_title": "Nhân viên Kinh doanh thị trường",
+    "company": "Cong Ty Tnhh Xay Dung Cong Nghe Moi Truong Nano",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -33224,6 +33949,7 @@
   {
     "job_id": "job-726",
     "job_title": "Kiên Giang - Nhân viên vận hành",
+    "company": "Cong Ty Co Phan Nha Trang Seafood",
     "keywords": [
       {
         "keyword": "vận hành",
@@ -33270,6 +33996,7 @@
   {
     "job_id": "job-727",
     "job_title": "Nhân viên digital marketing",
+    "company": "Cong Ty Co Phan Thoi Trang Eros Viet Nam",
     "keywords": [
       {
         "keyword": "tuổi",
@@ -33316,6 +34043,7 @@
   {
     "job_id": "job-728",
     "job_title": "Nhân viên Bán hàng",
+    "company": "Manh Cuong Mobile Can Tho",
     "keywords": [
       {
         "keyword": "khách",
@@ -33362,6 +34090,7 @@
   {
     "job_id": "job-729",
     "job_title": "CHUYÊN VIÊN TÀI CHÍNH – DỰ ÁN (HOẠCH ĐỊNH NGÂN SÁCH & ERP)",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "tài chính",
@@ -33408,6 +34137,7 @@
   {
     "job_id": "job-730",
     "job_title": "tài xế bằng C",
+    "company": "Kamaz Can Tho",
     "keywords": [
       {
         "keyword": "chạy",
@@ -33454,6 +34184,7 @@
   {
     "job_id": "job-731",
     "job_title": "Nhân viên Livestream Dược Phẩm - TMDT",
+    "company": "Cong Ty Tnhh Duoc Pham Cong Nghe Cao Amexpharm",
     "keywords": [
       {
         "keyword": "livestream",
@@ -33500,6 +34231,7 @@
   {
     "job_id": "job-732",
     "job_title": "Nhân viên Sales Admin",
+    "company": "Lop O To Nhap Khau Gia Kho Cn Can Tho",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -33546,6 +34278,7 @@
   {
     "job_id": "job-733",
     "job_title": "BẢO TRÌ MÁY",
+    "company": "Cong Ty Tnhh Dich Vu Va Thuong Mai Giap Quan Thang",
     "keywords": [
       {
         "keyword": "sữa",
@@ -33592,6 +34325,7 @@
   {
     "job_id": "job-734",
     "job_title": "Thực Tập Sinh Marketing Content - Media (Có Lương)",
+    "company": "Trung Tam Ngoai Ngu Va Du Hoc Han Quoc Yejin",
     "keywords": [
       {
         "keyword": "marketing",
@@ -33638,6 +34372,7 @@
   {
     "job_id": "job-735",
     "job_title": "Chuyên viên Đào tạo",
+    "company": "Truong Trung Cap Hong Ha Thanh Pho Can Tho",
     "keywords": [
       {
         "keyword": "đào tạo",
@@ -33684,6 +34419,7 @@
   {
     "job_id": "job-736",
     "job_title": "CHUYÊN VIÊN PHÒNG QUẢN LÝ CHẤT LƯỢNG",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "bệnh viện",
@@ -33730,6 +34466,7 @@
   {
     "job_id": "job-737",
     "job_title": "Nhân Viên Nghiên Cứu Hóa Học/ Sinh Học",
+    "company": "Cong Ty Co Phan My Lan",
     "keywords": [
       {
         "keyword": "nghiên cứu",
@@ -33776,6 +34513,7 @@
   {
     "job_id": "job-738",
     "job_title": "CHUYÊN VIÊN MARKETING",
+    "company": "Cong Ty Trach Nhiem Huu Han Shk",
     "keywords": [
       {
         "keyword": "sản phẩm",
@@ -33822,6 +34560,7 @@
   {
     "job_id": "job-739",
     "job_title": "Kỹ thuật cơ khí/điện bảo trì",
+    "company": "Cong Ty Tnhh Che Bien Phu Pham Thuy San Honoroad Viet Nam",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -33868,6 +34607,7 @@
   {
     "job_id": "job-740",
     "job_title": "Vận hành tinh luyện dầu",
+    "company": "Cong Ty Tnhh Dau Gao Sethia Hemraj",
     "keywords": [
       {
         "keyword": "hệ thống",
@@ -33914,6 +34654,7 @@
   {
     "job_id": "job-741",
     "job_title": "KẾ TOÁN TỔNG HỢP",
+    "company": "Cong Ty Tnhh Nhua Mma",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -33960,6 +34701,7 @@
   {
     "job_id": "job-742",
     "job_title": "Trợ Giảng Âm Nhạc",
+    "company": "Vibe Academy Cinema",
     "keywords": [
       {
         "keyword": "cuộc họp",
@@ -34006,6 +34748,7 @@
   {
     "job_id": "job-743",
     "job_title": "Cộng tác viên CSKH Bạn Uống Tôi Lái",
+    "company": "Cong Ty Cpdv Van Tai Xanh Butl",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -34052,6 +34795,7 @@
   {
     "job_id": "job-744",
     "job_title": "BÁC SĨ DA LIỄU",
+    "company": "Cong Ty Cp Center Lab Viet Nam Trung Tam Chan Doan Y Khoa",
     "keywords": [
       {
         "keyword": "người bệnh",
@@ -34098,6 +34842,7 @@
   {
     "job_id": "job-745",
     "job_title": "Nhân viên kinh doanh",
+    "company": "Cty Cp Ung Dung Sinh Hoc An Thinh Phat",
     "keywords": [
       {
         "keyword": "khu vực",
@@ -34144,6 +34889,7 @@
   {
     "job_id": "job-746",
     "job_title": "Trợ Lý Quản Lý Khu Vực",
+    "company": "Cong Ty Co Phan Thuong Mai Bia Sai Gon Song Tien",
     "keywords": [
       {
         "keyword": "bán hàng",
@@ -34190,6 +34936,7 @@
   {
     "job_id": "job-747",
     "job_title": "Nhân viên Hành chính (làm việc tại Phụng Hiệp)",
+    "company": "Cong Ty Co Phan Hanh Nguyen Logistics",
     "keywords": [
       {
         "keyword": "công tác vệ sinh",
@@ -34236,6 +34983,7 @@
   {
     "job_id": "job-748",
     "job_title": "Nhân Viên Kinh Doanh",
+    "company": "Cong Ty Tnhh Mtv Hp",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -34282,6 +35030,7 @@
   {
     "job_id": "job-749",
     "job_title": "NHÂN VIÊN HỖ TRỢ LIVESTREAM PART TIME",
+    "company": "Cong Ty Tnhh Xnk Vina Agri Group",
     "keywords": [
       {
         "keyword": "livestream",
@@ -34328,6 +35077,7 @@
   {
     "job_id": "job-750",
     "job_title": "Nhân Viên Kinh Doanh",
+    "company": "Hoa Huong Duong",
     "keywords": [
       {
         "keyword": "hàng",
@@ -34374,6 +35124,7 @@
   {
     "job_id": "job-751",
     "job_title": "NHÂN VIÊN TƯ VẤN KHÓA HỌC",
+    "company": "Cong Ty Tnhh Dich Vu Giao Duc Dai Thanh",
     "keywords": [
       {
         "keyword": "học viên",
@@ -34420,6 +35171,7 @@
   {
     "job_id": "job-752",
     "job_title": "Nam Nhân Viên QC / KCS / Kiểm Tra Chất Lượng",
+    "company": "Cong Ty Tnhh Nhua Mma",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -34466,6 +35218,7 @@
   {
     "job_id": "job-753",
     "job_title": "Quản Lí Vùng",
+    "company": "Cong Ty Tnhh Mtv Nauy",
     "keywords": [
       {
         "keyword": "kinh doanh",
@@ -34512,6 +35265,7 @@
   {
     "job_id": "job-754",
     "job_title": "KẾ TOÁN THANH TOÁN, VĂN PHÒNG",
+    "company": "Cong Ty Co Phan Kien Truc Nhip Dieu Xanh",
     "keywords": [
       {
         "keyword": "trao đổi",
@@ -34558,6 +35312,7 @@
   {
     "job_id": "job-755",
     "job_title": "CHUYÊN VIÊN THIẾT KẾ CÓ KINH NGHIỆM",
+    "company": "Truong Cao Dang Tay Do",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -34604,6 +35359,7 @@
   {
     "job_id": "job-756",
     "job_title": "Nhân viên Chăm sóc khách hàng",
+    "company": "Cong Ty Tnhh Tu Van Dich Vu Dai Phat Thinh",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -34650,6 +35406,7 @@
   {
     "job_id": "job-757",
     "job_title": "Nhân viên rửa chén - phụ bếp",
+    "company": "Cong Ty Tnhh Phan Huynh Food",
     "keywords": [
       {
         "keyword": "rửa",
@@ -34696,6 +35453,7 @@
   {
     "job_id": "job-758",
     "job_title": "[Tuyển dụng] Giáo viên Robotics_Trường tiểu học, THCS, THPT FPT Sóc Trăng",
+    "company": "Khoi Giao Duc Fpt Can Tho",
     "keywords": [
       {
         "keyword": "sư phạm",
@@ -34742,6 +35500,7 @@
   {
     "job_id": "job-759",
     "job_title": "Công nhân QC",
+    "company": "Cong Ty Cp Khuon Chinh Xac Minh Dat",
     "keywords": [
       {
         "keyword": "kiểm tra",
@@ -34788,6 +35547,7 @@
   {
     "job_id": "job-760",
     "job_title": "Nhân viên Bán hàng tại cửa hàng (Tuyển nữ)",
+    "company": "Cong Ty Tnhh Tmdv Y Nam Phat",
     "keywords": [
       {
         "keyword": "hàng",
@@ -34834,6 +35594,7 @@
   {
     "job_id": "job-761",
     "job_title": "TUYỂN DỤNG NHÂN VIÊN KINH DOANH TẠI THỐT NỐT",
+    "company": "Cong Ty Tnhh Dang Cap Dong Bang Song Cuu Long",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -34880,6 +35641,7 @@
   {
     "job_id": "job-762",
     "job_title": "NHÂN VIÊN KẾ TOÁN",
+    "company": "Cty Tnhh Unipax Vi Thanh",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -34926,6 +35688,7 @@
   {
     "job_id": "job-763",
     "job_title": "PERFORMANCE MARKETING & F&B GROWTH HACKER INTERN (FULL-TIME)",
+    "company": "Hopper Global Holdings",
     "keywords": [
       {
         "keyword": "bạn",
@@ -34972,6 +35735,7 @@
   {
     "job_id": "job-764",
     "job_title": "nhân viên /Thợ phụ",
+    "company": "Cong Xuong Cnc Viet Nam",
     "keywords": [
       {
         "keyword": "laser",
@@ -35018,6 +35782,7 @@
   {
     "job_id": "job-765",
     "job_title": "BÁC SĨ NGOẠI THẦN KINH",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "bệnh",
@@ -35064,6 +35829,7 @@
   {
     "job_id": "job-766",
     "job_title": "Kế toán Mua hàng",
+    "company": "Cong Ty Tnhh Nong Nghiep Thien Loc Thang",
     "keywords": [
       {
         "keyword": "mua hàng",
@@ -35110,6 +35876,7 @@
   {
     "job_id": "job-767",
     "job_title": "Kế Toán Nội Bộ",
+    "company": "Cong Ty Tnhh Do Sang Tao",
     "keywords": [
       {
         "keyword": "kế toán",
@@ -35156,6 +35923,7 @@
   {
     "job_id": "job-768",
     "job_title": "[CÀ MAU] GHN TUYỂN NHÂN VIÊN GIAO HÀNG",
+    "company": "Cong Ty Co Phan Dich Vu Giao Hang Nhanh",
     "keywords": [
       {
         "keyword": "000",
@@ -35202,6 +35970,7 @@
   {
     "job_id": "job-769",
     "job_title": "Nhân viên kho (Tuyển Nam)",
+    "company": "Cong Ty Tnhh Tmdv Y Nam Phat",
     "keywords": [
       {
         "keyword": "hàng",
@@ -35248,6 +36017,7 @@
   {
     "job_id": "job-770",
     "job_title": "TRADE MARKETING",
+    "company": "Cong Ty Tnhh Trung Son Alpha",
     "keywords": [
       {
         "keyword": "quản lý",
@@ -35294,6 +36064,7 @@
   {
     "job_id": "job-771",
     "job_title": "Nhân viên Hành chính Nhân sự",
+    "company": "Cong Ty Tnhh Victoria Can Tho",
     "keywords": [
       {
         "keyword": "tất cả",
@@ -35340,6 +36111,7 @@
   {
     "job_id": "job-772",
     "job_title": "Giáo viên Tiếng Anh IELTS/ Tiếng Hàn/Tiếng Trung/Tiếng Nhật",
+    "company": "Cong Ty Tnhh Nw",
     "keywords": [
       {
         "keyword": "đào tạo",
@@ -35386,6 +36158,7 @@
   {
     "job_id": "job-773",
     "job_title": "Nhân viên tạp vụ",
+    "company": "Cong Ty Tnhh Tm Dv Khach San 101",
     "keywords": [
       {
         "keyword": "phòng",
@@ -35432,6 +36205,7 @@
   {
     "job_id": "job-774",
     "job_title": "TƯ VẤN DỊCH VỤ KHÁCH HÀNG",
+    "company": "Cong Ty Tnhh Tin Hoc Vecha",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -35478,6 +36252,7 @@
   {
     "job_id": "job-775",
     "job_title": "NHÂN VIÊN KINH DOANH CÁC GIẢI PHÁP CHUYỂN ĐỔI SỐ",
+    "company": "Cong Ty Co Phan Giai Phap Mita",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -35524,6 +36299,7 @@
   {
     "job_id": "job-776",
     "job_title": "Giám sát Xưởng",
+    "company": "Lumos Bakery Joy",
     "keywords": [
       {
         "keyword": "xưởng",
@@ -35570,6 +36346,7 @@
   {
     "job_id": "job-777",
     "job_title": "CHUYÊN VIÊN DUYỆT NHÃN",
+    "company": "Cong Ty Tnhh Thuoc Thu Y A Chau",
     "keywords": [
       {
         "keyword": "sản phẩm",
@@ -35616,6 +36393,7 @@
   {
     "job_id": "job-778",
     "job_title": "Tiền Trưởng nhóm",
+    "company": "Tong Cty Bao Viet Nhan Tho Trung Tam Kinh Doanh Tay Do 1",
     "keywords": [
       {
         "keyword": "nhóm",
@@ -35662,6 +36440,7 @@
   {
     "job_id": "job-779",
     "job_title": "[Rạch Giá - Kiên Giang] Nhân Viên Kỹ Thuật Bảo Hành (Thiết Bị, Máy Móc)",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Phat Trien Dong Duong Tap Doan The Thao Kingsport",
     "keywords": [
       {
         "keyword": "sản phẩm",
@@ -35708,6 +36487,7 @@
   {
     "job_id": "job-780",
     "job_title": "Trưởng Nhóm Quản Lý Chất Lượng",
+    "company": "J T Express Can Tho",
     "keywords": [
       {
         "keyword": "chất lượng",
@@ -35754,6 +36534,7 @@
   {
     "job_id": "job-781",
     "job_title": "Nhân viên Designer & Editor - An Giang",
+    "company": "May Anh Viet Nam",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -35800,6 +36581,7 @@
   {
     "job_id": "job-782",
     "job_title": "Kiến Trúc Sư",
+    "company": "Kien Truc Xay Dung Rh",
     "keywords": [
       {
         "keyword": "thiết kế",
@@ -35846,6 +36628,7 @@
   {
     "job_id": "job-783",
     "job_title": "Giáo Viên Tiếng Hàn",
+    "company": "Du Hoc Quoc Te Tran Quang Cs Can Tho",
     "keywords": [
       {
         "keyword": "tiếng hàn",
@@ -35892,6 +36675,7 @@
   {
     "job_id": "job-784",
     "job_title": "Nhân Viên Kinh Doanh Xuất Nhập Khẩu (Gấp)",
+    "company": "Cong Ty Tnhh Mot Thanh Vien Hung Phuc",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -35938,6 +36722,7 @@
   {
     "job_id": "job-785",
     "job_title": "[Long An] Phó phòng Nhân sự",
+    "company": "Cong Ty Co Phan Dau Tu Phat Trien Golf Long An",
     "keywords": [
       {
         "keyword": "nhân sự",
@@ -35984,6 +36769,7 @@
   {
     "job_id": "job-786",
     "job_title": "PHIÊN DỊCH TIẾNG TRUNG",
+    "company": "Cong Ty Tnhh Dich Vu Va Thuong Mai Giap Quan Thang",
     "keywords": [
       {
         "keyword": "sản xuất",
@@ -36030,6 +36816,7 @@
   {
     "job_id": "job-787",
     "job_title": "Công Nhân Chiết Rót",
+    "company": "Cong Ty Tnhh Cong Nghe My Pham Va Duoc Pham Tu Nhien Dannygreen",
     "keywords": [
       {
         "keyword": "đúng quy trình",
@@ -36076,6 +36863,7 @@
   {
     "job_id": "job-788",
     "job_title": "TRƯỞNG KHOA KIỂM SOÁT NHIỄM KHUẨN",
+    "company": "Benh Vien Da Khoa Quoc Te S I S Can Tho Chi Nhanh Cong Ty Co Phan Dau Tu Y Te Viet Cuong",
     "keywords": [
       {
         "keyword": "ksnk",
@@ -36122,6 +36910,7 @@
   {
     "job_id": "job-789",
     "job_title": "Nhân viên bán thời gian ngành điện - điện tử",
+    "company": "Cong Ty Tnhh Mtv Giai Phap Cong Nghe Trung Hau",
     "keywords": [
       {
         "keyword": "ngày",
@@ -36168,6 +36957,7 @@
   {
     "job_id": "job-790",
     "job_title": "Tài Xế",
+    "company": "Cong Ty Co Phan Chung Nhan Va Giam Dinh Mien Dong Viet Nam",
     "keywords": [
       {
         "keyword": "lái xe",
@@ -36214,6 +37004,7 @@
   {
     "job_id": "job-791",
     "job_title": "Nhân viên hành chính nhân sự",
+    "company": "Cong Ty Tnhh Giai Phap Truyen Thong At Media",
     "keywords": [
       {
         "keyword": "nhân sự",
@@ -36260,6 +37051,7 @@
   {
     "job_id": "job-792",
     "job_title": "KỸ SƯ ĐIỆN NƯỚC",
+    "company": "Cong Ty Co Phan Kien Truc Nhip Dieu Xanh",
     "keywords": [
       {
         "keyword": "ưu tiên",
@@ -36306,6 +37098,7 @@
   {
     "job_id": "job-793",
     "job_title": "Kế Toán Tổng Hợp",
+    "company": "Cong Ty Co Phan Xay Lap Va Dich Vu Hung Hung Dat",
     "keywords": [
       {
         "keyword": "thuế",
@@ -36352,6 +37145,7 @@
   {
     "job_id": "job-794",
     "job_title": "Lái Xe Văn Phòng",
+    "company": "Cong Ty Co Phan Sadico Can Tho",
     "keywords": [
       {
         "keyword": "nhiệm vụ",
@@ -36398,6 +37192,7 @@
   {
     "job_id": "job-795",
     "job_title": "Phó Giám đốc Pháp Lý Dự Án",
+    "company": "Cong Ty Co Phan Cara Group",
     "keywords": [
       {
         "keyword": "dự án",
@@ -36444,6 +37239,7 @@
   {
     "job_id": "job-796",
     "job_title": "Nhân viên KT tại TP Bạc Liêu",
+    "company": "Cong Ty Cp Dt Tm Sx Mekong Export",
     "keywords": [
       {
         "keyword": "trên",
@@ -36490,6 +37286,7 @@
   {
     "job_id": "job-797",
     "job_title": "KẾ TOÁN NỘI BỘ - LÀM VIỆC TẠI HCM",
+    "company": "Cong Ty Tnhh Xuat Nhap Khau Ph Aesthetics",
     "keywords": [
       {
         "keyword": "báo cáo",
@@ -36536,6 +37333,7 @@
   {
     "job_id": "job-798",
     "job_title": "Nhân Viên Kinh Doanh Bất Động Sản",
+    "company": "Cong Ty Co Phan Dau Tu Dia Oc New World Land",
     "keywords": [
       {
         "keyword": "khách hàng",
@@ -36582,6 +37380,7 @@
   {
     "job_id": "job-799",
     "job_title": "[CHÂU PHÚ - AN GIANG] Nhân Viên SALE MARKETING",
+    "company": "Cong Ty Cp Ung Dung Cong Nghe Xanh Viet Nam Chi Nhanh Can Tho",
     "keywords": [
       {
         "keyword": "livestream",
